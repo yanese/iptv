@@ -1,0 +1,90 @@
+﻿#EXTM3U url-tvg="http://gtnsys.iptime.org:9978/xmltv.xml" refresh="3600"
+
+#EXTINF:-1,SBS CNBC
+http://soju6jan.iptime.org:9999/klive/url?mode=url&type=SBS&id=S06
+#EXTINF:-1,소상공인방송
+#EXTINF:-1,한국직업방송
+#EXTINF:-1,복지TV
+#EXTINF:-1,법률방송
+#EXTINF:-1,채널i
+#EXTINF:-1,소비자TV
+#EXTINF:-1,환경TV
+
+#EXTINF:-1,머니투데이방송
+http://soju6jan.iptime.org:9999/klive/url?mode=url&type=OKSUSU&id=627
+#EXTINF:-1,아시아경제TV
+http://soju6jan.iptime.org:9999/klive/url?mode=url&type=OKSUSU&id=622
+#EXTINF:-1,한국경제TV
+http://soju6jan.iptime.org:9999/klive/url?mode=url&type=OLLEH&id=408
+#EXTINF:-1,이데일리TV
+#EXTINF:-1,매일경제TV
+#EXTINF:-1,서울경제TV
+#EXTINF:-1,토마토TV
+http://soju6jan.iptime.org:9999/klive/url?mode=url&type=OLLEH&id=226
+#EXTINF:-1,내외경제TV
+#EXTINF:-1,부동산토마토
+
+
+#EXTINF:-1,CBS
+http://59.19.15.149:9981/stream/channelid/415216433
+#EXTINF:-1,CTS기독교TV
+http://59.19.15.149:9981/stream/channelid/1378359532
+#EXTINF:-1,CGNTV
+http://59.19.15.149:9981/stream/channelid/550320629
+#EXTINF:-1,C channel
+http://59.19.15.149:9981/stream/channelid/382660015
+#EXTINF:-1,Good TV
+http://59.19.15.149:9981/stream/channelid/1475057686
+#EXTINF:-1,가톨릭평화방송
+http://59.19.15.149:9981/stream/channelid/2094304940
+#EXTINF:-1,CMTV
+#EXTINF:-1,BTN불교TV
+http://59.19.15.149:9981/stream/channelid/742808566
+#EXTINF:-1,BBS 불교방송
+http://59.19.15.149:9981/stream/channelid/1813786634
+#EXTINF:-1,WBS원음방송
+#EXTINF:-1,STB상생방송
+
+
+#EXTINF:-1,SK stoa
+http://59.19.15.149:9981/stream/channelid/585531595
+#EXTINF:-1,CJ오쇼핑
+http://59.19.15.149:9981/stream/channelid/1046162228
+#EXTINF:-1,CJ오쇼핑 플러스
+http://59.19.15.149:9981/stream/channelid/805358706
+#EXTINF:-1,GS MY SHOP
+http://59.19.15.149:9981/stream/channelid/1644195034
+#EXTINF:-1,GS SHOP
+http://59.19.15.149:9981/stream/channelid/1714518644
+#EXTINF:-1,K쇼핑
+http://59.19.15.149:9981/stream/channelid/177637922
+#EXTINF:-1,NS홈쇼핑
+http://59.19.15.149:9981/stream/channelid/744306156
+#EXTINF:-1,NS Shop+
+http://59.19.15.149:9981/stream/channelid/2069853562
+#EXTINF:-1,W 쇼핑
+http://59.19.15.149:9981/stream/channelid/719044982
+#EXTINF:-1,롯데원티비
+http://59.19.15.149:9981/stream/channelid/1442889269
+#EXTINF:-1,롯데홈쇼핑
+http://59.19.15.149:9981/stream/channelid/32913262
+#EXTINF:-1,쇼핑엔T
+http://59.19.15.149:9981/stream/channelid/1726750384
+#EXTINF:-1,신세계쇼핑
+http://59.19.15.149:9981/stream/channelid/589925143
+#EXTINF:-1,아임쇼핑
+http://59.19.15.149:9981/stream/channelid/283286987
+#EXTINF:-1,현대홈쇼핑
+http://59.19.15.149:9981/stream/channelid/121601489
+#EXTINF:-1,현대홈쇼핑+샵
+http://59.19.15.149:9981/stream/channelid/1017848902
+#EXTINF:-1,홈&쇼핑
+http://59.19.15.149:9981/stream/channelid/2045557236
+
+
+#EXTINF:-1,Playboy TV
+http://116.45.184.224:9981/stream/channelid/546244481
+#EXTINF:-1,viki
+http://116.45.184.224:9981/stream/channelid/337044103
+#EXTINF:-1,허니TV
+http://116.45.184.224:9981/stream/channelid/776466946
