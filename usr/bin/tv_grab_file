@@ -1,0 +1,19 @@
+#!/bin/sh
+
+if [ "x$1" = "x" ]; then
+         cd /home/epg2xml
+         /usr/bin/php epg2xml.php
+    exit 0
+fi
+
+case "$1" in
+    --description)
+    echo "My Custom PHP"
+    ;;
+    --version)
+    echo "1.1"
+    ;;
+    --capabilities)
+    echo "baseline"
+    ;;
+esac
