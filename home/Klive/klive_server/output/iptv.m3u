@@ -160,7 +160,6 @@ http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=699
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=371
 #EXTINF:-1 tvg-id="OLLEH|426" tvg-name="OLLEH|애니원티비",애니원
 #EXTINF:-1,애니박스
-http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=703
 #EXTINF:-1,대교 어린이TV
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=374
 #EXTINF:-1 tvg-id="OKSUSU|378" tvg-name="OKSUSU|JEI 재능TV",JEI 재능TV
