@@ -1,0 +1,19 @@
+#!/bin/sh
+
+if [ "x$1" = "x" ]; then
+     wget -q -O ~/klive.xml https://soju6jan.github.io/klive.xml
+     cat ~/klive.xml
+    exit 0
+fi
+
+case "$1" in
+    --description)
+    echo "KLIVE EPG GRABBER"
+    ;;
+    --version)
+    echo "1.0"
+    ;;
+    --capabilities)
+    echo "baseline"
+    ;;
+esac

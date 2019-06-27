@@ -1,0 +1,11 @@
+[Unit]
+Description=KLive Server
+
+[Service]
+Environment=
+WorkingDirectory=/home/Klive/klive_server/
+ExecStart=/home/Klive/klive_server/venv/bin/python /home/Klive/klive_server/kliveProxy.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

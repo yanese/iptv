@@ -1,0 +1,1239 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KBS|11" tvg-name="KBS|1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237809933_114600.png" group-title="KBS",1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=11
+#EXTINF:-1 tvg-id="KBS|12" tvg-name="KBS|2TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237810007_114611.png" group-title="KBS",2TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=12
+#EXTINF:-1 tvg-id="KBS|14" tvg-name="KBS|KBS WORLD" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738290399_70027.png" group-title="KBS",KBS WORLD
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=14
+#EXTINF:-1 tvg-id="KBS|81" tvg-name="KBS|KBS24" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738325143_70038.png" group-title="KBS",KBS24
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=81
+#EXTINF:-1 tvg-id="KBS|N91" tvg-name="KBS|KBSN 드라마" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393154_70050.png" group-title="KBS",KBSN 드라마
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N91
+#EXTINF:-1 tvg-id="KBS|N92" tvg-name="KBS|KBSN 조이" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393212_70061.png" group-title="KBS",KBSN 조이
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N92
+#EXTINF:-1 tvg-id="KBS|N94" tvg-name="KBS|KBSN W" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393255_70072.png" group-title="KBS",KBSN W
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N94
+#EXTINF:-1 tvg-id="KBS|N93" tvg-name="KBS|KBSN Life" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393311_70083.png" group-title="KBS",KBSN Life
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N93
+#EXTINF:-1 tvg-id="KBS|N96" tvg-name="KBS|KBSN KIDS" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393376_70094.png" group-title="KBS",KBSN KIDS
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N96
+#EXTINF:-1 tvg-id="KBS|21" tvg-name="KBS|1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738651015_70210.png" group-title="RADIO1" radio="true",1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=21
+#EXTINF:-1 tvg-id="KBS|22" tvg-name="KBS|2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738651113_70221.png" group-title="RADIO1" radio="true",2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=22
+#EXTINF:-1 tvg-id="KBS|23" tvg-name="KBS|3라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738651184_70232.png" group-title="RADIO1" radio="true",3라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=23
+#EXTINF:-1 tvg-id="KBS|24" tvg-name="KBS|1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738651266_70243.png" group-title="RADIO1" radio="true",1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=24
+#EXTINF:-1 tvg-id="KBS|25" tvg-name="KBS|2FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738651354_70254.png" group-title="RADIO1" radio="true",2FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=25
+#EXTINF:-1 tvg-id="KBS|I26" tvg-name="KBS|사회교육1" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/8/2/1533183629657_93104.png" group-title="RADIO1" radio="true",사회교육1
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=I26
+#EXTINF:-1 tvg-id="KBS|I92" tvg-name="KBS|KBS World Radio" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/8/2/1533183661770_93115.png" group-title="RADIO1" radio="true",KBS World Radio
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=I92
+#EXTINF:-1 tvg-id="KBS|40_11" tvg-name="KBS|광주1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559096295622_144218.png" group-title="KBS",광주1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=40_11
+#EXTINF:-1 tvg-id="KBS|40_21" tvg-name="KBS|광주1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288406530_144684.png" group-title="RADIO1" radio="true",광주1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=40_21
+#EXTINF:-1 tvg-id="KBS|40_22" tvg-name="KBS|광주2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288502836_144719.png" group-title="RADIO1" radio="true",광주2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=40_22
+#EXTINF:-1 tvg-id="KBS|40_24" tvg-name="KBS|광주1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288502903_144720.png" group-title="RADIO1" radio="true",광주1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=40_24
+#EXTINF:-1 tvg-id="KBS|30_11" tvg-name="KBS|대구1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559106966630_144229.png" group-title="KBS",대구1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=30_11
+#EXTINF:-1 tvg-id="KBS|30_21" tvg-name="KBS|대구1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288516425_144731.png" group-title="RADIO1" radio="true",대구1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=30_21
+#EXTINF:-1 tvg-id="KBS|30_22" tvg-name="KBS|대구2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288516491_144742.png" group-title="RADIO1" radio="true",대구2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=30_22
+#EXTINF:-1 tvg-id="KBS|30_24" tvg-name="KBS|대구1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288516571_144753.png" group-title="RADIO1" radio="true",대구1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=30_24
+#EXTINF:-1 tvg-id="KBS|60_11" tvg-name="KBS|대전1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559107052297_144230.png" group-title="KBS",대전1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=60_11
+#EXTINF:-1 tvg-id="KBS|60_21" tvg-name="KBS|대전1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288534019_144764.png" group-title="RADIO1" radio="true",대전1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=60_21
+#EXTINF:-1 tvg-id="KBS|60_22" tvg-name="KBS|대전2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288534084_144775.png" group-title="RADIO1" radio="true",대전2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=60_22
+#EXTINF:-1 tvg-id="KBS|60_24" tvg-name="KBS|대전1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288534154_144786.png" group-title="RADIO1" radio="true",대전1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=60_24
+#EXTINF:-1 tvg-id="KBS|10_11" tvg-name="KBS|부산1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559107059688_144241.png" group-title="KBS",부산1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=10_11
+#EXTINF:-1 tvg-id="KBS|10_21" tvg-name="KBS|부산1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288548811_144797.png" group-title="RADIO1" radio="true",부산1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=10_21
+#EXTINF:-1 tvg-id="KBS|10_22" tvg-name="KBS|부산2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288548886_144800.png" group-title="RADIO1" radio="true",부산2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=10_22
+#EXTINF:-1 tvg-id="KBS|10_24" tvg-name="KBS|부산1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288548966_144811.png" group-title="RADIO1" radio="true",부산1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=10_24
+#EXTINF:-1 tvg-id="KBS|50_11" tvg-name="KBS|전주1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559107071734_144252.png" group-title="KBS",전주1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=50_11
+#EXTINF:-1 tvg-id="KBS|50_21" tvg-name="KBS|전주1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288563889_144822.png" group-title="RADIO1" radio="true",전주1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=50_21
+#EXTINF:-1 tvg-id="KBS|50_22" tvg-name="KBS|전주2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288563984_144833.png" group-title="RADIO1" radio="true",전주2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=50_22
+#EXTINF:-1 tvg-id="KBS|50_24" tvg-name="KBS|전주1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288565717_144844.png" group-title="RADIO1" radio="true",전주1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=50_24
+#EXTINF:-1 tvg-id="KBS|90_11" tvg-name="KBS|제주1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559107079346_144263.png" group-title="KBS",제주1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=90_11
+#EXTINF:-1 tvg-id="KBS|90_21" tvg-name="KBS|제주1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288577510_144855.png" group-title="RADIO1" radio="true",제주1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=90_21
+#EXTINF:-1 tvg-id="KBS|90_22" tvg-name="KBS|제주2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288577593_144866.png" group-title="RADIO1" radio="true",제주2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=90_22
+#EXTINF:-1 tvg-id="KBS|90_24" tvg-name="KBS|제주1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288577668_144877.png" group-title="RADIO1" radio="true",제주1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=90_24
+#EXTINF:-1 tvg-id="KBS|20_11" tvg-name="KBS|창원1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559107090536_144274.png" group-title="KBS",창원1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=20_11
+#EXTINF:-1 tvg-id="KBS|20_21" tvg-name="KBS|창원1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288592455_144888.png" group-title="RADIO1" radio="true",창원1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=20_21
+#EXTINF:-1 tvg-id="KBS|20_22" tvg-name="KBS|창원2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288592523_144899.png" group-title="RADIO1" radio="true",창원2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=20_22
+#EXTINF:-1 tvg-id="KBS|20_24" tvg-name="KBS|창원1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288592582_144902.png" group-title="RADIO1" radio="true",창원1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=20_24
+#EXTINF:-1 tvg-id="KBS|70_11" tvg-name="KBS|청주1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559107096968_144285.png" group-title="KBS",청주1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=70_11
+#EXTINF:-1 tvg-id="KBS|70_21" tvg-name="KBS|청주1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288606341_144913.png" group-title="RADIO1" radio="true",청주1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=70_21
+#EXTINF:-1 tvg-id="KBS|70_22" tvg-name="KBS|청주2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288606422_144924.png" group-title="RADIO1" radio="true",청주2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=70_22
+#EXTINF:-1 tvg-id="KBS|70_24" tvg-name="KBS|청주1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288606496_144935.png" group-title="RADIO1" radio="true",청주1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=70_24
+#EXTINF:-1 tvg-id="KBS|80_11" tvg-name="KBS|춘천1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559107103865_144296.png" group-title="KBS",춘천1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=80_11
+#EXTINF:-1 tvg-id="KBS|80_21" tvg-name="KBS|춘천1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288618491_144946.png" group-title="RADIO1" radio="true",춘천1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=80_21
+#EXTINF:-1 tvg-id="KBS|80_22" tvg-name="KBS|춘천2라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288618561_144957.png" group-title="RADIO1" radio="true",춘천2라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=80_22
+#EXTINF:-1 tvg-id="KBS|80_24" tvg-name="KBS|춘천1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288618628_144968.png" group-title="RADIO1" radio="true",춘천1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=80_24
+#EXTINF:-1 tvg-id="KBS|11_21" tvg-name="KBS|울산1라디오" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288635422_144979.png" group-title="RADIO1" radio="true",울산1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=11_21
+#EXTINF:-1 tvg-id="KBS|11_24" tvg-name="KBS|울산1FM" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/31/1559288635556_144980.png" group-title="RADIO1" radio="true",울산1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=11_24
+#EXTINF:-1 tvg-id="KBS|11_11" tvg-name="KBS|울산1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2019/5/29/1559107115452_144309.png" group-title="KBS",울산1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=11_11
+#EXTINF:-1 tvg-id="KBS|81_21" tvg-name="KBS|강릉1라디오" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894128_60365.png" group-title="RADIO1" radio="true",강릉1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=81_21
+#EXTINF:-1 tvg-id="KBS|81_24" tvg-name="KBS|강릉1FM" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894863_60398.png" group-title="RADIO1" radio="true",강릉1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=81_24
+#EXTINF:-1 tvg-id="KBS|41_21" tvg-name="KBS|목포1라디오" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894128_60365.png" group-title="RADIO1" radio="true",목포1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=41_21
+#EXTINF:-1 tvg-id="KBS|41_24" tvg-name="KBS|목포1FM" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894863_60398.png" group-title="RADIO1" radio="true",목포1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=41_24
+#EXTINF:-1 tvg-id="KBS|43_21" tvg-name="KBS|순천1라디오" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894128_60365.png" group-title="RADIO1" radio="true",순천1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=43_21
+#EXTINF:-1 tvg-id="KBS|31_21" tvg-name="KBS|안동1라디오" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894128_60365.png" group-title="RADIO1" radio="true",안동1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=31_21
+#EXTINF:-1 tvg-id="KBS|82_21" tvg-name="KBS|원주1라디오" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894128_60365.png" group-title="RADIO1" radio="true",원주1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=82_21
+#EXTINF:-1 tvg-id="KBS|82_24" tvg-name="KBS|원주1FM" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894863_60398.png" group-title="RADIO1" radio="true",원주1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=82_24
+#EXTINF:-1 tvg-id="KBS|21_21" tvg-name="KBS|진주1라디오" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894128_60365.png" group-title="RADIO1" radio="true",진주1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=21_21
+#EXTINF:-1 tvg-id="KBS|71_21" tvg-name="KBS|충주1라디오" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894128_60365.png" group-title="RADIO1" radio="true",충주1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=71_21
+#EXTINF:-1 tvg-id="KBS|71_24" tvg-name="KBS|충주1FM" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894863_60398.png" group-title="RADIO1" radio="true",충주1FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=71_24
+#EXTINF:-1 tvg-id="KBS|32_21" tvg-name="KBS|포항1라디오" tvg-logo="http://qadmin.s3-website.ap-northeast-2.amazonaws.com/live/2017/10/31/1509426894128_60365.png" group-title="RADIO1" radio="true",포항1라디오
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=32_21
+#EXTINF:-1 tvg-id="KBS|51" tvg-name="KBS|DMB STAR" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/9/28/1538095750312_111663.png" group-title="KBS",DMB STAR
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=51
+#EXTINF:-1 tvg-id="KBS|52" tvg-name="KBS|DMB HEART" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/9/28/1538095750419_111685.png" group-title="KBS",DMB HEART
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=52
+#EXTINF:-1 tvg-id="KBS|61" tvg-name="KBS|DMB RADIO" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/9/28/1538095750504_111709.png" group-title="KBS",DMB RADIO
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=61
+#EXTINF:-1 tvg-id="MBC|01" tvg-name="MBC|MBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/MBC_730x411.jpg" group-title="MBC",MBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=01
+#EXTINF:-1 tvg-id="MBC|02" tvg-name="MBC|MBC 무한도전24" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/pooqmudo_730x411.jpg" group-title="MBC",MBC 무한도전24
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=02
+#EXTINF:-1 tvg-id="MBC|03" tvg-name="MBC|MBC 나혼자산다24" tvg-logo="" group-title="MBC",MBC 나혼자산다24
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=03
+#EXTINF:-1 tvg-id="MBC|04" tvg-name="MBC|MBC 해요TV+" tvg-logo="" group-title="MBC",MBC 해요TV+
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=04
+#EXTINF:-1 tvg-id="MBC|05" tvg-name="MBC|MBC imbc스포츠 Ch" tvg-logo="" group-title="MBC",MBC imbc스포츠 Ch
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=05
+#EXTINF:-1 tvg-id="MBC|07" tvg-name="MBC|MBC 표준FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/MBCFM_730x411.jpg" group-title="RADIO1" radio="true",MBC 표준FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=07
+#EXTINF:-1 tvg-id="MBC|08" tvg-name="MBC|MBC FM4U" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/MBCFM4U_730x411.jpg" group-title="RADIO1" radio="true",MBC FM4U
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=08
+#EXTINF:-1 tvg-id="MBC|09" tvg-name="MBC|MBC ChannelM" tvg-logo="" group-title="RADIO1" radio="true",MBC ChannelM
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=09
+#EXTINF:-1 tvg-id="SBS|S01" tvg-name="SBS|SBS" tvg-logo="http://i.imgur.com/K2ztoDT.png" group-title="SBS",SBS
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S01
+#EXTINF:-1 tvg-id="SBS|S03" tvg-name="SBS|SBS Plus" tvg-logo="http://i.imgur.com/asfyrTm.png" group-title="SBS",SBS Plus
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S03
+#EXTINF:-1 tvg-id="SBS|S02" tvg-name="SBS|SBS Sports" tvg-logo="http://i.imgur.com/j1vHAu6.png" group-title="SBS",SBS Sports
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S02
+#EXTINF:-1 tvg-id="SBS|S05" tvg-name="SBS|SBS Golf" tvg-logo="http://i.imgur.com/HdS0GNV.png" group-title="SBS",SBS Golf
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S05
+#EXTINF:-1 tvg-id="SBS|S06" tvg-name="SBS|SBS CNBC" tvg-logo="http://i.imgur.com/SfDs4qN.png" group-title="SBS",SBS CNBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S06
+#EXTINF:-1 tvg-id="SBS|S04" tvg-name="SBS|SBS funE" tvg-logo="http://i.imgur.com/D1EYJmr.png" group-title="SBS",SBS funE
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S04
+#EXTINF:-1 tvg-id="SBS|S09" tvg-name="SBS|SBS MTV" tvg-logo="http://i.imgur.com/OeSJ9Ik.png" group-title="SBS",SBS MTV
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S09
+#EXTINF:-1 tvg-id="SBS|S07" tvg-name="SBS|SBS 파워FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/SBSpowerFM_730x411.jpg" group-title="RADIO1" radio="true",SBS 파워FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S07
+#EXTINF:-1 tvg-id="SBS|S17" tvg-name="SBS|SBS 파워FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/SBSpowerFM_730x411.jpg" group-title="RADIO1" radio="true",SBS 파워FM 보라
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S17
+#EXTINF:-1 tvg-id="SBS|S08" tvg-name="SBS|SBS 러브FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/SBSloveFM_730x411.jpg" group-title="RADIO1" radio="true",SBS 러브FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S08
+#EXTINF:-1 tvg-id="SBS|S18" tvg-name="SBS|SBS 러브FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/SBSloveFM_730x411.jpg" group-title="RADIO1" radio="true",SBS 러브FM 보라
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S18
+#EXTINF:-1 tvg-id="POOQ|K01" tvg-name="POOQ|KBS 1TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K01.jpg" group-title="POOQ",KBS 1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K01
+#EXTINF:-1 tvg-id="POOQ|K02" tvg-name="POOQ|KBS 2TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K02.jpg" group-title="POOQ",KBS 2TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K02
+#EXTINF:-1 tvg-id="POOQ|M01" tvg-name="POOQ|MBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M01.jpg" group-title="POOQ",MBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M01
+#EXTINF:-1 tvg-id="POOQ|S01" tvg-name="POOQ|SBS" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S01.jpg" group-title="POOQ",SBS
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S01
+#EXTINF:-1 tvg-id="POOQ|E01" tvg-name="POOQ|EBS" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E01.jpg" group-title="POOQ",EBS
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=E01
+#EXTINF:-1 tvg-id="POOQ|E07" tvg-name="POOQ|EBS 2" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E07.jpg" group-title="POOQ",EBS 2
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=E07
+#EXTINF:-1 tvg-id="POOQ|C2301" tvg-name="POOQ|JTBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2301.jpg" group-title="POOQ",JTBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2301
+#EXTINF:-1 tvg-id="POOQ|C2401" tvg-name="POOQ|MBN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2401.jpg" group-title="POOQ",MBN
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2401
+#EXTINF:-1 tvg-id="POOQ|C2601" tvg-name="POOQ|TV CHOSUN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2601.jpg" group-title="POOQ",TV CHOSUN
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2601
+#EXTINF:-1 tvg-id="POOQ|C2501" tvg-name="POOQ|채널A" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/1280x720.jpg" group-title="POOQ",채널A
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2501
+#EXTINF:-1 tvg-id="POOQ|Y01" tvg-name="POOQ|연합뉴스TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/Y01.jpg" group-title="POOQ",연합뉴스TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=Y01
+#EXTINF:-1 tvg-id="POOQ|C2101" tvg-name="POOQ|YTN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2101.jpg" group-title="POOQ",YTN
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2101
+#EXTINF:-1 tvg-id="POOQ|S06" tvg-name="POOQ|SBS CNBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S06.jpg" group-title="POOQ",SBS CNBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S06
+#EXTINF:-1 tvg-id="POOQ|K12" tvg-name="POOQ|CCTV4" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4301.jpg" group-title="POOQ",CCTV4
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K12
+#EXTINF:-1 tvg-id="POOQ|C5901" tvg-name="POOQ|HISTORY" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/history-1.jpg" group-title="POOQ",HISTORY
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C5901
+#EXTINF:-1 tvg-id="POOQ|C5902" tvg-name="POOQ|LIFETIME" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/lifetime-1.jpg" group-title="POOQ",LIFETIME
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C5902
+#EXTINF:-1 tvg-id="POOQ|C4201" tvg-name="POOQ|GS SHOP" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4201.jpg" group-title="POOQ",GS SHOP
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4201
+#EXTINF:-1 tvg-id="POOQ|C4101" tvg-name="POOQ|현대홈쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4101.jpg" group-title="POOQ",현대홈쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4101
+#EXTINF:-1 tvg-id="POOQ|C4701" tvg-name="POOQ|CJ오쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4701.jpg" group-title="POOQ",CJ오쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4701
+#EXTINF:-1 tvg-id="POOQ|C4202" tvg-name="POOQ|GS MY SHOP" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4202.jpg" group-title="POOQ",GS MY SHOP
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4202
+#EXTINF:-1 tvg-id="POOQ|C4102" tvg-name="POOQ|현대홈쇼핑+샵" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4102.jpg" group-title="POOQ",현대홈쇼핑+샵
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4102
+#EXTINF:-1 tvg-id="POOQ|C4702" tvg-name="POOQ|CJ오쇼핑 플러스" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4702.jpg" group-title="POOQ",CJ오쇼핑 플러스
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4702
+#EXTINF:-1 tvg-id="POOQ|C4901" tvg-name="POOQ|쇼핑엔T" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4901.jpg" group-title="POOQ",쇼핑엔T
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4901
+#EXTINF:-1 tvg-id="POOQ|C4801" tvg-name="POOQ|신세계TV쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4801.jpg" group-title="POOQ",신세계TV쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4801
+#EXTINF:-1 tvg-id="POOQ|K15" tvg-name="POOQ|KBS 1박 2일" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K15.jpg" group-title="POOQ",KBS 1박 2일
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K15
+#EXTINF:-1 tvg-id="POOQ|K06" tvg-name="POOQ|KBS DRAMA" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K06.jpg" group-title="POOQ",KBS DRAMA
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K06
+#EXTINF:-1 tvg-id="POOQ|K04" tvg-name="POOQ|KBS JOY" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K04.jpg" group-title="POOQ",KBS JOY
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K04
+#EXTINF:-1 tvg-id="POOQ|K05" tvg-name="POOQ|KBSN Life" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K05.jpg" group-title="POOQ",KBSN Life
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K05
+#EXTINF:-1 tvg-id="POOQ|K09" tvg-name="POOQ|KBS W" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K09.jpg" group-title="POOQ",KBS W
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K09
+#EXTINF:-1 tvg-id="POOQ|PM1" tvg-name="POOQ|MBC 무한도전" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/PM1.jpg" group-title="POOQ",MBC 무한도전
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=PM1
+#EXTINF:-1 tvg-id="POOQ|M06" tvg-name="POOQ|MBC Music" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M06.jpg" group-title="POOQ",MBC Music
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M06
+#EXTINF:-1 tvg-id="POOQ|M02" tvg-name="POOQ|MBC Drama" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M02.jpg" group-title="POOQ",MBC Drama
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M02
+#EXTINF:-1 tvg-id="POOQ|M03" tvg-name="POOQ|MBC Every1" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M03.jpg" group-title="POOQ",MBC Every1
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M03
+#EXTINF:-1 tvg-id="POOQ|M10" tvg-name="POOQ|ALL THE K-POP" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M10.jpg" group-title="POOQ",ALL THE K-POP
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M10
+#EXTINF:-1 tvg-id="POOQ|PM2" tvg-name="POOQ|MBC 나 혼자 산다" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/PM2.jpg" group-title="POOQ",MBC 나 혼자 산다
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=PM2
+#EXTINF:-1 tvg-id="POOQ|S04" tvg-name="POOQ|SBS funE" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S04.jpg" group-title="POOQ",SBS funE
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S04
+#EXTINF:-1 tvg-id="POOQ|S03" tvg-name="POOQ|SBS Plus" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S03.jpg" group-title="POOQ",SBS Plus
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S03
+#EXTINF:-1 tvg-id="POOQ|S09" tvg-name="POOQ|SBS MTV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S09.jpg" group-title="POOQ",SBS MTV
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S09
+#EXTINF:-1 tvg-id="POOQ|S13" tvg-name="POOQ|SBS Mobidic" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S13.jpg" group-title="POOQ",SBS Mobidic
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S13
+#EXTINF:-1 tvg-id="POOQ|C2303" tvg-name="POOQ|JTBC2" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2303.jpg" group-title="POOQ",JTBC2
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2303
+#EXTINF:-1 tvg-id="POOQ|K18" tvg-name="POOQ|KBS 남자의 자격" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K18.jpg" group-title="POOQ",KBS 남자의 자격
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K18
+#EXTINF:-1 tvg-id="POOQ|M12" tvg-name="POOQ|MBC 라디오스타" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/radiostar_channel_re.jpg" group-title="POOQ",MBC 라디오스타
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M12
+#EXTINF:-1 tvg-id="POOQ|H02" tvg-name="POOQ|PLAYY 프리미엄 영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H02.jpg" group-title="POOQ",PLAYY 프리미엄 영화
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=H02
+#EXTINF:-1 tvg-id="POOQ|H01" tvg-name="POOQ|PLAYY 웰메이드 영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H01.jpg" group-title="POOQ",PLAYY 웰메이드 영화
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=H01
+#EXTINF:-1 tvg-id="POOQ|H07" tvg-name="POOQ|PLAYY 액션영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H07.jpg" group-title="POOQ",PLAYY 액션영화
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=H07
+#EXTINF:-1 tvg-id="POOQ|C4401" tvg-name="POOQ|ANIBOX" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4401.jpg" group-title="POOQ",ANIBOX
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C4401
+#EXTINF:-1 tvg-id="POOQ|C5501" tvg-name="POOQ|채널J" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5501.jpg" group-title="POOQ",채널J
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C5501
+#EXTINF:-1 tvg-id="POOQ|C5101" tvg-name="POOQ|AsiaN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5101.jpg" group-title="POOQ",AsiaN
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C5101
+#EXTINF:-1 tvg-id="POOQ|C3901" tvg-name="POOQ|채널W" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C3901.jpg" group-title="POOQ",채널W
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C3901
+#EXTINF:-1 tvg-id="POOQ|A01" tvg-name="POOQ|ANIMAX" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/A01.jpg" group-title="POOQ",ANIMAX
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=A01
+#EXTINF:-1 tvg-id="POOQ|E05" tvg-name="POOQ|EBS Kids" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E05.jpg" group-title="POOQ",EBS Kids
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=E05
+#EXTINF:-1 tvg-id="POOQ|D02" tvg-name="POOQ|Disney Junior" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/D02.jpg" group-title="POOQ",Disney Junior
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=D02
+#EXTINF:-1 tvg-id="POOQ|D01" tvg-name="POOQ|Disney" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/D01.jpg" group-title="POOQ",Disney
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=D01
+#EXTINF:-1 tvg-id="POOQ|S10" tvg-name="POOQ|Nick" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S10.jpg" group-title="POOQ",Nick
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S10
+#EXTINF:-1 tvg-id="POOQ|K17" tvg-name="POOQ|뽀로로TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K17.jpg" group-title="POOQ",뽀로로TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K17
+#EXTINF:-1 tvg-id="POOQ|C2302" tvg-name="POOQ|JTBC Golf" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2302.jpg" group-title="POOQ",JTBC Golf
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2302
+#EXTINF:-1 tvg-id="POOQ|C2304" tvg-name="POOQ|JTBC3 FOX Sports" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/jtbc3_730_411.jpg" group-title="POOQ",JTBC3 FOX Sports
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2304
+#EXTINF:-1 tvg-id="POOQ|C5401" tvg-name="POOQ|SPOTV GAMES" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5401.jpg" group-title="POOQ",SPOTV GAMES
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C5401
+#EXTINF:-1 tvg-id="POOQ|K07" tvg-name="POOQ|KBS1RADIO" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_K07.jpg" group-title="POOQ RADIO" radio="true",KBS1RADIO
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K07
+#EXTINF:-1 tvg-id="POOQ|K08" tvg-name="POOQ|KBSCOOLFM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_K08.jpg" group-title="POOQ RADIO" radio="true",KBSCOOLFM
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K08
+#EXTINF:-1 tvg-id="POOQ|M07" tvg-name="POOQ|MBC 표준 FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_M07.jpg" group-title="POOQ RADIO" radio="true",MBC 표준 FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M07
+#EXTINF:-1 tvg-id="POOQ|M08" tvg-name="POOQ|MBC FM4U" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_M08.jpg" group-title="POOQ RADIO" radio="true",MBC FM4U
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M08
+#EXTINF:-1 tvg-id="POOQ|S07" tvg-name="POOQ|SBS 파워FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_S07.jpg" group-title="POOQ RADIO" radio="true",SBS 파워FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S07
+#EXTINF:-1 tvg-id="POOQ|S08" tvg-name="POOQ|SBS 러브FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_S08.jpg" group-title="POOQ RADIO" radio="true",SBS 러브FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S08
+#EXTINF:-1 tvg-id="POOQ|E06" tvg-name="POOQ|EBS FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_E06.jpg" group-title="POOQ RADIO" radio="true",EBS FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=E06
+#EXTINF:-1 tvg-id="POOQ|C2701" tvg-name="POOQ|KISS - 최신인기가요" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2701.jpg" group-title="POOQ RADIO" radio="true",KISS - 최신인기가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2701
+#EXTINF:-1 tvg-id="POOQ|C2702" tvg-name="POOQ|KISS - 발라드" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2702.jpg" group-title="POOQ RADIO" radio="true",KISS - 발라드
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2702
+#EXTINF:-1 tvg-id="POOQ|C2703" tvg-name="POOQ|KISS - 8090인기가요" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2703.jpg" group-title="POOQ RADIO" radio="true",KISS - 8090인기가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2703
+#EXTINF:-1 tvg-id="POOQ|C2705" tvg-name="POOQ|KISS - 2000년대 인기가요" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2705.jpg" group-title="POOQ RADIO" radio="true",KISS - 2000년대 인기가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2705
+#EXTINF:-1 tvg-id="POOQ|C2706" tvg-name="POOQ|KISS - 재즈 라운지" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2706.jpg" group-title="POOQ RADIO" radio="true",KISS - 재즈 라운지
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2706
+#EXTINF:-1 tvg-id="TVING|C00551" tvg-name="TVING|tvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00551.png" group-title="TVING",tvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00551
+#EXTINF:-1 tvg-id="TVING|C01143" tvg-name="TVING|O tvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01143.png" group-title="TVING",O tvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01143
+#EXTINF:-1 tvg-id="TVING|C01141" tvg-name="TVING|XtvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01141.png" group-title="TVING",XtvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01141
+#EXTINF:-1 tvg-id="TVING|C01582" tvg-name="TVING|JTBC" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01582.png" group-title="TVING",JTBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01582
+#EXTINF:-1 tvg-id="TVING|C00593" tvg-name="TVING|YTN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00593.png" group-title="TVING",YTN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00593
+#EXTINF:-1 tvg-id="TVING|C01581" tvg-name="TVING|TV CHOSUN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01581.png" group-title="TVING",TV CHOSUN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01581
+#EXTINF:-1 tvg-id="TVING|C00585" tvg-name="TVING|TV CHOSUN 2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00585.png" group-title="TVING",TV CHOSUN 2
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00585
+#EXTINF:-1 tvg-id="TVING|C00575" tvg-name="TVING|Olive" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00575.png" group-title="TVING",Olive
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00575
+#EXTINF:-1 tvg-id="TVING|C01583" tvg-name="TVING|채널A" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01583.png" group-title="TVING",채널A
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01583
+#EXTINF:-1 tvg-id="TVING|C22041" tvg-name="TVING|JTBC4" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C22041.png" group-title="TVING",JTBC4
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C22041
+#EXTINF:-1 tvg-id="TVING|C15741" tvg-name="TVING|JTBC2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15741.png" group-title="TVING",JTBC2
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15741
+#EXTINF:-1 tvg-id="TVING|C00579" tvg-name="TVING|Mnet" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00579.png" group-title="TVING",Mnet
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00579
+#EXTINF:-1 tvg-id="TVING|C01723" tvg-name="TVING|연합뉴스TV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01723.png" group-title="TVING",연합뉴스TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01723
+#EXTINF:-1 tvg-id="TVING|C01142" tvg-name="TVING|ONSTYLE" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01142.png" group-title="TVING",ONSTYLE
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01142
+#EXTINF:-1 tvg-id="TVING|C00544" tvg-name="TVING|중화TV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00544.png" group-title="TVING",중화TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00544
+#EXTINF:-1 tvg-id="TVING|C00708" tvg-name="TVING|MBN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00708.png" group-title="TVING",MBN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00708
+#EXTINF:-1 tvg-id="TVING|C15152" tvg-name="TVING|DIA TV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15152.png" group-title="TVING",DIA TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15152
+#EXTINF:-1 tvg-id="TVING|C15347" tvg-name="TVING|YTN사이언스" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15347.png" group-title="TVING",YTN사이언스
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15347
+#EXTINF:-1 tvg-id="TVING|C17141" tvg-name="TVING|채널A플러스" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17141.png" group-title="TVING",채널A플러스
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17141
+#EXTINF:-1 tvg-id="TVING|C17142" tvg-name="TVING|MBN Plus" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17142.png" group-title="TVING",MBN Plus
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17142
+#EXTINF:-1 tvg-id="TVING|C17341" tvg-name="TVING|히스토리" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17341.png" group-title="TVING",히스토리
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17341
+#EXTINF:-1 tvg-id="TVING|C00588" tvg-name="TVING|JTBC Golf" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00588.png" group-title="TVING",JTBC Golf
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00588
+#EXTINF:-1 tvg-id="TVING|C00590" tvg-name="TVING|OGN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00590.png" group-title="TVING",OGN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00590
+#EXTINF:-1 tvg-id="TVING|C06941" tvg-name="TVING|투니버스" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C06941.png" group-title="TVING",투니버스
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06941
+#EXTINF:-1 tvg-id="TVING|C00805" tvg-name="TVING|JTBC3 FOX Sports" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00805.png" group-title="TVING",JTBC3 FOX Sports
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00805
+#EXTINF:-1 tvg-id="TVING|C01101" tvg-name="TVING|YTN Life" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01101.png" group-title="TVING",YTN Life
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01101
+#EXTINF:-1 tvg-id="TVING|C05661" tvg-name="TVING|디즈니채널" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C05661.png" group-title="TVING",디즈니채널
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C05661
+#EXTINF:-1 tvg-id="OKSUSU|240" tvg-name="OKSUSU|JTBC" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_240.png" group-title="OKSUSU",JTBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=240
+#EXTINF:-1 tvg-id="OKSUSU|241" tvg-name="OKSUSU|MBN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_241.png" group-title="OKSUSU",MBN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=241
+#EXTINF:-1 tvg-id="OKSUSU|242" tvg-name="OKSUSU|채널A" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_242.png" group-title="OKSUSU",채널A
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=242
+#EXTINF:-1 tvg-id="OKSUSU|243" tvg-name="OKSUSU|TV CHOSUN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_243.png" group-title="OKSUSU",TV CHOSUN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=243
+#EXTINF:-1 tvg-id="OKSUSU|570" tvg-name="OKSUSU|YTN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_570.png" group-title="OKSUSU",YTN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=570
+#EXTINF:-1 tvg-id="OKSUSU|571" tvg-name="OKSUSU|연합뉴스TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_571.png" group-title="OKSUSU",연합뉴스TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=571
+#EXTINF:-1 tvg-id="OKSUSU|70" tvg-name="OKSUSU|OBS" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_70.png" group-title="OKSUSU",OBS
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=70
+#EXTINF:-1 tvg-id="OKSUSU|221" tvg-name="OKSUSU|국회방송" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_221.png" group-title="OKSUSU",국회방송
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=221
+#EXTINF:-1 tvg-id="OKSUSU|774" tvg-name="OKSUSU|CNN International" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_774.png" group-title="OKSUSU",CNN International
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=774
+#EXTINF:-1 tvg-id="OKSUSU|620" tvg-name="OKSUSU|토마토TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_620.png" group-title="OKSUSU",토마토TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=620
+#EXTINF:-1 tvg-id="OKSUSU|626" tvg-name="OKSUSU|한국경제TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_626.png" group-title="OKSUSU",한국경제TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=626
+#EXTINF:-1 tvg-id="OKSUSU|622" tvg-name="OKSUSU|팍스경제TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_622.png" group-title="OKSUSU",팍스경제TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=622
+#EXTINF:-1 tvg-id="OKSUSU|627" tvg-name="OKSUSU|MTN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_627.png" group-title="OKSUSU",MTN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=627
+#EXTINF:-1 tvg-id="OKSUSU|872" tvg-name="OKSUSU|tvN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_872.png" group-title="OKSUSU",tvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=872
+#EXTINF:-1 tvg-id="OKSUSU|527" tvg-name="OKSUSU|OtvN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_527.png" group-title="OKSUSU",OtvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=527
+#EXTINF:-1 tvg-id="OKSUSU|874" tvg-name="OKSUSU|JTBC2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_874.png" group-title="OKSUSU",JTBC2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=874
+#EXTINF:-1 tvg-id="OKSUSU|185" tvg-name="OKSUSU|XtvN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_185.png" group-title="OKSUSU",XtvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=185
+#EXTINF:-1 tvg-id="OKSUSU|431" tvg-name="OKSUSU|Olive" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_431.png" group-title="OKSUSU",Olive
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=431
+#EXTINF:-1 tvg-id="OKSUSU|873" tvg-name="OKSUSU|M.net" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_873.png" group-title="OKSUSU",M.net
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=873
+#EXTINF:-1 tvg-id="OKSUSU|426" tvg-name="OKSUSU|On style" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_426.png" group-title="OKSUSU",On style
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=426
+#EXTINF:-1 tvg-id="OKSUSU|884" tvg-name="OKSUSU|K star" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_884.png" group-title="OKSUSU",K star
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=884
+#EXTINF:-1 tvg-id="OKSUSU|905" tvg-name="OKSUSU|CUBE TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_905.png" group-title="OKSUSU",CUBE TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=905
+#EXTINF:-1 tvg-id="OKSUSU|178" tvg-name="OKSUSU|OCN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_178.png" group-title="OKSUSU",OCN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=178
+#EXTINF:-1 tvg-id="OKSUSU|904" tvg-name="OKSUSU|드라맥스" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_904.png" group-title="OKSUSU",드라맥스
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=904
+#EXTINF:-1 tvg-id="OKSUSU|357" tvg-name="OKSUSU|PLAYY 프리미엄 영화" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_357.png" group-title="OKSUSU",PLAYY 프리미엄 영화
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=357
+#EXTINF:-1 tvg-id="OKSUSU|351" tvg-name="OKSUSU|oksusu healing" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_351.png" group-title="OKSUSU",oksusu healing
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=351
+#EXTINF:-1 tvg-id="OKSUSU|186" tvg-name="OKSUSU|중화TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_186.png" group-title="OKSUSU",중화TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=186
+#EXTINF:-1 tvg-id="OKSUSU|177" tvg-name="OKSUSU|Asia N" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_177.png" group-title="OKSUSU",Asia N
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=177
+#EXTINF:-1 tvg-id="OKSUSU|271" tvg-name="OKSUSU|라이프타임" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_271.png" group-title="OKSUSU",라이프타임
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=271
+#EXTINF:-1 tvg-id="OKSUSU|788" tvg-name="OKSUSU|BET" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_788.png" group-title="OKSUSU",BET
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=788
+#EXTINF:-1 tvg-id="OKSUSU|125" tvg-name="OKSUSU|SPOTV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_125.png" group-title="OKSUSU",SPOTV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=125
+#EXTINF:-1 tvg-id="OKSUSU|424" tvg-name="OKSUSU|SPOTV2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_424.png" group-title="OKSUSU",SPOTV2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=424
+#EXTINF:-1 tvg-id="OKSUSU|134" tvg-name="OKSUSU|SPOTV+" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_134.png" group-title="OKSUSU",SPOTV+
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=134
+#EXTINF:-1 tvg-id="OKSUSU|350" tvg-name="OKSUSU|SBS Golf" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_350.png" group-title="OKSUSU",SBS Golf
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=350
+#EXTINF:-1 tvg-id="OKSUSU|127" tvg-name="OKSUSU|JTBC GOLF" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_127.png" group-title="OKSUSU",JTBC GOLF
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=127
+#EXTINF:-1 tvg-id="OKSUSU|135" tvg-name="OKSUSU|Golf Channel Korea" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_135.png" group-title="OKSUSU",Golf Channel Korea
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=135
+#EXTINF:-1 tvg-id="OKSUSU|124" tvg-name="OKSUSU|OGN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_124.png" group-title="OKSUSU",OGN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=124
+#EXTINF:-1 tvg-id="OKSUSU|254" tvg-name="OKSUSU|SPOTV GAMES" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_254.png" group-title="OKSUSU",SPOTV GAMES
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=254
+#EXTINF:-1 tvg-id="OKSUSU|436" tvg-name="OKSUSU|JTBC3 FOX SPORTS" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_436.png" group-title="OKSUSU",JTBC3 FOX SPORTS
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=436
+#EXTINF:-1 tvg-id="OKSUSU|120" tvg-name="OKSUSU|Eurosport" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_120.png" group-title="OKSUSU",Eurosport
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=120
+#EXTINF:-1 tvg-id="OKSUSU|123" tvg-name="OKSUSU|IB Sports" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_123.png" group-title="OKSUSU",IB Sports
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=123
+#EXTINF:-1 tvg-id="OKSUSU|781" tvg-name="OKSUSU|Star Sports" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_781.png" group-title="OKSUSU",Star Sports
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=781
+#EXTINF:-1 tvg-id="OKSUSU|122" tvg-name="OKSUSU|Billiards TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_122.png" group-title="OKSUSU",Billiards TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=122
+#EXTINF:-1 tvg-id="OKSUSU|530" tvg-name="OKSUSU|FTV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_530.png" group-title="OKSUSU",FTV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=530
+#EXTINF:-1 tvg-id="OKSUSU|273" tvg-name="OKSUSU|FISHING TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_273.png" group-title="OKSUSU",FISHING TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=273
+#EXTINF:-1 tvg-id="OKSUSU|528" tvg-name="OKSUSU|바둑TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_528.png" group-title="OKSUSU",바둑TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=528
+#EXTINF:-1 tvg-id="OKSUSU|279" tvg-name="OKSUSU|브레인TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_279.png" group-title="OKSUSU",브레인TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=279
+#EXTINF:-1 tvg-id="OKSUSU|9698" tvg-name="OKSUSU|CH. 도깨비" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9698.png" group-title="OKSUSU",CH. 도깨비
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9698
+#EXTINF:-1 tvg-id="OKSUSU|9885" tvg-name="OKSUSU|CH. 슬기로운 감빵생활" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9885.png" group-title="OKSUSU",CH. 슬기로운 감빵생활
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9885
+#EXTINF:-1 tvg-id="OKSUSU|9269" tvg-name="OKSUSU|CH. 코미디빅리그" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9269.png" group-title="OKSUSU",CH. 코미디빅리그
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9269
+#EXTINF:-1 tvg-id="OKSUSU|9858" tvg-name="OKSUSU|CH. 이번 생은 처음이라" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9858.png" group-title="OKSUSU",CH. 이번 생은 처음이라
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9858
+#EXTINF:-1 tvg-id="OKSUSU|9968" tvg-name="OKSUSU|CH. 윤식당" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9968.png" group-title="OKSUSU",CH. 윤식당
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9968
+#EXTINF:-1 tvg-id="OKSUSU|9876" tvg-name="OKSUSU|CH. 알쓸신잡2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9876.png" group-title="OKSUSU",CH. 알쓸신잡2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9876
+#EXTINF:-1 tvg-id="OKSUSU|9855" tvg-name="OKSUSU|CH. 부암동 복수자들" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9855.png" group-title="OKSUSU",CH. 부암동 복수자들
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9855
+#EXTINF:-1 tvg-id="OKSUSU|9933" tvg-name="OKSUSU|CH. 강식당" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9933.png" group-title="OKSUSU",CH. 강식당
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9933
+#EXTINF:-1 tvg-id="OKSUSU|9614" tvg-name="OKSUSU|CH. 또오해영" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9614.png" group-title="OKSUSU",CH. 또오해영
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9614
+#EXTINF:-1 tvg-id="OKSUSU|9281" tvg-name="OKSUSU|Hot 걸그룹 특집" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9281.png" group-title="OKSUSU",Hot 걸그룹 특집
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9281
+#EXTINF:-1 tvg-id="OKSUSU|9755" tvg-name="OKSUSU|CH. 집밥백선생3" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9755.png" group-title="OKSUSU",CH. 집밥백선생3
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9755
+#EXTINF:-1 tvg-id="OKSUSU|9128" tvg-name="OKSUSU|CH. 푸른거탑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9128.png" group-title="OKSUSU",CH. 푸른거탑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9128
+#EXTINF:-1 tvg-id="OKSUSU|9339" tvg-name="OKSUSU|CH. 미생" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9339.png" group-title="OKSUSU",CH. 미생
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9339
+#EXTINF:-1 tvg-id="OKSUSU|9857" tvg-name="OKSUSU|CH. 블랙" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9857.png" group-title="OKSUSU",CH. 블랙
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9857
+#EXTINF:-1 tvg-id="OKSUSU|9566" tvg-name="OKSUSU|CH.치즈인더트랩" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9566.png" group-title="OKSUSU",CH.치즈인더트랩
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9566
+#EXTINF:-1 tvg-id="OKSUSU|9271" tvg-name="OKSUSU|CH. 수요미식회" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9271.png" group-title="OKSUSU",CH. 수요미식회
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9271
+#EXTINF:-1 tvg-id="OKSUSU|9822" tvg-name="OKSUSU|CH. 신서유기 시즌4" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9822.png" group-title="OKSUSU",CH. 신서유기 시즌4
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9822
+#EXTINF:-1 tvg-id="OKSUSU|9738" tvg-name="OKSUSU|CH. 신서유기 시즌3" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9738.png" group-title="OKSUSU",CH. 신서유기 시즌3
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9738
+#EXTINF:-1 tvg-id="OKSUSU|9597" tvg-name="OKSUSU|CH. 신서유기 시즌2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9597.png" group-title="OKSUSU",CH. 신서유기 시즌2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9597
+#EXTINF:-1 tvg-id="OKSUSU|9568" tvg-name="OKSUSU|CH. 응답하라1988" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9568.png" group-title="OKSUSU",CH. 응답하라1988
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9568
+#EXTINF:-1 tvg-id="OKSUSU|9264" tvg-name="OKSUSU|CH. 응답하라 1994" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9264.png" group-title="OKSUSU",CH. 응답하라 1994
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9264
+#EXTINF:-1 tvg-id="OKSUSU|9497" tvg-name="OKSUSU|CH. 응답하라 1997" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9497.png" group-title="OKSUSU",CH. 응답하라 1997
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9497
+#EXTINF:-1 tvg-id="OKSUSU|9522" tvg-name="OKSUSU|CH. 삼시세끼 어촌편2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9522.png" group-title="OKSUSU",CH. 삼시세끼 어촌편2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9522
+#EXTINF:-1 tvg-id="OKSUSU|9621" tvg-name="OKSUSU|CH. 삼시세끼 고창" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9621.png" group-title="OKSUSU",CH. 삼시세끼 고창
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9621
+#EXTINF:-1 tvg-id="OKSUSU|9420" tvg-name="OKSUSU|CH. 삼시세끼 정선편" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9420.png" group-title="OKSUSU",CH. 삼시세끼 정선편
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9420
+#EXTINF:-1 tvg-id="OKSUSU|9839" tvg-name="OKSUSU|CH. 삼시세끼 바다목장편" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9839.png" group-title="OKSUSU",CH. 삼시세끼 바다목장편
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9839
+#EXTINF:-1 tvg-id="OKSUSU|329" tvg-name="OKSUSU|oksusu 주니어" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_329.png" group-title="OKSUSU",oksusu 주니어
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=329
+#EXTINF:-1 tvg-id="OKSUSU|371" tvg-name="OKSUSU|Animax" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_371.png" group-title="OKSUSU",Animax
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=371
+#EXTINF:-1 tvg-id="OKSUSU|334" tvg-name="OKSUSU|디즈니채널" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_334.png" group-title="OKSUSU",디즈니채널
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=334
+#EXTINF:-1 tvg-id="OKSUSU|335" tvg-name="OKSUSU|디즈니주니어" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_335.png" group-title="OKSUSU",디즈니주니어
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=335
+#EXTINF:-1 tvg-id="OKSUSU|378" tvg-name="OKSUSU|JEI 재능TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_378.png" group-title="OKSUSU",JEI 재능TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=378
+#EXTINF:-1 tvg-id="OKSUSU|374" tvg-name="OKSUSU|어린이TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_374.png" group-title="OKSUSU",어린이TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=374
+#EXTINF:-1 tvg-id="OKSUSU|370" tvg-name="OKSUSU|bravo kids" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_370.png" group-title="OKSUSU",bravo kids
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=370
+#EXTINF:-1 tvg-id="OKSUSU|824" tvg-name="OKSUSU|플레이런TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_824.png" group-title="OKSUSU",플레이런TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=824
+#EXTINF:-1 tvg-id="OKSUSU|15" tvg-name="OKSUSU|EBS" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_15.png" group-title="OKSUSU",EBS
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=15
+#EXTINF:-1 tvg-id="OKSUSU|822" tvg-name="OKSUSU|EBS English" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_822.png" group-title="OKSUSU",EBS English
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=822
+#EXTINF:-1 tvg-id="OKSUSU|820" tvg-name="OKSUSU|EBS +1" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_820.png" group-title="OKSUSU",EBS +1
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=820
+#EXTINF:-1 tvg-id="OKSUSU|821" tvg-name="OKSUSU|EBS +2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_821.png" group-title="OKSUSU",EBS +2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=821
+#EXTINF:-1 tvg-id="OKSUSU|773" tvg-name="OKSUSU|Natgeo Wild HD" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_773.png" group-title="OKSUSU",Natgeo Wild HD
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=773
+#EXTINF:-1 tvg-id="OKSUSU|332" tvg-name="OKSUSU|공영쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_332.png" group-title="OKSUSU",공영쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=332
+#EXTINF:-1 tvg-id="OKSUSU|327" tvg-name="OKSUSU|홈&쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_327.png" group-title="OKSUSU",홈&쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=327
+#EXTINF:-1 tvg-id="OKSUSU|324" tvg-name="OKSUSU|CJ오쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_324.png" group-title="OKSUSU",CJ오쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=324
+#EXTINF:-1 tvg-id="OKSUSU|321" tvg-name="OKSUSU|현대홈쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_321.png" group-title="OKSUSU",현대홈쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=321
+#EXTINF:-1 tvg-id="OKSUSU|323" tvg-name="OKSUSU|롯데홈쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_323.png" group-title="OKSUSU",롯데홈쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=323
+#EXTINF:-1 tvg-id="OKSUSU|320" tvg-name="OKSUSU|GS SHOP" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_320.png" group-title="OKSUSU",GS SHOP
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=320
+#EXTINF:-1 tvg-id="OKSUSU|322" tvg-name="OKSUSU|NS홈쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_322.png" group-title="OKSUSU",NS홈쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=322
+#EXTINF:-1 tvg-id="OKSUSU|330" tvg-name="OKSUSU|SK stoa" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_330.png" group-title="OKSUSU",SK stoa
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=330
+#EXTINF:-1 tvg-id="OKSUSU|85" tvg-name="OKSUSU|최신인기가요" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_85.png" group-title="OKSUSU RADIO" radio="true",최신인기가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=85
+#EXTINF:-1 tvg-id="OKSUSU|71" tvg-name="OKSUSU|K-POP 아이돌" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_71.png" group-title="OKSUSU RADIO" radio="true",K-POP 아이돌
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=71
+#EXTINF:-1 tvg-id="OKSUSU|75" tvg-name="OKSUSU|8090가요" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_75.png" group-title="OKSUSU RADIO" radio="true",8090가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=75
+#EXTINF:-1 tvg-id="OKSUSU|76" tvg-name="OKSUSU|2000년대 인기가요" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_76.png" group-title="OKSUSU RADIO" radio="true",2000년대 인기가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=76
+#EXTINF:-1 tvg-id="OKSUSU|74" tvg-name="OKSUSU|트로트 아리랑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_74.png" group-title="OKSUSU RADIO" radio="true",트로트 아리랑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=74
+#EXTINF:-1 tvg-id="OKSUSU|72" tvg-name="OKSUSU|발라드가요" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_72.png" group-title="OKSUSU RADIO" radio="true",발라드가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=72
+#EXTINF:-1 tvg-id="OKSUSU|77" tvg-name="OKSUSU|팝 노스탈지아" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_77.png" group-title="OKSUSU RADIO" radio="true",팝 노스탈지아
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=77
+#EXTINF:-1 tvg-id="OKSUSU|73" tvg-name="OKSUSU|힙합&인디 스페셜" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_73.png" group-title="OKSUSU RADIO" radio="true",힙합&인디 스페셜
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=73
+#EXTINF:-1 tvg-id="OKSUSU|78" tvg-name="OKSUSU|뉴에이지" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_78.png" group-title="OKSUSU RADIO" radio="true",뉴에이지
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=78
+#EXTINF:-1 tvg-id="OKSUSU|81" tvg-name="OKSUSU|재즈 라운지" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_81.png" group-title="OKSUSU RADIO" radio="true",재즈 라운지
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=81
+#EXTINF:-1 tvg-id="OKSUSU|79" tvg-name="OKSUSU|클래식 판타지아" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_79.png" group-title="OKSUSU RADIO" radio="true",클래식 판타지아
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=79
+#EXTINF:-1 tvg-id="OKSUSU|82" tvg-name="OKSUSU|도그 앤 맘" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_82.png" group-title="OKSUSU RADIO" radio="true",도그 앤 맘
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=82
+#EXTINF:-1 tvg-id="OKSUSU|83" tvg-name="OKSUSU|기독교 음악" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_83.png" group-title="OKSUSU RADIO" radio="true",기독교 음악
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=83
+#EXTINF:-1 tvg-id="OKSUSU|80" tvg-name="OKSUSU|가톨릭 음악" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_80.png" group-title="OKSUSU RADIO" radio="true",가톨릭 음악
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=80
+#EXTINF:-1 tvg-id="OKSUSU|84" tvg-name="OKSUSU|불교 음악" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_84.png" group-title="OKSUSU RADIO" radio="true",불교 음악
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=84
+#EXTINF:-1 tvg-id="OKSUSU|353" tvg-name="OKSUSU|oksusu e-sports 2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_353.png" group-title="OKSUSU RADIO" radio="true",oksusu e-sports 2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=353
+#EXTINF:-1 tvg-id="OKSUSU|339" tvg-name="OKSUSU|신세계쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_339.png" group-title="OKSUSU RADIO" radio="true",신세계쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=339
+#EXTINF:-1 tvg-id="OKSUSU|168" tvg-name="OKSUSU|2019 프로야구 CH.1" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_168.png" group-title="OKSUSU RADIO" radio="true",2019 프로야구 CH.1
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=168
+#EXTINF:-1 tvg-id="OKSUSU|169" tvg-name="OKSUSU|2019 프로야구 CH.2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_169.png" group-title="OKSUSU RADIO" radio="true",2019 프로야구 CH.2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=169
+#EXTINF:-1 tvg-id="OKSUSU|161" tvg-name="OKSUSU|2019 프로야구 CH.3" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_161.png" group-title="OKSUSU RADIO" radio="true",2019 프로야구 CH.3
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=161
+#EXTINF:-1 tvg-id="OKSUSU|162" tvg-name="OKSUSU|2019 프로야구 CH.4" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_162.png" group-title="OKSUSU RADIO" radio="true",2019 프로야구 CH.4
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=162
+#EXTINF:-1 tvg-id="OKSUSU|160" tvg-name="OKSUSU|2019 프로야구 CH.5" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_160.png" group-title="OKSUSU RADIO" radio="true",2019 프로야구 CH.5
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=160
+#EXTINF:-1 tvg-id="OKSUSU|167" tvg-name="OKSUSU|2018-2019 프리미어리그" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_167.png" group-title="OKSUSU RADIO" radio="true",2018-2019 프리미어리그
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=167
+#EXTINF:-1 tvg-id="OKSUSU|956" tvg-name="OKSUSU|oksusu sports 2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_956.png" group-title="OKSUSU RADIO" radio="true",oksusu sports 2
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=956
+#EXTINF:-1 tvg-id="VIDEOPORTAL|747" tvg-name="VIDEOPORTAL|JTBC" tvg-logo="http://210.182.60.11/image/JTBC_H161012.png" group-title="VIDEOPORTAL",JTBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=747
+#EXTINF:-1 tvg-id="VIDEOPORTAL|750" tvg-name="VIDEOPORTAL|MBN" tvg-logo="http://210.182.60.11/image/MBN_H161012.png" group-title="VIDEOPORTAL",MBN
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=750
+#EXTINF:-1 tvg-id="VIDEOPORTAL|749" tvg-name="VIDEOPORTAL|채널A" tvg-logo="http://210.182.60.11/image/channelA_H161012.png" group-title="VIDEOPORTAL",채널A
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=749
+#EXTINF:-1 tvg-id="VIDEOPORTAL|746" tvg-name="VIDEOPORTAL|TV조선" tvg-logo="http://210.182.60.11/image/TVchosun_H161012.png" group-title="VIDEOPORTAL",TV조선
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=746
+#EXTINF:-1 tvg-id="VIDEOPORTAL|596" tvg-name="VIDEOPORTAL|OBS" tvg-logo="http://210.182.60.11/image/OBS_H161012.png" group-title="VIDEOPORTAL",OBS
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=596
+#EXTINF:-1 tvg-id="VIDEOPORTAL|648" tvg-name="VIDEOPORTAL|OBS W" tvg-logo="http://210.182.60.11/image/OBSW_H161012.png" group-title="VIDEOPORTAL",OBS W
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=648
+#EXTINF:-1 tvg-id="VIDEOPORTAL|682" tvg-name="VIDEOPORTAL|tvN" tvg-logo="http://210.182.60.11/image/tvN_H160721.png" group-title="VIDEOPORTAL",tvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=682
+#EXTINF:-1 tvg-id="VIDEOPORTAL|696" tvg-name="VIDEOPORTAL|올리브" tvg-logo="http://210.182.60.11/image/Olive_H180814.png" group-title="VIDEOPORTAL",올리브
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=696
+#EXTINF:-1 tvg-id="VIDEOPORTAL|689" tvg-name="VIDEOPORTAL|O tvN" tvg-logo="http://210.182.60.11/image/OtvN_H160721.png" group-title="VIDEOPORTAL",O tvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=689
+#EXTINF:-1 tvg-id="VIDEOPORTAL|671" tvg-name="VIDEOPORTAL|XtvN" tvg-logo="http://210.182.60.11/image/XtvN_H180126.png" group-title="VIDEOPORTAL",XtvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=671
+#EXTINF:-1 tvg-id="VIDEOPORTAL|778" tvg-name="VIDEOPORTAL|OnStyle" tvg-logo="http://210.182.60.11/image/Onstyle_H170921.png" group-title="VIDEOPORTAL",OnStyle
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=778
+#EXTINF:-1 tvg-id="VIDEOPORTAL|606" tvg-name="VIDEOPORTAL|JTBC2" tvg-logo="http://210.182.60.11/image/JTBC2_H180829.png" group-title="VIDEOPORTAL",JTBC2
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=606
+#EXTINF:-1 tvg-id="VIDEOPORTAL|662" tvg-name="VIDEOPORTAL|K스타" tvg-logo="http://210.182.60.11/image/Kstar__H161111.png" group-title="VIDEOPORTAL",K스타
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=662
+#EXTINF:-1 tvg-id="VIDEOPORTAL|389" tvg-name="VIDEOPORTAL|KBSN PLUS" tvg-logo="http://210.182.60.11/image/KBSN_PLUS_H20170601.png" group-title="VIDEOPORTAL",KBSN PLUS
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=389
+#EXTINF:-1 tvg-id="VIDEOPORTAL|603" tvg-name="VIDEOPORTAL|라이프타임" tvg-logo="http://210.182.60.11/image/foodTV_H170925.png" group-title="VIDEOPORTAL",라이프타임
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=603
+#EXTINF:-1 tvg-id="VIDEOPORTAL|690" tvg-name="VIDEOPORTAL|다이아TV" tvg-logo="http://210.182.60.11/image/DIAtv_H180131.png" group-title="VIDEOPORTAL",다이아TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=690
+#EXTINF:-1 tvg-id="VIDEOPORTAL|767" tvg-name="VIDEOPORTAL|JTBC4" tvg-logo="http://210.182.60.11/image/JTBC4_H180829.png" group-title="VIDEOPORTAL",JTBC4
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=767
+#EXTINF:-1 tvg-id="VIDEOPORTAL|725" tvg-name="VIDEOPORTAL|중화TV" tvg-logo="http://210.182.60.11/image/JungHwa_H160721.png" group-title="VIDEOPORTAL",중화TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=725
+#EXTINF:-1 tvg-id="VIDEOPORTAL|658" tvg-name="VIDEOPORTAL|아시아N" tvg-logo="http://210.182.60.11/image/AsiaN_H161012.png" group-title="VIDEOPORTAL",아시아N
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=658
+#EXTINF:-1 tvg-id="VIDEOPORTAL|667" tvg-name="VIDEOPORTAL|스포티비" tvg-logo="http://210.182.60.11/image/SPOTV1_H160721.png" group-title="VIDEOPORTAL",스포티비
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=667
+#EXTINF:-1 tvg-id="VIDEOPORTAL|383" tvg-name="VIDEOPORTAL|SPOTV2" tvg-logo="http://210.182.60.11/image/SPOTV2_H180814.png" group-title="VIDEOPORTAL",SPOTV2
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=383
+#EXTINF:-1 tvg-id="VIDEOPORTAL|381" tvg-name="VIDEOPORTAL|SPOTV3" tvg-logo="http://210.182.60.11/image/SPOTV3_H180904.png" group-title="VIDEOPORTAL",SPOTV3
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=381
+#EXTINF:-1 tvg-id="VIDEOPORTAL|382" tvg-name="VIDEOPORTAL|SPOTV4" tvg-logo="http://210.182.60.11/image/SPOTV4_H180904.png" group-title="VIDEOPORTAL",SPOTV4
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=382
+#EXTINF:-1 tvg-id="VIDEOPORTAL|384" tvg-name="VIDEOPORTAL|SPOTV5" tvg-logo="http://210.182.60.11/image/SPOTV5_H180904.png" group-title="VIDEOPORTAL",SPOTV5
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=384
+#EXTINF:-1 tvg-id="VIDEOPORTAL|397" tvg-name="VIDEOPORTAL|MLB1" tvg-logo="http://210.182.60.11/image/MLB1_H160721.png" group-title="VIDEOPORTAL",MLB1
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=397
+#EXTINF:-1 tvg-id="VIDEOPORTAL|398" tvg-name="VIDEOPORTAL|MLB2" tvg-logo="http://210.182.60.11/image/MLB2_H160721.png" group-title="VIDEOPORTAL",MLB2
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=398
+#EXTINF:-1 tvg-id="VIDEOPORTAL|399" tvg-name="VIDEOPORTAL|MLB3" tvg-logo="http://210.182.60.11/image/MLB3_H160721.png" group-title="VIDEOPORTAL",MLB3
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=399
+#EXTINF:-1 tvg-id="VIDEOPORTAL|602" tvg-name="VIDEOPORTAL|JTBC골프" tvg-logo="http://210.182.60.11/image/JTBCGolf_H161012.png" group-title="VIDEOPORTAL",JTBC골프
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=602
+#EXTINF:-1 tvg-id="VIDEOPORTAL|614" tvg-name="VIDEOPORTAL|SBS골프" tvg-logo="http://210.182.60.11/image/SBSgolf_H170403.png" group-title="VIDEOPORTAL",SBS골프
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=614
+#EXTINF:-1 tvg-id="VIDEOPORTAL|650" tvg-name="VIDEOPORTAL|스포티비+" tvg-logo="http://210.182.60.11/image/SPOTVPlus__H161111.png" group-title="VIDEOPORTAL",스포티비+
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
+#EXTINF:-1 tvg-id="VIDEOPORTAL|795" tvg-name="VIDEOPORTAL|JTBC3 FOX스포츠" tvg-logo="http://210.182.60.11/image/JTBC3FOXSPORTS_H20161006.png" group-title="VIDEOPORTAL",JTBC3 FOX스포츠
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=795
+#EXTINF:-1 tvg-id="VIDEOPORTAL|668" tvg-name="VIDEOPORTAL|빌리어즈TV" tvg-logo="http://210.182.60.11/image/BilliardsTV_H161012.png" group-title="VIDEOPORTAL",빌리어즈TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=668
+#EXTINF:-1 tvg-id="VIDEOPORTAL|698" tvg-name="VIDEOPORTAL|YTN" tvg-logo="http://210.182.60.11/image/YTN_H161012.png" group-title="VIDEOPORTAL",YTN
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=698
+#EXTINF:-1 tvg-id="VIDEOPORTAL|734" tvg-name="VIDEOPORTAL|연합뉴스TV" tvg-logo="http://210.182.60.11/image/NewY_H161012.png" group-title="VIDEOPORTAL",연합뉴스TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=734
+#EXTINF:-1 tvg-id="VIDEOPORTAL|729" tvg-name="VIDEOPORTAL|CNN International" tvg-logo="http://210.182.60.11/image/CNN_H161012.png" group-title="VIDEOPORTAL",CNN International
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=729
+#EXTINF:-1 tvg-id="VIDEOPORTAL|771" tvg-name="VIDEOPORTAL|토마토TV" tvg-logo="http://210.182.60.11/image/TomatoTV_H160721.png" group-title="VIDEOPORTAL",토마토TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=771
+#EXTINF:-1 tvg-id="VIDEOPORTAL|735" tvg-name="VIDEOPORTAL|CNBC" tvg-logo="http://210.182.60.11/image/CNBC_H160721.png" group-title="VIDEOPORTAL",CNBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=735
+#EXTINF:-1 tvg-id="VIDEOPORTAL|687" tvg-name="VIDEOPORTAL|엠넷" tvg-logo="http://210.182.60.11/image/Mnet_H160721.png" group-title="VIDEOPORTAL",엠넷
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=687
+#EXTINF:-1 tvg-id="VIDEOPORTAL|765" tvg-name="VIDEOPORTAL|가요TV" tvg-logo="http://210.182.60.11/image/KayoTV_H160721.png" group-title="VIDEOPORTAL",가요TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=765
+#EXTINF:-1 tvg-id="VIDEOPORTAL|688" tvg-name="VIDEOPORTAL|GMTV" tvg-logo="http://210.182.60.11/image/GMTV_H161012.png" group-title="VIDEOPORTAL",GMTV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=688
+#EXTINF:-1 tvg-id="VIDEOPORTAL|391" tvg-name="VIDEOPORTAL|PLAYY프리미엄" tvg-logo="http://210.182.60.11/image/PLAYYprem_H160721.png" group-title="VIDEOPORTAL",PLAYY프리미엄
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=391
+#EXTINF:-1 tvg-id="VIDEOPORTAL|392" tvg-name="VIDEOPORTAL|PLAYY웰메이드" tvg-logo="http://210.182.60.11/image/PLAYYWell_H160721.png" group-title="VIDEOPORTAL",PLAYY웰메이드
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=392
+#EXTINF:-1 tvg-id="VIDEOPORTAL|683" tvg-name="VIDEOPORTAL|바둑TV" tvg-logo="http://210.182.60.11/image/Baduk_H170327.png" group-title="VIDEOPORTAL",바둑TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=683
+#EXTINF:-1 tvg-id="VIDEOPORTAL|665" tvg-name="VIDEOPORTAL|FTV" tvg-logo="http://210.182.60.11/image/FTV_H161012.png" group-title="VIDEOPORTAL",FTV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=665
+#EXTINF:-1 tvg-id="VIDEOPORTAL|625" tvg-name="VIDEOPORTAL|피싱TV" tvg-logo="http://210.182.60.11/image/FSTV_H160721.png" group-title="VIDEOPORTAL",피싱TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=625
+#EXTINF:-1 tvg-id="VIDEOPORTAL|726" tvg-name="VIDEOPORTAL|폴라리스TV" tvg-logo="http://210.182.60.11/image/polarisTV_H160721.png" group-title="VIDEOPORTAL",폴라리스TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=726
+#EXTINF:-1 tvg-id="VIDEOPORTAL|707" tvg-name="VIDEOPORTAL|브레인TV" tvg-logo="http://210.182.60.11/image/BrainTV_H160721.png" group-title="VIDEOPORTAL",브레인TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=707
+#EXTINF:-1 tvg-id="VIDEOPORTAL|703" tvg-name="VIDEOPORTAL|애니맥스" tvg-logo="http://210.182.60.11/image/ANIMAX__H161111.png" group-title="VIDEOPORTAL",애니맥스
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=703
+#EXTINF:-1 tvg-id="VIDEOPORTAL|699" tvg-name="VIDEOPORTAL|애니플러스" tvg-logo="http://210.182.60.11/image/ANIPLUS_H161012.png" group-title="VIDEOPORTAL",애니플러스
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=699
+#EXTINF:-1 tvg-id="VIDEOPORTAL|761" tvg-name="VIDEOPORTAL|어린이TV" tvg-logo="http://210.182.60.11/image/KidsTV_H161012.png" group-title="VIDEOPORTAL",어린이TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=761
+#EXTINF:-1 tvg-id="VIDEOPORTAL|728" tvg-name="VIDEOPORTAL|브라보키즈" tvg-logo="http://210.182.60.11/image/BravoKids_H180809.png" group-title="VIDEOPORTAL",브라보키즈
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=728
+#EXTINF:-1 tvg-id="VIDEOPORTAL|676" tvg-name="VIDEOPORTAL|GS샵" tvg-logo="http://210.182.60.11/image/GSSHOP_H160721.png" group-title="VIDEOPORTAL",GS샵
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=676
+#EXTINF:-1 tvg-id="VIDEOPORTAL|675" tvg-name="VIDEOPORTAL|현대홈쇼핑" tvg-logo="http://210.182.60.11/image/HDSHOP_H160721.png" group-title="VIDEOPORTAL",현대홈쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=675
+#EXTINF:-1 tvg-id="VIDEOPORTAL|672" tvg-name="VIDEOPORTAL|CJ오쇼핑" tvg-logo="http://210.182.60.11/image/CJOSHOP_H160721.png" group-title="VIDEOPORTAL",CJ오쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=672
+#EXTINF:-1 tvg-id="VIDEOPORTAL|674" tvg-name="VIDEOPORTAL|롯데홈쇼핑" tvg-logo="http://210.182.60.11/image/LOTTESHOP_H160721.png" group-title="VIDEOPORTAL",롯데홈쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=674
+#EXTINF:-1 tvg-id="VIDEOPORTAL|673" tvg-name="VIDEOPORTAL|NS홈쇼핑" tvg-logo="http://210.182.60.11/image/NSSHOP_H160721.png" group-title="VIDEOPORTAL",NS홈쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=673
+#EXTINF:-1 tvg-id="VIDEOPORTAL|649" tvg-name="VIDEOPORTAL|홈앤쇼핑" tvg-logo="http://210.182.60.11/image/HomeNSHOP_H160721.png" group-title="VIDEOPORTAL",홈앤쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=649
+#EXTINF:-1 tvg-id="VIDEOPORTAL|740" tvg-name="VIDEOPORTAL|GS마이샵" tvg-logo="http://210.182.60.11/image/GSmyshop_H160721.png" group-title="VIDEOPORTAL",GS마이샵
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=740
+#EXTINF:-1 tvg-id="VIDEOPORTAL|760" tvg-name="VIDEOPORTAL|현대홈쇼핑+샵" tvg-logo="http://210.182.60.11/image/HDplusShop_H160922.png" group-title="VIDEOPORTAL",현대홈쇼핑+샵
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=760
+#EXTINF:-1 tvg-id="VIDEOPORTAL|402" tvg-name="VIDEOPORTAL|W쇼핑" tvg-logo="http://210.182.60.11/image/WShopping_H181008.png" group-title="VIDEOPORTAL",W쇼핑
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=402
+#EXTINF:-1 tvg-id="VIDEOPORTAL|681" tvg-name="VIDEOPORTAL|OGN" tvg-logo="http://210.182.60.11/image/OGN_H180724.png" group-title="VIDEOPORTAL",OGN
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=681
+#EXTINF:-1 tvg-id="VIDEOPORTAL|727" tvg-name="VIDEOPORTAL|스포티비 게임즈" tvg-logo="http://210.182.60.11/image/SPOTVGAME_H160721.png" group-title="VIDEOPORTAL",스포티비 게임즈
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=727
+#EXTINF:-1 tvg-id="VIDEOPORTAL|505" tvg-name="VIDEOPORTAL|EBS1" tvg-logo="http://210.182.60.11/image/EBS1_H161012.png" group-title="VIDEOPORTAL",EBS1
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=505
+#EXTINF:-1 tvg-id="VIDEOPORTAL|607" tvg-name="VIDEOPORTAL|EBS Kids" tvg-logo="http://210.182.60.11/image/EBSkids_H20180110.png" group-title="VIDEOPORTAL",EBS Kids
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=607
+#EXTINF:-1 tvg-id="VIDEOPORTAL|801" tvg-name="VIDEOPORTAL|EBS English" tvg-logo="http://210.182.60.11/image/EBSEnglish_H161012.png" group-title="VIDEOPORTAL",EBS English
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=801
+#EXTINF:-1 tvg-id="VIDEOPORTAL|715" tvg-name="VIDEOPORTAL|EBS+2" tvg-logo="http://210.182.60.11/image/EBSPlus2_H161012.png" group-title="VIDEOPORTAL",EBS+2
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=715
+#EXTINF:-1 tvg-id="VIDEOPORTAL|714" tvg-name="VIDEOPORTAL|EBS+1" tvg-logo="http://210.182.60.11/image/EBSPlus1_H161012.png" group-title="VIDEOPORTAL",EBS+1
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=714
+#EXTINF:-1 tvg-id="VIDEOPORTAL|800" tvg-name="VIDEOPORTAL|JEI EnglishTV" tvg-logo="http://210.182.60.11/image/JEIEnglishTV_H161012.png" group-title="VIDEOPORTAL",JEI EnglishTV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=800
+#EXTINF:-1 tvg-id="VIDEOPORTAL|772" tvg-name="VIDEOPORTAL|플레이런TV" tvg-logo="http://210.182.60.11/image/Chungchul_H170929.png" group-title="VIDEOPORTAL",플레이런TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=772
+#EXTINF:-1 tvg-id="TVING|C15841" tvg-name="TVING|CH.신서유기 시즌4" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001224839.jpg" group-title="TVING",CH.신서유기 시즌4(신서유기 시즌4 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15841
+#EXTINF:-1 tvg-id="TVING|C18442" tvg-name="TVING|CH.맛있는녀석들" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001904118.jpg" group-title="TVING",CH.맛있는녀석들(맛있는 녀석들 194화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18442
+#EXTINF:-1 tvg-id="TVING|C34741" tvg-name="TVING|CH.스페인하숙" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002207476.jpg" group-title="TVING",CH.스페인하숙(스페인하숙 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34741
+#EXTINF:-1 tvg-id="TVING|C15271" tvg-name="TVING|CH.신서유기 시즌3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001172622.jpg" group-title="TVING",CH.신서유기 시즌3(신서유기 시즌3 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15271
+#EXTINF:-1 tvg-id="TVING|C32441" tvg-name="TVING|CH.놀라운 토요일 2부 - 도레미마켓" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001971478.jpg" group-title="TVING",CH.놀라운 토요일 2부 - 도레미마켓(놀라운토요일 37화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32441
+#EXTINF:-1 tvg-id="TVING|C06762" tvg-name="TVING|CH.응답하라1988" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000962985.jpg" group-title="TVING",CH.응답하라1988(응답하라1988 17화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06762
+#EXTINF:-1 tvg-id="TVING|C15442" tvg-name="TVING|CH.도깨비" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001152116.png" group-title="TVING",CH.도깨비(도깨비 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15442
+#EXTINF:-1 tvg-id="TVING|C28241" tvg-name="TVING|CH.대탈출" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001634775.jpg" group-title="TVING",CH.대탈출(대탈출 3화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C28241
+#EXTINF:-1 tvg-id="TVING|C30242" tvg-name="TVING|CH.연애의 참견 시즌2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002265822.jpg" group-title="TVING",CH.연애의 참견 시즌2(연애의 참견 시즌2 34화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C30242
+#EXTINF:-1 tvg-id="TVING|C34542" tvg-name="TVING|CH.그녀의 사생활" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002257762.jpg" group-title="TVING",CH.그녀의 사생활(그녀의 사생활 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34542
+#EXTINF:-1 tvg-id="TVING|C26941" tvg-name="TVING|CH.미스터션샤인" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001648092.jpg" group-title="TVING",CH.미스터션샤인(미스터션샤인 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C26941
+#EXTINF:-1 tvg-id="TVING|C20141" tvg-name="TVING|CH.강식당" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001295017.jpg" group-title="TVING",CH.강식당(강식당 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20141
+#EXTINF:-1 tvg-id="TVING|C31642" tvg-name="TVING|CH.신서유기6" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001927443.jpg" group-title="TVING",CH.신서유기6(신서유기6 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31642
+#EXTINF:-1 tvg-id="TVING|C33043" tvg-name="TVING|CH.도시어부" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002092163.jpg" group-title="TVING",CH.도시어부(나만 믿고 따라와, 도시어부 75화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33043
+#EXTINF:-1 tvg-id="TVING|C34541" tvg-name="TVING|CH.자백" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002211295.jpg" group-title="TVING",CH.자백(자백 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34541
+#EXTINF:-1 tvg-id="TVING|C08461" tvg-name="TVING|CH.응답하라 1994" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000538359.jpg" group-title="TVING",CH.응답하라 1994(선물학 개론)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08461
+#EXTINF:-1 tvg-id="TVING|C14049" tvg-name="TVING|CH.신서유기 시즌2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001063540.jpg" group-title="TVING",CH.신서유기 시즌2(배신 난무! 손오공 레이스의 승자는?)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14049
+#EXTINF:-1 tvg-id="TVING|C14946" tvg-name="TVING|CH.삼시세끼 고창편" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001124651.jpg" group-title="TVING",CH.삼시세끼 고창편(삼시세끼 고창편 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14946
+#EXTINF:-1 tvg-id="TVING|C08681" tvg-name="TVING|CH.삼시세끼 어촌편2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000905925.jpg" group-title="TVING",CH.삼시세끼 어촌편2(삼시세끼 어촌편2 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08681
+#EXTINF:-1 tvg-id="TVING|C15249" tvg-name="TVING|CH.삼시세끼 어촌편3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001143432.jpg" group-title="TVING",CH.삼시세끼 어촌편3(삼시세끼 어촌편3 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15249
+#EXTINF:-1 tvg-id="TVING|C15542" tvg-name="TVING|CH.프로듀스101 시즌2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001211947.jpg" group-title="TVING",CH.프로듀스101 시즌2(프로듀스101 시즌2 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15542
+#EXTINF:-1 tvg-id="TVING|C34041" tvg-name="TVING|CH.고독한미식가6" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001890517.jpg" group-title="TVING",CH.고독한미식가6(삼겹살 생강구이 정식)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34041
+#EXTINF:-1 tvg-id="TVING|C05961" tvg-name="TVING|CH.코미디 빅리그" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002058517.jpg" group-title="TVING",CH.코미디 빅리그(코미디빅리그 296화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C05961
+#EXTINF:-1 tvg-id="TVING|C06761" tvg-name="TVING|CH.시그널" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001020877.jpg" group-title="TVING",CH.시그널(시그널 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06761
+#EXTINF:-1 tvg-id="TVING|C08682" tvg-name="TVING|CH.삼시세끼 정선편2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000838230.jpg" group-title="TVING",CH.삼시세끼 정선편2(삼시세끼 정선편 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08682
+#EXTINF:-1 tvg-id="TVING|C15296" tvg-name="TVING|CH.비밀의 숲" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001225932.jpg" group-title="TVING",CH.비밀의 숲(비밀의 숲 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15296
+#EXTINF:-1 tvg-id="TVING|C28141" tvg-name="TVING|CH.보이스2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001734729.jpg" group-title="TVING",CH.보이스2(보이스2 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C28141
+#EXTINF:-1 tvg-id="TVING|C28841" tvg-name="TVING|CH.유 퀴즈 온 더 블럭" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001887017.jpg" group-title="TVING",CH.유 퀴즈 온 더 블럭(유 퀴즈 온 더 블럭 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C28841
+#EXTINF:-1 tvg-id="TVING|C33241" tvg-name="TVING|CH.어서와 한국은 처음이지" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002221518.jpg" group-title="TVING",CH.어서와 한국은 처음이지([어서와 한국은 처음이지?] 79화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33241
+#EXTINF:-1 tvg-id="TVING|C25741" tvg-name="TVING|CH.나의 아저씨" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001487126.jpg" group-title="TVING",CH.나의 아저씨(나의아저씨 13화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C25741
+#EXTINF:-1 tvg-id="TVING|C08683" tvg-name="TVING|CH.삼시세끼 어촌편1" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000745525.jpg" group-title="TVING",CH.삼시세끼 어촌편1(삼시세끼 어촌편 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08683
+#EXTINF:-1 tvg-id="TVING|C15843" tvg-name="TVING|CH.알아두면 쓸데없는 신비한 잡학사전" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001211489.jpg" group-title="TVING",CH.알아두면 쓸데없는 신비한 잡학사전(알아두면 쓸데없는 신비한 잡학사전 3화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15843
+#EXTINF:-1 tvg-id="TVING|C30343" tvg-name="TVING|CH.연애의 참견 시즌1" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001852521.jpg" group-title="TVING",CH.연애의 참견 시즌1(연애의 참견 12화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C30343
+#EXTINF:-1 tvg-id="TVING|C17441" tvg-name="TVING|CH.이번 생은 처음이라" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001252140.jpg" group-title="TVING",CH.이번 생은 처음이라(이번 생은 처음이라 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17441
+#EXTINF:-1 tvg-id="TVING|C18742" tvg-name="TVING|CH.슬기로운 감빵생활" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001266524.jpg" group-title="TVING",CH.슬기로운 감빵생활(슬기로운 감빵생활 3화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18742
+#EXTINF:-1 tvg-id="TVING|C06041" tvg-name="TVING|CH.미생" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000721458.jpg" group-title="TVING",CH.미생(미생 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06041
+#EXTINF:-1 tvg-id="TVING|C07481" tvg-name="TVING|CH.렛츠고 시간탐험대" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000575675.jpg" group-title="TVING",CH.렛츠고 시간탐험대(렛츠고 시간탐험대 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07481
+#EXTINF:-1 tvg-id="TVING|C07761" tvg-name="TVING|CH.나인:아홉번의 시간여행" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000407309.jpg" group-title="TVING",CH.나인:아홉번의 시간여행(나인 아홉번의 시간여행 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07761
+#EXTINF:-1 tvg-id="TVING|C14641" tvg-name="TVING|CH.또 오해영" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001087735.jpg" group-title="TVING",CH.또 오해영(또오해영 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14641
+#EXTINF:-1 tvg-id="TVING|C15243" tvg-name="TVING|CH.THE K2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001132973.jpg" group-title="TVING",CH.THE K2(THE K2 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15243
+#EXTINF:-1 tvg-id="TVING|C15243" tvg-name="TVING|CH.THE K2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001132973.jpg" group-title="TVING",CH.THE K2(THE K2 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15243
+#EXTINF:-1 tvg-id="TVING|C15466" tvg-name="TVING|CH.터널" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001192151.jpg" group-title="TVING",CH.터널(터널 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15466
+#EXTINF:-1 tvg-id="TVING|C15849" tvg-name="TVING|CH.명불허전" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001241298.jpg" group-title="TVING",CH.명불허전(명불허전 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15849
+#EXTINF:-1 tvg-id="TVING|C28442" tvg-name="TVING|CH.백일의 낭군님" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001829221.jpg" group-title="TVING",CH.백일의 낭군님(백일의 낭군님 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C28442
+#EXTINF:-1 tvg-id="TVING|C29141" tvg-name="TVING|CH.알아두면 쓸데없는 신비한 잡학사전3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001909608.jpg" group-title="TVING",CH.알아두면 쓸데없는 신비한 잡학사전3(알아두면 쓸데없는 신비한 잡학사전3 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C29141
+#EXTINF:-1 tvg-id="TVING|C30641" tvg-name="TVING|CH.남자친구" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002015732.jpg" group-title="TVING",CH.남자친구(남자친구 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C30641
+#EXTINF:-1 tvg-id="TVING|C31042" tvg-name="TVING|CH.국경없는포차" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002038419.jpg" group-title="TVING",CH.국경없는포차(국경없는 포차 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31042
+#EXTINF:-1 tvg-id="TVING|C31741" tvg-name="TVING|CH.신서유기5" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001812155.jpg" group-title="TVING",CH.신서유기5(신서유기5 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31741
+#EXTINF:-1 tvg-id="TVING|C32041" tvg-name="TVING|CH.너의 목소리가 보여6" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002045484.jpg" group-title="TVING",CH.너의 목소리가 보여6(너의 목소리가 보여 6 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32041
+#EXTINF:-1 tvg-id="TVING|C32641" tvg-name="TVING|CH.로맨스는 별책부록" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002077482.jpg" group-title="TVING",CH.로맨스는 별책부록(로맨스는 별책부록 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32641
+#EXTINF:-1 tvg-id="TVING|C33042" tvg-name="TVING|CH.막돼먹은 영애씨17" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002207472.jpg" group-title="TVING",CH.막돼먹은 영애씨17(막돼먹은 영애씨17 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33042
+#EXTINF:-1 tvg-id="TVING|C34143" tvg-name="TVING|CH.비디오스타" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002139717.jpg" group-title="TVING",CH.비디오스타(<비디오 스타> 34화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34143
+#EXTINF:-1 tvg-id="TVING|C17941" tvg-name="TVING|CH.알쓸신잡2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001259529.jpg" group-title="TVING",CH.알쓸신잡2(알아두면 쓸데없는 신비한 잡학사전2 3화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17941
+#EXTINF:-1 tvg-id="TVING|C26441" tvg-name="TVING|CH.수미네 반찬" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002257767.jpg" group-title="TVING",CH.수미네 반찬(수미네반찬 45화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C26441
+#EXTINF:-1 tvg-id="TVING|C26542" tvg-name="TVING|CH.라이프온마스" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001677738.jpg" group-title="TVING",CH.라이프온마스(라이프온마스 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C26542
+#EXTINF:-1 tvg-id="TVING|C26741" tvg-name="TVING|CH.프로듀스48" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001677844.jpg" group-title="TVING",CH.프로듀스48(프로듀스48 8회)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C26741
+#EXTINF:-1 tvg-id="TVING|C28442" tvg-name="TVING|CH.백일의 낭군님" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001829221.jpg" group-title="TVING",CH.백일의 낭군님(백일의 낭군님 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C28442
+#EXTINF:-1 tvg-id="TVING|C04761" tvg-name="TVING|CH.응답하라 1997" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0100/E000295657.jpg" group-title="TVING",CH.응답하라 1997(응답하라 1997 14화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C04761
+#EXTINF:-1 tvg-id="TVING|C06801" tvg-name="TVING|CH.치즈인더트랩" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000992302.jpg" group-title="TVING",CH.치즈인더트랩(치즈인더트랩 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06801
+#EXTINF:-1 tvg-id="TVING|C07681" tvg-name="TVING|CH.신의퀴즈4" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000648673.jpg" group-title="TVING",CH.신의퀴즈4(슈퍼맨)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07681
+#EXTINF:-1 tvg-id="TVING|C34441" tvg-name="TVING|CH.킬잇" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002209437.jpg" group-title="TVING",CH.킬잇(킬잇(KILL IT) 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34441
+#EXTINF:-1 tvg-id="TVING|C20241" tvg-name="TVING|CH.신비아파트" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001130818.jpg" group-title="TVING",CH.신비아파트(제10화 붉은 눈동자의 소년 이안)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20241
+#EXTINF:-1 tvg-id="TVING|C22841" tvg-name="TVING|CH.고등래퍼2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001404197.jpg" group-title="TVING",CH.고등래퍼2(고등래퍼2 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C22841
+#EXTINF:-1 tvg-id="TVING|C22842" tvg-name="TVING|CH.라이브" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001455076.jpg" group-title="TVING",CH.라이브(라이브 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C22842
+#EXTINF:-1 tvg-id="TVING|C23641" tvg-name="TVING|CH.현지에서 먹힐까?" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001517517.jpg" group-title="TVING",CH.현지에서 먹힐까?(현지에서 먹힐까 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23641
+#EXTINF:-1 tvg-id="TVING|C24541" tvg-name="TVING|CH.용감한 기자들3 : 비하인드 더 팩트" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001623117.jpg" group-title="TVING",CH.용감한 기자들3 : 비하인드 더 팩트(간 큰 남자 VS 기 센 여자)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24541
+#EXTINF:-1 tvg-id="TVING|C25641" tvg-name="TVING|CH.김비서가 왜 그럴까" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001598117.jpg" group-title="TVING",CH.김비서가 왜 그럴까(김비서가 왜 그럴까 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C25641
+#EXTINF:-1 tvg-id="TVING|C25842" tvg-name="TVING|CH.나쁜 녀석들:악의도시" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001336088.jpg" group-title="TVING",CH.나쁜 녀석들:악의도시(나쁜녀석들   악의도시 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C25842
+#EXTINF:-1 tvg-id="TVING|C27241" tvg-name="TVING|CH.밥블레스유" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001966617.jpg" group-title="TVING",CH.밥블레스유(<밥블레스유  2018 F/W> 24화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C27241
+#EXTINF:-1 tvg-id="TVING|C27641" tvg-name="TVING|CH.아는 와이프" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001703590.jpg" group-title="TVING",CH.아는 와이프(아는와이프 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C27641
+#EXTINF:-1 tvg-id="TVING|C04761" tvg-name="TVING|CH.응답하라 1997" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0100/E000295657.jpg" group-title="TVING",CH.응답하라 1997(응답하라 1997 14화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C04761
+#EXTINF:-1 tvg-id="TVING|C06801" tvg-name="TVING|CH.치즈인더트랩" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000992302.jpg" group-title="TVING",CH.치즈인더트랩(치즈인더트랩 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06801
+#EXTINF:-1 tvg-id="TVING|C07681" tvg-name="TVING|CH.신의퀴즈4" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000648673.jpg" group-title="TVING",CH.신의퀴즈4(슈퍼맨)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07681
+#EXTINF:-1 tvg-id="TVING|C07781" tvg-name="TVING|CH.인현왕후의 남자" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001848426.jpg" group-title="TVING",CH.인현왕후의 남자(인현왕후의 남자 13화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07781
+#EXTINF:-1 tvg-id="TVING|C08361" tvg-name="TVING|CH.어쩌다 어른" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002191917.jpg" group-title="TVING",CH.어쩌다 어른(어쩌다 어른 167화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08361
+#EXTINF:-1 tvg-id="TVING|C08501" tvg-name="TVING|CH.더 지니어스:그랜드 파이널" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000845957.jpg" group-title="TVING",CH.더 지니어스:그랜드 파이널(더지니어스 그랜드파이널 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08501
+#EXTINF:-1 tvg-id="TVING|C08561" tvg-name="TVING|CH.막돼먹은 영애씨14" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000895334.jpg" group-title="TVING",CH.막돼먹은 영애씨14(막돼먹은 영애씨 시즌14 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08561
+#EXTINF:-1 tvg-id="TVING|C08582" tvg-name="TVING|CH.풍선껌" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000922826.jpg" group-title="TVING",CH.풍선껌(풍선껌 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08582
+#EXTINF:-1 tvg-id="TVING|C08641" tvg-name="TVING|CH.식샤를 합시다 시즌2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000808873.jpg" group-title="TVING",CH.식샤를 합시다 시즌2(식샤를합시다 시즌2 17화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08641
+#EXTINF:-1 tvg-id="TVING|C08881" tvg-name="TVING|CH.막돼먹은 영애씨13" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000613316.jpg" group-title="TVING",CH.막돼먹은 영애씨13(막돼먹은 영애씨 시즌13 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08881
+#EXTINF:-1 tvg-id="TVING|C08901" tvg-name="TVING|CH.실종느와르 M" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000777977.jpg" group-title="TVING",CH.실종느와르 M(살인의 재구성)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08901
+#EXTINF:-1 tvg-id="TVING|C14045" tvg-name="TVING|CH.프로듀스 101" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001023142.jpg" group-title="TVING",CH.프로듀스 101(PRODUCE101 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14045
+#EXTINF:-1 tvg-id="TVING|C14048" tvg-name="TVING|CH.디어 마이 프렌즈" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001088472.jpg" group-title="TVING",CH.디어 마이 프렌즈(디어마이프렌즈 14화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14048
+#EXTINF:-1 tvg-id="TVING|C14341" tvg-name="TVING|CH.문제적 남자 Part 2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002241818.jpg" group-title="TVING",CH.문제적 남자 Part 2(뇌섹시대 문제적남자 201화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14341
+#EXTINF:-1 tvg-id="TVING|C14542" tvg-name="TVING|CH.꽃보다청춘 아이슬란드" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000986987.jpg" group-title="TVING",CH.꽃보다청춘 아이슬란드(꽃보다청춘 아이슬란드 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14542
+#EXTINF:-1 tvg-id="TVING|C14945" tvg-name="TVING|CH.굿와이프" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001110192.png" group-title="TVING",CH.굿와이프(굿와이프 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14945
+#EXTINF:-1 tvg-id="TVING|C14948" tvg-name="TVING|CH.싸우자 귀신아" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001111875.png" group-title="TVING",CH.싸우자 귀신아(싸우자 귀신아 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14948
+#EXTINF:-1 tvg-id="TVING|C15456" tvg-name="TVING|CH.집밥 백선생3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001249710.jpg" group-title="TVING",CH.집밥 백선생3(집밥백선생3 35화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15456
+#EXTINF:-1 tvg-id="TVING|C15942" tvg-name="TVING|CH.삼시세끼 바다목장편" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001243147.jpg" group-title="TVING",CH.삼시세끼 바다목장편(삼시세끼 바다목장 편 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15942
+#EXTINF:-1 tvg-id="TVING|C31641" tvg-name="TVING|CH.주말사용설명서" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001798911.jpg" group-title="TVING",CH.주말사용설명서(주말사용설명서 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31641
+#EXTINF:-1 tvg-id="TVING|C32541" tvg-name="TVING|CH.갓세븐의 레알타이" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002056717.jpg" group-title="TVING",CH.갓세븐의 레알타이(갓세븐의 레알타이 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32541
+#EXTINF:-1 tvg-id="TVING|C32741" tvg-name="TVING|CH.진심이 닿다" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002173264.jpg" group-title="TVING",CH.진심이 닿다(진심이 닿다 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32741
+#EXTINF:-1 tvg-id="TVING|C32941" tvg-name="TVING|CH.트랩" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002142517.jpg" group-title="TVING",CH.트랩(트랩 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32941
+#EXTINF:-1 tvg-id="TVING|C33542" tvg-name="TVING|CH.사이코메트리 그녀석" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002224883.jpg" group-title="TVING",CH.사이코메트리 그녀석(사이코메트리 그녀석 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33542
+#EXTINF:-1 tvg-id="TVING|C33841" tvg-name="TVING|CH.모두의 주방" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002195517.jpg" group-title="TVING",CH.모두의 주방(모두의 주방 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33841
+#EXTINF:-1 tvg-id="TVING|C34142" tvg-name="TVING|CH.주간아이돌" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002164818.jpg" group-title="TVING",CH.주간아이돌(주간 아이돌 396화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34142
+#EXTINF:-1 tvg-id="TVING|C34241" tvg-name="TVING|CH.도시경찰" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002183317.jpg" group-title="TVING",CH.도시경찰(도시경찰 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34241
+#EXTINF:-1 tvg-id="TVING|C33041" tvg-name="TVING|CH.할리우드에서 아침을" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002110723.jpg" group-title="TVING",CH.할리우드에서 아침을(할리우드에서 아침을 3화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33041
+#EXTINF:-1 tvg-id="TVING|C06521" tvg-name="TVING|CH.응팔TOP10" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000945633.jpg" group-title="TVING",CH.응팔TOP10(응답하라1988 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06521
+#EXTINF:-1 tvg-id="TVING|C18142" tvg-name="TVING|CH.건담홀릭" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18142.png" group-title="TVING",CH.건담홀릭(건담홀릭)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18142
+#EXTINF:-1 tvg-id="TVING|C08002" tvg-name="TVING|CH.로맨스가 필요해3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000585280.jpg" group-title="TVING",CH.로맨스가 필요해3(로맨스가 필요해3 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08002
+#EXTINF:-1 tvg-id="TVING|C08521" tvg-name="TVING|CH.오늘뭐먹지?" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001244595.jpg" group-title="TVING",CH.오늘뭐먹지?(오늘 뭐 먹지? 딜리버리 236화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08521
+#EXTINF:-1 tvg-id="TVING|C08741" tvg-name="TVING|CH.꽃보다청춘" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000700058.jpg" group-title="TVING",CH.꽃보다청춘(꽃보다 청춘 10화 (라오스 편))
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08741
+#EXTINF:-1 tvg-id="TVING|C08804" tvg-name="TVING|CH.푸른거탑" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000582243.jpg" group-title="TVING",CH.푸른거탑(총기보관함 열쇠 분실사건의 전말 / 왕십리 장비동자의 최후!)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08804
+#EXTINF:-1 tvg-id="TVING|C08861" tvg-name="TVING|CH.더 지니어스:룰 브레이커" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000578018.jpg" group-title="TVING",CH.더 지니어스:룰 브레이커(더 지니어스  룰브레이커 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08861
+#EXTINF:-1 tvg-id="TVING|C08862" tvg-name="TVING|CH.너의목소리가보여 시즌1" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000776994.jpg" group-title="TVING",CH.너의목소리가보여 시즌1(너의목소리가보여 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08862
+#EXTINF:-1 tvg-id="TVING|C08884" tvg-name="TVING|CH.마스터셰프 코리아3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000640415.jpg" group-title="TVING",CH.마스터셰프 코리아3(여주에 찾아온 특별한 손님!)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08884
+#EXTINF:-1 tvg-id="TVING|C14044" tvg-name="TVING|CH.SNL 코리아 시즌7" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001072524.jpg" group-title="TVING",CH.SNL 코리아 시즌7(호스트 - 티파니)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14044
+#EXTINF:-1 tvg-id="TVING|C14242" tvg-name="TVING|CH.뱀파이어 탐정" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001063741.jpg" group-title="TVING",CH.뱀파이어 탐정(영혼의 심판)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14242
+#EXTINF:-1 tvg-id="TVING|C14543" tvg-name="TVING|CH.꽃보다청춘 아프리카" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001028676.jpg" group-title="TVING",CH.꽃보다청춘 아프리카(꽃보다청춘 아프리카 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14543
+#EXTINF:-1 tvg-id="TVING|C14546" tvg-name="TVING|CH.렛츠고 시간탐험대3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001059724.jpg" group-title="TVING",CH.렛츠고 시간탐험대3(조선 19세기판 금수저 vs 흙수저 2탄)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14546
+#EXTINF:-1 tvg-id="TVING|C14643" tvg-name="TVING|CH.쇼미더머니5" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001092724.png" group-title="TVING",CH.쇼미더머니5(쇼미더머니5 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14643
+#EXTINF:-1 tvg-id="TVING|C14741" tvg-name="TVING|CH.콩트앤더시티" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000945381.jpg" group-title="TVING",CH.콩트앤더시티(콩트앤더시티 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14741
+#EXTINF:-1 tvg-id="TVING|C14744" tvg-name="TVING|CH.38사기동대" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001100231.jpg" group-title="TVING",CH.38사기동대(38사기동대 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14744
+#EXTINF:-1 tvg-id="TVING|C14943" tvg-name="TVING|CH.우주LIKE소녀" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001088595.jpg" group-title="TVING",CH.우주LIKE소녀(우주소녀가 상해에 떴다!)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14943
+#EXTINF:-1 tvg-id="TVING|C15245" tvg-name="TVING|CH.SNL 코리아 시즌8" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001121962.jpg" group-title="TVING",CH.SNL 코리아 시즌8(호스트 걸스데이 민아)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15245
+#EXTINF:-1 tvg-id="TVING|C15257" tvg-name="TVING|CH.안투라지" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001156861.jpg" group-title="TVING",CH.안투라지(안투라지 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15257
+#EXTINF:-1 tvg-id="TVING|C15270" tvg-name="TVING|CH.내성적인 보스" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001173894.jpg" group-title="TVING",CH.내성적인 보스(비사교적 사교성 - 칸트)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15270
+#EXTINF:-1 tvg-id="TVING|C15273" tvg-name="TVING|CH.신혼일기" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001169830.jpg" group-title="TVING",CH.신혼일기(신혼일기 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15273
+#EXTINF:-1 tvg-id="TVING|C15281" tvg-name="TVING|CH.너의 목소리가 보여 4" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001198408.jpg" group-title="TVING",CH.너의 목소리가 보여 4(너의 목소리가 보여 4 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15281
+#EXTINF:-1 tvg-id="TVING|C15641" tvg-name="TVING|CH.듀얼" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001212051.jpg" group-title="TVING",CH.듀얼(듀얼 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15641
+#EXTINF:-1 tvg-id="TVING|C06521" tvg-name="TVING|CH.응팔TOP10" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000945633.jpg" group-title="TVING",CH.응팔TOP10(응답하라1988 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06521
+#EXTINF:-1 tvg-id="TVING|C18142" tvg-name="TVING|CH.건담홀릭" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18142.png" group-title="TVING",CH.건담홀릭(건담홀릭)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18142
+#EXTINF:-1 tvg-id="TVING|C31041" tvg-name="TVING|CH.썸바디" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002048345.jpg" group-title="TVING",CH.썸바디(썸바디 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31041
+#EXTINF:-1 tvg-id="TVING|C24441" tvg-name="TVING|CH.내 딸의 남자들3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001626018.jpg" group-title="TVING",CH.내 딸의 남자들3(9화 너의 속마음이 궁금해!)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24441
+#EXTINF:-1 tvg-id="TVING|C24341" tvg-name="TVING|CH.내 딸의 남자들2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001635617.jpg" group-title="TVING",CH.내 딸의 남자들2(3화 F4의 완성)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24341
+#EXTINF:-1 tvg-id="TVING|C18243" tvg-name="TVING|CH.씬님 채널" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18243.png" group-title="TVING",CH.씬님 채널(씬님)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18243
+#EXTINF:-1 tvg-id="TVING|C30243" tvg-name="TVING|CH.코인법률방" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002064822.jpg" group-title="TVING",CH.코인법률방(코인 법률방 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C30243
+#EXTINF:-1 tvg-id="TVING|C34641" tvg-name="TVING|CH.쇼!오디오자키" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002211293.jpg" group-title="TVING",CH.쇼!오디오자키(쇼!오디오자키 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34641
+#EXTINF:-1 tvg-id="TVING|C06581" tvg-name="TVING|CH.두번째 스무살" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000869049.jpg" group-title="TVING",CH.두번째 스무살(두번째 스무살 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06581
+#EXTINF:-1 tvg-id="TVING|C30342" tvg-name="TVING|CH.파자마 프렌즈" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001825874.jpg" group-title="TVING",CH.파자마 프렌즈(5화 여행, 그 짜릿한 설렘 그리고 비밀스러운 이야기)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C30342
+#EXTINF:-1 tvg-id="TVING|C21442" tvg-name="TVING|CH. HOT6 배틀그라운드 서바이벌 시리즈 베타" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001354517.jpg" group-title="TVING",CH. HOT6 배틀그라운드 서바이벌 시리즈 베타(스쿼드 모드 결승전 -  HOT6 배틀그라운드 서바이벌 시리즈 베타)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21442
+#EXTINF:-1 tvg-id="TVING|C32442" tvg-name="TVING|CH.짠내나는 눈물연기" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001304517.jpg" group-title="TVING",CH.짠내나는 눈물연기(tvN <막돼먹은 영애씨16> 11화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32442
+#EXTINF:-1 tvg-id="TVING|C20741" tvg-name="TVING|CH.Lime Tube[라임튜브]" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001347918.jpg" group-title="TVING",CH.Lime Tube[라임튜브](라임튜브 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20741
+#EXTINF:-1 tvg-id="TVING|C26743" tvg-name="TVING|CH.스타의 집 공개" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000993094.jpg" group-title="TVING",CH.스타의 집 공개(내 방의 품격 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C26743
+#EXTINF:-1 tvg-id="TVING|C28242" tvg-name="TVING|CH.우리가 어떤 민족입니까!" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001257219.jpg" group-title="TVING",CH.우리가 어떤 민족입니까!(알아두면 쓸데없는 신비한 잡학사전2 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C28242
+#EXTINF:-1 tvg-id="TVING|C33541" tvg-name="TVING|CH.고등래퍼3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002260674.jpg" group-title="TVING",CH.고등래퍼3(고등래퍼3 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33541
+#EXTINF:-1 tvg-id="TVING|C20742" tvg-name="TVING|CH.지호토이" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001347787.jpg" group-title="TVING",CH.지호토이(지호토이 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20742
+#EXTINF:-1 tvg-id="TVING|C26742" tvg-name="TVING|CH.사이다한잔할래" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001250322.jpg" group-title="TVING",CH.사이다한잔할래(부암동 복수자들 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C26742
+#EXTINF:-1 tvg-id="TVING|C21241" tvg-name="TVING|CH. 2018 LoL 챔피언스 코리아 스프링 스플릿" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001403225.jpg" group-title="TVING",CH. 2018 LoL 챔피언스 코리아 스프링 스플릿([2018.03.17] bbq vs KT / 2018 LoL 챔피언스 코리아 스프링 스플릿 48화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21241
+#EXTINF:-1 tvg-id="TVING|C14944" tvg-name="TVING|CH.마스터셰프 코리아4" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001052708.jpg" group-title="TVING",CH.마스터셰프 코리아4('오렌지와 자몽을 이용한 디저트 만들기!')
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14944
+#EXTINF:-1 tvg-id="TVING|C07443" tvg-name="TVING|CH.신분을 숨겨라" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000852326.jpg" group-title="TVING",CH.신분을 숨겨라(신분을 숨겨라 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07443
+#EXTINF:-1 tvg-id="TVING|C23941" tvg-name="TVING|CH.하트시그널1" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001236193.jpg" group-title="TVING",CH.하트시그널1(하트 시그널 스페셜1)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23941
+#EXTINF:-1 tvg-id="TVING|C20442" tvg-name="TVING|CH.터닝메카드W 시즌2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001194862.jpg" group-title="TVING",CH.터닝메카드W 시즌2(터닝메카드W 시즌2 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20442
+#EXTINF:-1 tvg-id="TVING|C20844" tvg-name="TVING|CH.헤이지니" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001407032.jpg" group-title="TVING",CH.헤이지니(헤이지니 54화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20844
+#EXTINF:-1 tvg-id="TVING|C32841" tvg-name="TVING|CH.슈퍼인턴" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002077467.jpg" group-title="TVING",CH.슈퍼인턴(슈퍼인턴 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32841
+#EXTINF:-1 tvg-id="TVING|C27341" tvg-name="TVING|CH.뜻밖의 브로맨스" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001266525.jpg" group-title="TVING",CH.뜻밖의 브로맨스(슬기로운 감빵생활 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C27341
+#EXTINF:-1 tvg-id="TVING|C20841" tvg-name="TVING|CH.마이린TV" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001409757.jpg" group-title="TVING",CH.마이린TV(마이린TV 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20841
+#EXTINF:-1 tvg-id="TVING|C14145" tvg-name="TVING|CH.기억" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001045118.jpg" group-title="TVING",CH.기억(기억 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14145
+#EXTINF:-1 tvg-id="TVING|C07322" tvg-name="TVING|CH.하트투하트" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000745524.jpg" group-title="TVING",CH.하트투하트(홍도와 두수의 첫날밤?!)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07322
+#EXTINF:-1 tvg-id="TVING|C29341" tvg-name="TVING|CH.하늘에서 내리는 1억개의 별" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001857376.jpg" group-title="TVING",CH.하늘에서 내리는 1억개의 별(하늘에서 내리는 일억개의 별 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C29341
+#EXTINF:-1 tvg-id="TVING|C20242" tvg-name="TVING|CH.헬로카봇1" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E000822768.jpg" group-title="TVING",CH.헬로카봇1(헬로카봇 21화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20242
+#EXTINF:-1 tvg-id="TVING|C20243" tvg-name="TVING|CH.레인보우루비" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001192340.jpg" group-title="TVING",CH.레인보우루비(레인보우루비 3화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20243
+#EXTINF:-1 tvg-id="TVING|C30341" tvg-name="TVING|CH.한 번쯤 써먹고 싶은 명대사" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001824566.jpg" group-title="TVING",CH.한 번쯤 써먹고 싶은 명대사(백일의낭군님 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C30341
+#EXTINF:-1 tvg-id="TVING|C28544" tvg-name="TVING|CH.집에 따라가도 될까요?" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001894408.jpg" group-title="TVING",CH.집에 따라가도 될까요?(오오후나, 츠쿠바, 교토 부 난탄 시)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C28544
+#EXTINF:-1 tvg-id="TVING|C20441" tvg-name="TVING|CH.레고프렌즈" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001377227.jpg" group-title="TVING",CH.레고프렌즈(제11화 와일드 하트 캠핑장)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20441
+#EXTINF:-1 tvg-id="TVING|C26842" tvg-name="TVING|CH.안방극장 나들이" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001270417.jpg" group-title="TVING",CH.안방극장 나들이(B주임과 러브레터)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C26842
+#EXTINF:-1 tvg-id="TVING|C18245" tvg-name="TVING|CH.밴쯔" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18245.png" group-title="TVING",CH.밴쯔(밴쯔)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18245
+#EXTINF:-1 tvg-id="TVING|C34442" tvg-name="TVING|CH.문제적 보스" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002266546.jpg" group-title="TVING",CH.문제적 보스(문제적 보스 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34442
+#EXTINF:-1 tvg-id="TVING|C08581" tvg-name="TVING|CH.내 친구와 식샤를 합시다" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000853623.jpg" group-title="TVING",CH.내 친구와 식샤를 합시다(우여곡절 끝에 도착한 첫 번째 여행지 파리)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C08581
+#EXTINF:-1 tvg-id="TVING|C20343" tvg-name="TVING|CH.둥둥" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E000963571.jpg" group-title="TVING",CH.둥둥(바나나나둥둥 14화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20343
+#EXTINF:-1 tvg-id="TVING|C18241" tvg-name="TVING|CH.대도서관" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18241.png" group-title="TVING",CH.대도서관(대도서관)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18241
+#EXTINF:-1 tvg-id="TVING|C18443" tvg-name="TVING|CH.빌리어즈TV" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001431155.jpg" group-title="TVING",CH.빌리어즈TV(The Lesson 시즌2 <4구편>황득희 - 잘라치기1)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18443
+#EXTINF:-1 tvg-id="TVING|C32742" tvg-name="TVING|CH.신서유기 신박한 게임" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001941421.jpg" group-title="TVING",CH.신서유기 신박한 게임(신서유기6 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32742
+#EXTINF:-1 tvg-id="TVING|C17041" tvg-name="TVING|CH.부암동 복수자들" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001259528.jpg" group-title="TVING",CH.부암동 복수자들(부암동 복수자들 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17041
+#EXTINF:-1 tvg-id="TVING|C18441" tvg-name="TVING|CH.식신로드 시즌3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001351223.jpg" group-title="TVING",CH.식신로드 시즌3(식신로드3 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18441
+#EXTINF:-1 tvg-id="TVING|C18545" tvg-name="TVING|CH.핑크퐁" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18545.png" group-title="TVING",CH.핑크퐁(동그라미를 만들자)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18545
+#EXTINF:-1 tvg-id="TVING|C19241" tvg-name="TVING|CH.Wanna One GO : ZERO BASE" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001260414.jpg" group-title="TVING",CH.Wanna One GO : ZERO BASE(WANNAONE GO   ZERO BASE 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C19241
+#EXTINF:-1 tvg-id="TVING|C19742" tvg-name="TVING|CH.막돼먹은 영애씨16" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001270137.jpg" group-title="TVING",CH.막돼먹은 영애씨16(막돼먹은 영애씨 시즌16 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C19742
+#EXTINF:-1 tvg-id="TVING|C20244" tvg-name="TVING|CH.파파독" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001038032.jpg" group-title="TVING",CH.파파독(파파독 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20244
+#EXTINF:-1 tvg-id="TVING|C20342" tvg-name="TVING|CH.헬로카봇 시즌3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001016277.jpg" group-title="TVING",CH.헬로카봇 시즌3(헬로카봇3 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20342
+#EXTINF:-1 tvg-id="TVING|C21441" tvg-name="TVING|CH. 윤식당2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001402246.jpg" group-title="TVING",CH. 윤식당2(윤식당2 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21441
+#EXTINF:-1 tvg-id="TVING|C21541" tvg-name="TVING|CH. 마더" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001334617.jpg" group-title="TVING",CH. 마더(마더 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21541
+#EXTINF:-1 tvg-id="TVING|C21941" tvg-name="TVING|CH.너의 목소리가 보여5" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001375472.jpg" group-title="TVING",CH.너의 목소리가 보여5(너의 목소리가 보여5 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21941
+#EXTINF:-1 tvg-id="TVING|C23041" tvg-name="TVING|CH.작은신의아이들" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001404246.jpg" group-title="TVING",CH.작은신의아이들(작은신의 아이들 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23041
+#EXTINF:-1 tvg-id="TVING|C23741" tvg-name="TVING|CH.원나잇푸드트립:언리미티드" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001755217.jpg" group-title="TVING",CH.원나잇푸드트립:언리미티드(원나잇 푸드트립 언리미티드 29화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23741
+#EXTINF:-1 tvg-id="TVING|C23841" tvg-name="TVING|CH.숲속의작은집" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001564415.jpg" group-title="TVING",CH.숲속의작은집(숲속의 작은 집 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23841
+#EXTINF:-1 tvg-id="TVING|C24041" tvg-name="TVING|CH.하트시그널2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001507266.jpg" group-title="TVING",CH.하트시그널2(하트 시그널2 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24041
+#EXTINF:-1 tvg-id="TVING|C24042" tvg-name="TVING|CH.미스터션샤인 하이라이트" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001797450.jpg" group-title="TVING",CH.미스터션샤인 하이라이트(미스터션샤인 23화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24042
+#EXTINF:-1 tvg-id="TVING|C24241" tvg-name="TVING|CH.내 딸의 남자들1" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001636322.jpg" group-title="TVING",CH.내 딸의 남자들1(2화 아빠를 멘붕에 빠트린 딸들의 연애)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24241
+#EXTINF:-1 tvg-id="TVING|C20343" tvg-name="TVING|CH.둥둥" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E000963571.jpg" group-title="TVING",CH.둥둥(바나나나둥둥 14화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20343
+#EXTINF:-1 tvg-id="TVING|C18241" tvg-name="TVING|CH.대도서관" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18241.png" group-title="TVING",CH.대도서관(대도서관)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18241
+#EXTINF:-1 tvg-id="TVING|C18443" tvg-name="TVING|CH.빌리어즈TV" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001431155.jpg" group-title="TVING",CH.빌리어즈TV(The Lesson 시즌2 <4구편>황득희 - 잘라치기1)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18443
+#EXTINF:-1 tvg-id="TVING|C32742" tvg-name="TVING|CH.신서유기 신박한 게임" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001941421.jpg" group-title="TVING",CH.신서유기 신박한 게임(신서유기6 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32742
+#EXTINF:-1 tvg-id="TVING|C17041" tvg-name="TVING|CH.부암동 복수자들" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001259528.jpg" group-title="TVING",CH.부암동 복수자들(부암동 복수자들 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17041
+#EXTINF:-1 tvg-id="TVING|C18441" tvg-name="TVING|CH.식신로드 시즌3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001351223.jpg" group-title="TVING",CH.식신로드 시즌3(식신로드3 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18441
+#EXTINF:-1 tvg-id="TVING|C18545" tvg-name="TVING|CH.핑크퐁" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18545.png" group-title="TVING",CH.핑크퐁(동그라미를 만들자)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18545
+#EXTINF:-1 tvg-id="TVING|C19241" tvg-name="TVING|CH.Wanna One GO : ZERO BASE" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001260414.jpg" group-title="TVING",CH.Wanna One GO : ZERO BASE(WANNAONE GO   ZERO BASE 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C19241
+#EXTINF:-1 tvg-id="TVING|C19742" tvg-name="TVING|CH.막돼먹은 영애씨16" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001270137.jpg" group-title="TVING",CH.막돼먹은 영애씨16(막돼먹은 영애씨 시즌16 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C19742
+#EXTINF:-1 tvg-id="TVING|C20244" tvg-name="TVING|CH.파파독" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001038032.jpg" group-title="TVING",CH.파파독(파파독 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20244
+#EXTINF:-1 tvg-id="TVING|C20342" tvg-name="TVING|CH.헬로카봇 시즌3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001016277.jpg" group-title="TVING",CH.헬로카봇 시즌3(헬로카봇3 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20342
+#EXTINF:-1 tvg-id="TVING|C21441" tvg-name="TVING|CH. 윤식당2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001402246.jpg" group-title="TVING",CH. 윤식당2(윤식당2 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21441
+#EXTINF:-1 tvg-id="TVING|C21541" tvg-name="TVING|CH. 마더" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001334617.jpg" group-title="TVING",CH. 마더(마더 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21541
+#EXTINF:-1 tvg-id="TVING|C21941" tvg-name="TVING|CH.너의 목소리가 보여5" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001375472.jpg" group-title="TVING",CH.너의 목소리가 보여5(너의 목소리가 보여5 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21941
+#EXTINF:-1 tvg-id="TVING|C23041" tvg-name="TVING|CH.작은신의아이들" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001404246.jpg" group-title="TVING",CH.작은신의아이들(작은신의 아이들 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23041
+#EXTINF:-1 tvg-id="TVING|C23741" tvg-name="TVING|CH.원나잇푸드트립:언리미티드" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001755217.jpg" group-title="TVING",CH.원나잇푸드트립:언리미티드(원나잇 푸드트립 언리미티드 29화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23741
+#EXTINF:-1 tvg-id="TVING|C23841" tvg-name="TVING|CH.숲속의작은집" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001564415.jpg" group-title="TVING",CH.숲속의작은집(숲속의 작은 집 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23841
+#EXTINF:-1 tvg-id="TVING|C24041" tvg-name="TVING|CH.하트시그널2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001507266.jpg" group-title="TVING",CH.하트시그널2(하트 시그널2 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24041
+#EXTINF:-1 tvg-id="TVING|C24042" tvg-name="TVING|CH.미스터션샤인 하이라이트" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001797450.jpg" group-title="TVING",CH.미스터션샤인 하이라이트(미스터션샤인 23화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24042
+#EXTINF:-1 tvg-id="TVING|C24241" tvg-name="TVING|CH.내 딸의 남자들1" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001636322.jpg" group-title="TVING",CH.내 딸의 남자들1(2화 아빠를 멘붕에 빠트린 딸들의 연애)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24241
+#EXTINF:-1 tvg-id="TVING|C31441" tvg-name="TVING|CH.알함브라 궁전의 추억" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001940033.jpg" group-title="TVING",CH.알함브라 궁전의 추억(알함브라 궁전의 추억 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31441
+#EXTINF:-1 tvg-id="TVING|C31541" tvg-name="TVING|CH.따로 또 같이" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001925917.jpg" group-title="TVING",CH.따로 또 같이(따로 또 같이 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31541
+#EXTINF:-1 tvg-id="TVING|C31641" tvg-name="TVING|CH.주말사용설명서" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001798911.jpg" group-title="TVING",CH.주말사용설명서(주말사용설명서 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31641
+#EXTINF:-1 tvg-id="TVING|C32341" tvg-name="TVING|CH.나인룸" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001877522.jpg" group-title="TVING",CH.나인룸(나인룸 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32341
+#EXTINF:-1 tvg-id="TVING|C32541" tvg-name="TVING|CH.갓세븐의 레알타이" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002071117.jpg" group-title="TVING",CH.갓세븐의 레알타이(갓세븐의 레알타이 3화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32541
+#EXTINF:-1 tvg-id="TVING|C32741" tvg-name="TVING|CH.진심이 닿다" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002173264.jpg" group-title="TVING",CH.진심이 닿다(진심이 닿다 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32741
+#EXTINF:-1 tvg-id="TVING|C32941" tvg-name="TVING|CH.트랩" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002142517.jpg" group-title="TVING",CH.트랩(트랩 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32941
+#EXTINF:-1 tvg-id="TVING|C33542" tvg-name="TVING|CH.사이코메트리 그녀석" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002224883.jpg" group-title="TVING",CH.사이코메트리 그녀석(사이코메트리 그녀석 6화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33542
+#EXTINF:-1 tvg-id="TVING|C33841" tvg-name="TVING|CH.모두의 주방" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002195517.jpg" group-title="TVING",CH.모두의 주방(모두의 주방 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33841
+#EXTINF:-1 tvg-id="TVING|C34141" tvg-name="TVING|CH.무한걸스3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002181570.jpg" group-title="TVING",CH.무한걸스3(무한걸스 시즌3 43화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34141
+#EXTINF:-1 tvg-id="TVING|C34241" tvg-name="TVING|CH.도시경찰" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002183317.jpg" group-title="TVING",CH.도시경찰(도시경찰 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C34241
+#EXTINF:-1 tvg-id="TVING|C33041" tvg-name="TVING|CH.할리우드에서 아침을" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002110723.jpg" group-title="TVING",CH.할리우드에서 아침을(할리우드에서 아침을 3화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33041
+#EXTINF:-1 tvg-id="TVING|C15465" tvg-name="TVING|CH.그녀는 거짓말을 너무 사랑해" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001188214.jpg" group-title="TVING",CH.그녀는 거짓말을 너무 사랑해(그녀는 거짓말을 너무 사랑해 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15465
+#EXTINF:-1 tvg-id="TVING|C06521" tvg-name="TVING|CH.응팔TOP10" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000945633.jpg" group-title="TVING",CH.응팔TOP10(응답하라1988 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C06521
+#EXTINF:-1 tvg-id="TVING|C18142" tvg-name="TVING|CH.건담홀릭" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18142.png" group-title="TVING",CH.건담홀릭(건담홀릭)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18142
+#EXTINF:-1 tvg-id="TVING|C31041" tvg-name="TVING|CH.썸바디" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002048345.jpg" group-title="TVING",CH.썸바디(썸바디 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31041
+#EXTINF:-1 tvg-id="TVING|C24441" tvg-name="TVING|CH.내 딸의 남자들3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001626018.jpg" group-title="TVING",CH.내 딸의 남자들3(9화 너의 속마음이 궁금해!)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24441
+#EXTINF:-1 tvg-id="TVING|C24341" tvg-name="TVING|CH.내 딸의 남자들2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001635617.jpg" group-title="TVING",CH.내 딸의 남자들2(3화 F4의 완성)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C24341
+#EXTINF:-1 tvg-id="TVING|C18243" tvg-name="TVING|CH.씬님 채널" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C18243.png" group-title="TVING",CH.씬님 채널(씬님)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C18243
+#EXTINF:-1 tvg-id="TVING|C30243" tvg-name="TVING|CH.코인법률방" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002064822.jpg" group-title="TVING",CH.코인법률방(코인 법률방 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C30243
+#EXTINF:-1 tvg-id="TVING|C28242" tvg-name="TVING|CH.우리가 어떤 민족입니까!" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001257219.jpg" group-title="TVING",CH.우리가 어떤 민족입니까!(알아두면 쓸데없는 신비한 잡학사전2 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C28242
+#EXTINF:-1 tvg-id="TVING|C33541" tvg-name="TVING|CH.고등래퍼3" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002260674.jpg" group-title="TVING",CH.고등래퍼3(고등래퍼3 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C33541
+#EXTINF:-1 tvg-id="TVING|C20742" tvg-name="TVING|CH.지호토이" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001347787.jpg" group-title="TVING",CH.지호토이(지호토이 1화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20742
+#EXTINF:-1 tvg-id="TVING|C26742" tvg-name="TVING|CH.사이다한잔할래" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001250322.jpg" group-title="TVING",CH.사이다한잔할래(부암동 복수자들 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C26742
+#EXTINF:-1 tvg-id="TVING|C21241" tvg-name="TVING|CH. 2018 LoL 챔피언스 코리아 스프링 스플릿" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001412446.jpg" group-title="TVING",CH. 2018 LoL 챔피언스 코리아 스프링 스플릿([2018.03.21] KSV vs ROX / 2018 LoL 챔피언스 코리아 스프링 스플릿 49화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C21241
+#EXTINF:-1 tvg-id="TVING|C31941" tvg-name="TVING|CH.서울메이트2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002079317.jpg" group-title="TVING",CH.서울메이트2(서울메이트2 9화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C31941
+#EXTINF:-1 tvg-id="TVING|C15941" tvg-name="TVING|CH.구해줘" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001229945.jpg" group-title="TVING",CH.구해줘(구해줘 4화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15941
+#EXTINF:-1 tvg-id="TVING|C15546" tvg-name="TVING|CH.SNL코리아 시즌9" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001236326.jpg" group-title="TVING",CH.SNL코리아 시즌9(SNL코리아 시즌9 23화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15546
+#EXTINF:-1 tvg-id="TVING|C30841" tvg-name="TVING|CH.Hot 걸그룹 특집" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002355117.jpg" group-title="TVING",CH.Hot 걸그룹 특집(KCON 2019 JAPAN X M COUNTDOWN)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C30841
+#EXTINF:-1 tvg-id="TVING|C14944" tvg-name="TVING|CH.마스터셰프 코리아4" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001052708.jpg" group-title="TVING",CH.마스터셰프 코리아4('오렌지와 자몽을 이용한 디저트 만들기!')
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14944
+#EXTINF:-1 tvg-id="TVING|C07443" tvg-name="TVING|CH.신분을 숨겨라" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000852326.jpg" group-title="TVING",CH.신분을 숨겨라(신분을 숨겨라 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07443
+#EXTINF:-1 tvg-id="TVING|C23941" tvg-name="TVING|CH.하트시그널1" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001236193.jpg" group-title="TVING",CH.하트시그널1(하트 시그널 스페셜1)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C23941
+#EXTINF:-1 tvg-id="TVING|C20442" tvg-name="TVING|CH.터닝메카드W 시즌2" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001194862.jpg" group-title="TVING",CH.터닝메카드W 시즌2(터닝메카드W 시즌2 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20442
+#EXTINF:-1 tvg-id="TVING|C20844" tvg-name="TVING|CH.헤이지니" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001407032.jpg" group-title="TVING",CH.헤이지니(헤이지니 54화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20844
+#EXTINF:-1 tvg-id="TVING|C32841" tvg-name="TVING|CH.슈퍼인턴" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E002077467.jpg" group-title="TVING",CH.슈퍼인턴(슈퍼인턴 2화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C32841
+#EXTINF:-1 tvg-id="TVING|C27341" tvg-name="TVING|CH.뜻밖의 브로맨스" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001270547.jpg" group-title="TVING",CH.뜻밖의 브로맨스(슬기로운 감빵생활 5화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C27341
+#EXTINF:-1 tvg-id="TVING|C20841" tvg-name="TVING|CH.마이린TV" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001409757.jpg" group-title="TVING",CH.마이린TV(마이린TV 16화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C20841
+#EXTINF:-1 tvg-id="TVING|C14145" tvg-name="TVING|CH.기억" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E001045118.jpg" group-title="TVING",CH.기억(기억 10화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C14145
+#EXTINF:-1 tvg-id="TVING|C07322" tvg-name="TVING|CH.하트투하트" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0200/E000745524.jpg" group-title="TVING",CH.하트투하트(홍도와 두수의 첫날밤?!)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C07322
+#EXTINF:-1 tvg-id="TVING|C29341" tvg-name="TVING|CH.하늘에서 내리는 1억개의 별" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001857376.jpg" group-title="TVING",CH.하늘에서 내리는 1억개의 별(하늘에서 내리는 일억개의 별 8화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C29341
+#EXTINF:-1 tvg-id="RADIO1|01" tvg-name="RADIO1|TBS FM" tvg-logo="" group-title="RADIO1" radio="true",TBS FM
+http://tbs.hscdn.com/tbsradio/fm/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|02" tvg-name="RADIO1|TBS eFM" tvg-logo="" group-title="RADIO1" radio="true",TBS eFM
+http://tbs.hscdn.com/tbsradio/efm/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|03" tvg-name="RADIO1|CBS 음악FM" tvg-logo="" group-title="RADIO1" radio="true",CBS 음악FM
+http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|04" tvg-name="RADIO1|CBS 표준FM" tvg-logo="" group-title="RADIO1" radio="true",CBS 표준FM
+http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|05" tvg-name="RADIO1|EBS FM" tvg-logo="" group-title="RADIO1" radio="true",EBS FM
+http://58.229.187.43/fmradiobandiaod/bandiappaac/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|06" tvg-name="RADIO1|EBS 외국어" tvg-logo="" group-title="RADIO1" radio="true",EBS 외국어
+http://110.10.122.10/iradio/iradiolive_m4a/playlist.m3u8

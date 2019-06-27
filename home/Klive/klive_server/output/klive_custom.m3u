@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KBS|11" tvg-name="KBS|1TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237809933_114600.png" group-title="KBS",1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=11
+#EXTINF:-1 tvg-id="KBS|12" tvg-name="KBS|2TV" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237810007_114611.png" group-title="KBS",2TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=12
+#EXTINF:-1 tvg-id="MBC|01" tvg-name="MBC|MBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/MBC_730x411.jpg" group-title="MBC",MBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=MBC&id=01
+#EXTINF:-1 tvg-id="SBS|S01" tvg-name="SBS|SBS" tvg-logo="http://i.imgur.com/K2ztoDT.png" group-title="SBS",SBS
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S01
+#EXTINF:-1 tvg-id="TVING|C00551" tvg-name="TVING|tvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00551.png" group-title="TVING",tvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00551
+#EXTINF:-1 tvg-id="OKSUSU|178" tvg-name="OKSUSU|OCN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_178.png" group-title="OKSUSU",OCN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=178
+#EXTINF:-1 tvg-id="OKSUSU|70" tvg-name="OKSUSU|OBS" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_70.png" group-title="OKSUSU",OBS
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=70
+#EXTINF:-1 tvg-id="KBS|81" tvg-name="KBS|KBS24" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738325143_70038.png" group-title="KBS",KBS24
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=81
+#EXTINF:-1 tvg-id="TVING|C01143" tvg-name="TVING|O tvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01143.png" group-title="TVING",O tvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01143
+#EXTINF:-1 tvg-id="SBS|S03" tvg-name="SBS|SBS Plus" tvg-logo="http://i.imgur.com/asfyrTm.png" group-title="SBS",SBS Plus
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S03
+#EXTINF:-1 tvg-id="OKSUSU|426" tvg-name="OKSUSU|On style" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_426.png" group-title="OKSUSU",On style
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=426
+#EXTINF:-1 tvg-id="POOQ|M03" tvg-name="POOQ|MBC Every1" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M03.jpg" group-title="POOQ",MBC Every1
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M03
+#EXTINF:-1 tvg-id="KBS|N91" tvg-name="KBS|KBSN 드라마" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393154_70050.png" group-title="KBS",KBSN 드라마
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N91
+#EXTINF:-1 tvg-id="OKSUSU|904" tvg-name="OKSUSU|드라맥스" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_904.png" group-title="OKSUSU",드라맥스
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=904
+#EXTINF:-1 tvg-id="KBS|N92" tvg-name="KBS|KBSN 조이" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393212_70061.png" group-title="KBS",KBSN 조이
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N92
+#EXTINF:-1 tvg-id="OKSUSU|351" tvg-name="OKSUSU|oksusu healing" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_351.png" group-title="OKSUSU",oksusu healing
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=351
+#EXTINF:-1 tvg-id="POOQ|M02" tvg-name="POOQ|MBC Drama" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M02.jpg" group-title="POOQ",MBC Drama
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M02
+#EXTINF:-1 tvg-id="OKSUSU|271" tvg-name="OKSUSU|라이프타임" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_271.png" group-title="OKSUSU",라이프타임
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=271
+#EXTINF:-1 tvg-id="POOQ|K05" tvg-name="POOQ|KBSN Life" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K05.jpg" group-title="POOQ",KBSN Life
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K05
+#EXTINF:-1 tvg-id="KBS|N94" tvg-name="KBS|KBSN W" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393255_70072.png" group-title="KBS",KBSN W
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N94
+#EXTINF:-1 tvg-id="POOQ|C5501" tvg-name="POOQ|채널J" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5501.jpg" group-title="POOQ",채널J
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C5501
+#EXTINF:-1 tvg-id="TVING|C17141" tvg-name="TVING|채널A플러스" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17141.png" group-title="TVING",채널A플러스
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17141
+#EXTINF:-1 tvg-id="TVING|C01101" tvg-name="TVING|YTN Life" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01101.png" group-title="TVING",YTN Life
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01101
+#EXTINF:-1 tvg-id="SBS|S04" tvg-name="SBS|SBS funE" tvg-logo="http://i.imgur.com/D1EYJmr.png" group-title="SBS",SBS funE
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S04
+#EXTINF:-1 tvg-id="TVING|C00585" tvg-name="TVING|TV CHOSUN 2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00585.png" group-title="TVING",TV CHOSUN 2
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C00585
+#EXTINF:-1 tvg-id="TVING|C17142" tvg-name="TVING|MBN Plus" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17142.png" group-title="TVING",MBN Plus
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17142
+#EXTINF:-1 tvg-id="TVING|C17341" tvg-name="TVING|히스토리" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17341.png" group-title="TVING",히스토리
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C17341
+#EXTINF:-1 tvg-id="TVING|C15347" tvg-name="TVING|YTN사이언스" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15347.png" group-title="TVING",YTN사이언스
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15347
+#EXTINF:-1 tvg-id="POOQ|C3901" tvg-name="POOQ|채널W" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C3901.jpg" group-title="POOQ",채널W
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C3901
+#EXTINF:-1 tvg-id="KBS|14" tvg-name="KBS|KBS WORLD" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738290399_70027.png" group-title="KBS",KBS WORLD
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=14
+#EXTINF:-1 tvg-id="OKSUSU|884" tvg-name="OKSUSU|K star" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_884.png" group-title="OKSUSU",K star
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=884
+#EXTINF:-1 tvg-id="SBS|S02" tvg-name="SBS|SBS Sports" tvg-logo="http://i.imgur.com/j1vHAu6.png" group-title="SBS",SBS Sports
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S02
+#EXTINF:-1 tvg-id="OKSUSU|134" tvg-name="OKSUSU|SPOTV+" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_134.png" group-title="OKSUSU",SPOTV+
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=134
+#EXTINF:-1 tvg-id="SBS|S05" tvg-name="SBS|SBS Golf" tvg-logo="http://i.imgur.com/HdS0GNV.png" group-title="SBS",SBS Golf
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S05
+#EXTINF:-1 tvg-id="OKSUSU|135" tvg-name="OKSUSU|Golf Channel Korea" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_135.png" group-title="OKSUSU",Golf Channel Korea
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=135
+#EXTINF:-1 tvg-id="OKSUSU|273" tvg-name="OKSUSU|FISHING TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_273.png" group-title="OKSUSU",FISHING TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=273
+#EXTINF:-1 tvg-id="OKSUSU|279" tvg-name="OKSUSU|브레인TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_279.png" group-title="OKSUSU",브레인TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=279
+#EXTINF:-1 tvg-id="TVING|C15152" tvg-name="TVING|DIA TV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15152.png" group-title="TVING",DIA TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15152
+#EXTINF:-1 tvg-id="VIDEOPORTAL|681" tvg-name="VIDEOPORTAL|OGN" tvg-logo="http://210.182.60.11/image/OGN_H180724.png" group-title="VIDEOPORTAL",OGN
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=681
+#EXTINF:-1 tvg-id="POOQ|E07" tvg-name="POOQ|EBS 2" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E07.jpg" group-title="POOQ",EBS 2
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=E07
+#EXTINF:-1 tvg-id="POOQ|K17" tvg-name="POOQ|뽀로로TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K17.jpg" group-title="POOQ",뽀로로TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K17
+#EXTINF:-1 tvg-id="OKSUSU|329" tvg-name="OKSUSU|oksusu 주니어" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_329.png" group-title="OKSUSU",oksusu 주니어
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=329
+#EXTINF:-1 tvg-id="OKSUSU|378" tvg-name="OKSUSU|JEI 재능TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_378.png" group-title="OKSUSU",JEI 재능TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=378
+#EXTINF:-1 tvg-id="OKSUSU|374" tvg-name="OKSUSU|어린이TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_374.png" group-title="OKSUSU",어린이TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=374
+#EXTINF:-1 tvg-id="OKSUSU|370" tvg-name="OKSUSU|bravo kids" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_370.png" group-title="OKSUSU",bravo kids
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=370
+#EXTINF:-1 tvg-id="OKSUSU|824" tvg-name="OKSUSU|플레이런TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_824.png" group-title="OKSUSU",플레이런TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=824
+#EXTINF:-1 tvg-id="POOQ|S10" tvg-name="POOQ|Nick" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S10.jpg" group-title="POOQ",Nick
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S10
+#EXTINF:-1 tvg-id="KBS|N96" tvg-name="KBS|KBSN KIDS" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/4/3/1522738393376_70094.png" group-title="KBS",KBSN KIDS
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=N96
+#EXTINF:-1 tvg-id="POOQ|M06" tvg-name="POOQ|MBC Music" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M06.jpg" group-title="POOQ",MBC Music
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M06
+#EXTINF:-1 tvg-id="SBS|S09" tvg-name="SBS|SBS MTV" tvg-logo="http://i.imgur.com/OeSJ9Ik.png" group-title="SBS",SBS MTV
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S09
+#EXTINF:-1 tvg-id="POOQ|M10" tvg-name="POOQ|ALL THE K-POP" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M10.jpg" group-title="POOQ",ALL THE K-POP
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M10
+#EXTINF:-1 tvg-id="OKSUSU|905" tvg-name="OKSUSU|CUBE TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_905.png" group-title="OKSUSU",CUBE TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=905
+#EXTINF:-1 tvg-id="VIDEOPORTAL|765" tvg-name="VIDEOPORTAL|가요TV" tvg-logo="http://210.182.60.11/image/KayoTV_H160721.png" group-title="VIDEOPORTAL",가요TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=765
+#EXTINF:-1 tvg-id="OKSUSU|221" tvg-name="OKSUSU|국회방송" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_221.png" group-title="OKSUSU",국회방송
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=221
+#EXTINF:-1 tvg-id="SBS|S06" tvg-name="SBS|SBS CNBC" tvg-logo="http://i.imgur.com/SfDs4qN.png" group-title="SBS",SBS CNBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S06
+#EXTINF:-1 tvg-id="OKSUSU|627" tvg-name="OKSUSU|MTN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_627.png" group-title="OKSUSU",MTN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=627
+#EXTINF:-1 tvg-id="OKSUSU|622" tvg-name="OKSUSU|팍스경제TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_622.png" group-title="OKSUSU",팍스경제TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=622
+#EXTINF:-1 tvg-id="POOQ|S13" tvg-name="POOQ|SBS Mobidic" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S13.jpg" group-title="POOQ",SBS Mobidic
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=S13
+#EXTINF:-1 tvg-id="VIDEOPORTAL|726" tvg-name="VIDEOPORTAL|폴라리스TV" tvg-logo="http://210.182.60.11/image/polarisTV_H160721.png" group-title="VIDEOPORTAL",폴라리스TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=726
+#EXTINF:-1 tvg-id="OKSUSU|774" tvg-name="OKSUSU|CNN International" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_774.png" group-title="OKSUSU",CNN International
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=774
+#EXTINF:-1 tvg-id="OKSUSU|788" tvg-name="OKSUSU|BET" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_788.png" group-title="OKSUSU",BET
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=788
+#EXTINF:-1 tvg-id="OKSUSU|120" tvg-name="OKSUSU|Eurosport" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_120.png" group-title="OKSUSU",Eurosport
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=120
+#EXTINF:-1 tvg-id="OKSUSU|781" tvg-name="OKSUSU|Star Sports" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_781.png" group-title="OKSUSU",Star Sports
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=781
+#EXTINF:-1 tvg-id="POOQ|K12" tvg-name="POOQ|CCTV4" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4301.jpg" group-title="POOQ",CCTV4
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K12
+#EXTINF:-1 tvg-id="TVING|C15841" tvg-name="TVING|CH.신서유기 시즌4" tvg-logo="http://image.tving.com/upload/cms/caie/CAIE0400/E001224839.jpg" group-title="TVING",CH.신서유기 시즌4(신서유기 시즌4 7화)
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C15841
+#EXTINF:-1 tvg-id="OKSUSU|9698" tvg-name="OKSUSU|CH. 도깨비" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9698.png" group-title="OKSUSU",CH. 도깨비
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9698
+#EXTINF:-1 tvg-id="OKSUSU|9339" tvg-name="OKSUSU|CH. 미생" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_9339.png" group-title="OKSUSU",CH. 미생
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=9339
+#EXTINF:-1 tvg-id="RADIO1|01" tvg-name="RADIO1|TBS FM" tvg-logo="" group-title="RADIO1" radio="true",TBS FM
+http://tbs.hscdn.com/tbsradio/fm/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|02" tvg-name="RADIO1|TBS eFM" tvg-logo="" group-title="RADIO1" radio="true",TBS eFM
+http://tbs.hscdn.com/tbsradio/efm/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|03" tvg-name="RADIO1|CBS 음악FM" tvg-logo="" group-title="RADIO1" radio="true",CBS 음악FM
+http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|04" tvg-name="RADIO1|CBS 표준FM" tvg-logo="" group-title="RADIO1" radio="true",CBS 표준FM
+http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|05" tvg-name="RADIO1|EBS FM" tvg-logo="" group-title="RADIO1" radio="true",EBS FM
+http://58.229.187.43/fmradiobandiaod/bandiappaac/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIO1|06" tvg-name="RADIO1|EBS 외국어" tvg-logo="" group-title="RADIO1" radio="true",EBS 외국어
+http://110.10.122.10/iradio/iradiolive_m4a/playlist.m3u8
+#EXTINF:-1 tvg-id="POOQ|C2705" tvg-name="POOQ|KISS - 2000년대 인기가요" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2705.jpg" group-title="POOQ RADIO" radio="true",KISS - 2000년대 인기가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2705
+#EXTINF:-1 tvg-id="POOQ|C2703" tvg-name="POOQ|KISS - 8090인기가요" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2703.jpg" group-title="POOQ RADIO" radio="true",KISS - 8090인기가요
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2703
+#EXTINF:-1 tvg-id="POOQ|M07" tvg-name="POOQ|MBC 표준 FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_M07.jpg" group-title="POOQ RADIO" radio="true",MBC 표준 FM
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M07
+#EXTINF:-1 tvg-id="POOQ|K01" tvg-name="POOQ|KBS 1TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K01.jpg" group-title="POOQ",KBS 1TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K01
+#EXTINF:-1 tvg-id="OKSUSU|872" tvg-name="OKSUSU|tvN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_872.png" group-title="OKSUSU",tvN
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=872
+#EXTINF:-1 tvg-id="TVING|C01582" tvg-name="TVING|JTBC" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01582.png" group-title="TVING",JTBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=TVING&id=C01582
+#EXTINF:-1 tvg-id="OKSUSU|240" tvg-name="OKSUSU|JTBC" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_240.png" group-title="OKSUSU",JTBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=240
+#EXTINF:-1 tvg-id="POOQ|C2301" tvg-name="POOQ|JTBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2301.jpg" group-title="POOQ",JTBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=C2301
+#EXTINF:-1 tvg-id="VIDEOPORTAL|747" tvg-name="VIDEOPORTAL|JTBC" tvg-logo="http://210.182.60.11/image/JTBC_H161012.png" group-title="VIDEOPORTAL",JTBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=747
+#EXTINF:-1 tvg-id="POOQ|K02" tvg-name="POOQ|KBS 2TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K02.jpg" group-title="POOQ",KBS 2TV
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=K02
+#EXTINF:-1 tvg-id="POOQ|M01" tvg-name="POOQ|MBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M01.jpg" group-title="POOQ",MBC
+http://gtnsys.iptime.org:9979/url?mode=url&type=POOQ&id=M01
