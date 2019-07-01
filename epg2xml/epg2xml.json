@@ -15,7 +15,7 @@
     "default_icon_url": "",
     "###_COMMENT_###" : "### 제목에 재방송 정보 출력 ###",
     "default_rebroadcast": "n",
-    "###_COMMENT_###" : "#### 제목에 회차정보 출력 ###",     
+    "###_COMMENT_###" : "#### 제목에 회차정보 출력 ###",
     "default_episode" : "y",
     "###_COMMENT_###" : "### EPG 정보 추가 출력 ###",
     "default_verbose" : "y",
@@ -24,8 +24,8 @@
     "###_COMMENT_###" : "### epg 데이터 가져오는 기간으로 1에서 7까지 설정가능 ###",
     "default_fetch_limit" : "1",
     "###_COMMENT_###" : "### epg 저장시 기본 저장 이름 (ex: /home/tvheadend/xmltv.xml) ###",
-    "default_xml_file" : "/home/Klive/klive_server/output/xmltv.xml",
+    "default_xml_file" : "/iptv/Klive/klive_server/output/xmltv.xml",
     "###_COMMENT_###" : "### # External XMLTV 사용시 기본 소켓 이름 (ex: /home/tvheadend/xmltv.sock) ###",
-    "default_xml_socket" : "/home/Klive/klive_server/output/xmltv.sock",
+    "default_xml_socket" : "/iptv/Klive/klive_server/output/xmltv.sock",
     "###_COMMENT_###" : ""
 }
