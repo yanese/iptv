@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 주소  포트
-BIND_ADDR = ''
+BIND_ADDR = 'input_your_ip_or_url'
 BIND_PORT = 9979
 
 # 푹
