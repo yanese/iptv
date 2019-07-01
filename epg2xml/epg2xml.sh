@@ -1,2 +1,2 @@
 #!/bin/sh
-/usr/bin/php /home/epg2xml/epg2xml-web.php
+/usr/bin/php /iptv/epg2xml/epg2xml-web.php
