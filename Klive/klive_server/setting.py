@@ -4,8 +4,8 @@ BIND_ADDR = ''
 BIND_PORT = 9979
 
 # 푹
-POOQ_ID				= ''
-POOQ_PW				= ''
+POOQ_ID				= 'input_your_id'
+POOQ_PW				= 'input_your_pw'
 POOQ_QUALITY		= '5000'		# 5000 2000 1000 500
 
 # 티빙
@@ -15,17 +15,17 @@ TVING_QUALITY		= 'stream40'	# stream50 stream40 stream30
 TVING_LOGIN_TYPE	= 'CJONE'		# CJONE TVING
 
 # 옥수수
-OKSUSU_ID			= ''
-OKSUSU_PW			= ''
+OKSUSU_ID			= 'input_your_id'
+OKSUSU_PW			= 'input_your_pw'
 OKSUSU_QUALITY		= 'FHD'			# FHD HD SD
 
 # 올레 모바일 TV
-OLLEH_ID			= ''
-OLLEH_PW			= ''
+OLLEH_ID			= 'input_your_id'
+OLLEH_PW			= 'input_your_pw'
 OLLEH_QUALITY		= '4000'		# 4000 2000 1000
 
 # 커스텀
-USE_CUSTOM			= True 
+USE_CUSTOM			= True
 USE_CUSTOM_SOURCE	= 'custom.txt'
 
 
