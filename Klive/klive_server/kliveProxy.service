@@ -4,7 +4,7 @@ Description=KLive Server
 [Service]
 Environment=
 WorkingDirectory=/iptv/Klive/klive_server/
-ExecStart=/iptv/Klive/klive_server/venv/bin/python /home/Klive/klive_server/kliveProxy.py
+ExecStart=/iptv/Klive/klive_server/venv/bin/python /iptv/Klive/klive_server/kliveProxy.py
 Restart=always
 
 [Install]
