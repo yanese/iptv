@@ -204,8 +204,6 @@ http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=177
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=124
 #EXTINF:-1,SPOTV GAMES
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=254
-#EXTINF:-1 tvg-id="OKSUSU|352" tvg-name="OKSUSU|oksusu e-sports",oksusu e-sports
-http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=352
 
 #EXTINF:-1 tvg-id="OKSUSU|120" tvg-name="OKSUSU|Eurosport",Euro sport
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=120
@@ -220,7 +218,7 @@ http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=134
 #EXTINF:-1,JTBC3
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=436
 #EXTINF:-1 tvg-id="SBS|S02" tvg-name="SBS|SBS Sports",SBS Sports
-http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S02
+
 #EXTINF:-1 tvg-id="SBS|S05" tvg-name="SBS|SBS Golf",SBS Golf
 http://gtnsys.iptime.org:9979/url?mode=url&type=SBS&id=S05
 #EXTINF:-1,JTBC Golf
