@@ -16,7 +16,7 @@ do_start() {
 if [ -z "$pid" ]; then
 echo "start klive server."
 cd /home/klive
-su root -c "nohup /usr/bin/python /home/klive/kliveProxy.py &" > /dev/null 2>&1
+su root -c "nohup /iptv/Klive/klive_server/venv/bin/python /iptv/Klive/klive_server/kliveProxy.py &" > /dev/null 2>&1
 else
 echo "kilve server already running."
 fi
