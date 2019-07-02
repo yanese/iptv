@@ -15,7 +15,7 @@ pid=`ps ax | grep python | grep kliveProxy | awk '{ print $1 }'`
 do_start() {
 if [ -z "$pid" ]; then
 echo "start klive server."
-cd /home/klive
+cd /iptv/Klive/klive_server
 su root -c "nohup /iptv/Klive/klive_server/venv/bin/python /iptv/Klive/klive_server/kliveProxy.py &" > /dev/null 2>&1
 else
 echo "kilve server already running."
