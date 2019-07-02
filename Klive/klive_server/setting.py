@@ -20,8 +20,8 @@ OKSUSU_PW			= 'input_your_pw'
 OKSUSU_QUALITY		= 'FHD'			# FHD HD SD
 
 # 올레 모바일 TV
-OLLEH_ID			= 'input_your_id'
-OLLEH_PW			= 'input_your_pw'
+OLLEH_ID			= ''
+OLLEH_PW			= ''
 OLLEH_QUALITY		= '4000'		# 4000 2000 1000
 
 # 커스텀
