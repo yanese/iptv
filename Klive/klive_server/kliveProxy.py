@@ -27,12 +27,24 @@ def m3uall():
 	_filepath = os.path.join(current_path, PATH_OUTPUT, FILENAME_M3U)
 	if os.path.exists(_filepath): return ReadFile(_filepath)
 
+@app.route('/iptv.m3u')
+def m3uall():
+	current_path = os.path.dirname(os.path.abspath(__file__))
+	_filepath = os.path.join(current_path, PATH_OUTPUT, FILENAME_IPTV)
+	if os.path.exists(_filepath): return ReadFile(_filepath)
+
+@app.route('/xmltv.xml')
+def m3uall():
+	current_path = os.path.dirname(os.path.abspath(__file__))
+	_filepath = os.path.join(current_path, PATH_OUTPUT, FILENAME_XMLTV)
+	if os.path.exists(_filepath): return ReadFile(_filepath)
+
 @app.route('/epg')
 def server_epg():
 	current_path = os.path.dirname(os.path.abspath(__file__))
 	if USE_CUSTOM: _filepath = os.path.join(current_path, PATH_OUTPUT, USE_CUSTOM_EPG)
 	else: _filepath = os.path.join(current_path, PATH_OUTPUT, FILENAME_EPG)
-	if os.path.exists( _filepath ): 
+	if os.path.exists( _filepath ):
 		ret = ReadFile( _filepath )
 		#Response(ret, mimetype='text/xml')
 		return ret
@@ -139,5 +151,3 @@ if __name__ == '__main__':
 		http.serve_forever()
 	except:
 		app.run(host='0.0.0.0', port=BIND_PORT, debug=False)
-
-
