@@ -14,6 +14,18 @@ app = Flask(__name__)
 def root():
 	return 'Klive'
 
+@app.route('/iptv')
+def iptv():
+	current_path = os.path.dirname(os.path.abspath(__file__))
+	_filepath = os.path.join(current_path, PATH_OUTPUT, YANESE_CUSTOM_IPTV)
+	if os.path.exists(_filepath): return ReadFile(_filepath)
+
+@app.route('/xmltv')
+def xmltv():
+	current_path = os.path.dirname(os.path.abspath(__file__))
+	_filepath = os.path.join(current_path, PATH_OUTPUT, YANESE_CUSTOM_XMLTV)
+	if os.path.exists(_filepath): return ReadFile(_filepath)
+
 @app.route('/m3u')
 def m3u():
 	current_path = os.path.dirname(os.path.abspath(__file__))

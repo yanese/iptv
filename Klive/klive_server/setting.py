@@ -36,6 +36,8 @@ USE_CUSTOM_REGEX		= '^(?P<channel_id>.*?)%s(?P<channel_number>.*?)%s(?P<channel_
 USE_CUSTOM_M3U			= 'klive_custom.m3u'
 USE_CUSTOM_EPG			= 'klive_custom.xml'
 
+YANESE_CUSTOM_IPTV  = 'iptv.m3u'
+YANESE_CUSTOM_XMLTV  = 'xmltv.xml'
 CONTENTS_LIST		= 'KBS|MBC|SBS|POOQ|TVING|OKSUSU|OLLEH|VIDEOPORTAL|EVERYON|TVING_VOD|RADIO1'
 FILENAME_M3U		= 'klive.m3u'
 FILENAME_EPG 		= 'klive.xml'
