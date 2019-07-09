@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /iptv/Klive/klive_server/output
+rm iptv.m3u
+wget https://raw.githubusercontent.com/yanese/iptv/master/Klive/klive_server/output/iptv.m3u
