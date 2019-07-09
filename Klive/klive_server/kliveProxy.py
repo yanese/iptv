@@ -14,6 +14,12 @@ app = Flask(__name__)
 def root():
 	return 'Klive'
 
+@app.route('/epgall')
+def epgall():
+	current_path = os.path.dirname(os.path.abspath(__file__))
+	_filepath = os.path.join(current_path, PATH_OUTPUT, FILENAME_EPG)
+	if os.path.exists(_filepath): return ReadFile(_filepath)
+
 @app.route('/iptv')
 def iptv():
 	current_path = os.path.dirname(os.path.abspath(__file__))
