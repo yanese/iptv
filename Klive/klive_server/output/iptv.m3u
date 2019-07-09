@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://gtnsys.iptime.org:9979/epg" refresh="3600"
+﻿#EXTM3U url-tvg="http://gtnsys.iptime.org:9979/xmltv" refresh="3600"
 
 #EXTINF:-1,SBS
 http://59.19.15.149:9981/stream/channelid/1905895860
@@ -24,7 +24,7 @@ http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=800
 
 
 #EXTINF:-1,BBC WN
-#EXTINF:-1 tvg-id="OKSUSU|774" tvg-name="OKSUSU|CNN International",CNN International
+#EXTINF:-1,CNN International
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=774
 #EXTINF:-1,CNN US
 #EXTINF:-1,CNBC
@@ -65,17 +65,17 @@ http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=773
 #EXTINF:-1,Sundance Channel
 
 
-#EXTINF:-1 tvg-id="OKSUSU|271" tvg-name="OKSUSU|라이프타임",Lifetime
+#EXTINF:-1 tvg-id="POOQ|C5902" tvg-name="POOQ|LIFETIME",Lifetime
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=271
 #EXTINF:-1 tvg-id="TVING|C17341" tvg-name="TVING|히스토리",History
 #EXTINF:-1,다큐원
 
 
-#EXTINF:-1 tvg-id="OLLEH|453" tvg-name="OLLEH|PLAYY 프리미엄",PLAYY 프리미엄
+#EXTINF:-1 tvg-id="POOQ|H02" tvg-name="POOQ|PLAYY 프리미엄 영화",PLAYY 프리미엄
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=357
-#EXTINF:-1 tvg-id="OLLEH|452" tvg-name="OLLEH|PLAYY  웰메이드",PLAYY 웰메이드
+#EXTINF:-1 tvg-id="POOQ|H01" tvg-name="POOQ|PLAYY 웰메이드 영화",PLAYY 웰메이드
 http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=392
-#EXTINF:-1 tvg-id="OLLEH|468" tvg-name="OLLEH|PLAYY 액션 영화",PLAYY 액션 영화
+#EXTINF:-1 tvg-id="POOQ|H07" tvg-name="POOQ|PLAYY 액션영화",PLAYY 액션 영화
 #EXTINF:-1 tvg-id="OLLEH|469" tvg-name="OLLEH|PLAYY 힐링 영화",PLAYY 힐링 영화
 #EXTINF:-1 tvg-id="OLLEH|454" tvg-name="OLLEH|PLAYY 웹드라마",PLAYY 웹드라마
 
