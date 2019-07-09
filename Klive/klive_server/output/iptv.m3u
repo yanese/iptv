@@ -23,7 +23,7 @@ http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=822
 http://gtnsys.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=800
 
 
-#EXTINF:-1 tvg-id="OLLEH|213" tvg-name="OLLEH|BBC WN",BBC WN
+#EXTINF:-1,BBC WN
 #EXTINF:-1 tvg-id="OKSUSU|774" tvg-name="OKSUSU|CNN International",CNN International
 http://gtnsys.iptime.org:9979/url?mode=url&type=OKSUSU&id=774
 #EXTINF:-1,CNN US
