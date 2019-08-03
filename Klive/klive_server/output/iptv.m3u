@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://gentech.iptime.org:9979//xmltv" refresh="3600"
+﻿#EXTM3U url-tvg="http://gentech.iptime.org:9979/xmltv" refresh="3600"
 
 #EXTINF:-1,SBS
 http://59.19.15.149:9981/stream/channelid/1905895860
@@ -9,26 +9,26 @@ http://59.19.15.149:9981/stream/channelid/1310264693
 #EXTINF:-1,MBC
 http://59.19.15.149:9981/stream/channelid/2036298520
 #EXTINF:-1,JTBC
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=240
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=240
 #EXTINF:-1,OBS
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=70
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=70
 
 #EXTINF:-1,EBS
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=15
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=15
 #EXTINF:-1,EBS2
 http://59.19.15.149:9981/stream/channelid/1197519860
 #EXTINF:-1,EBS English
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=822
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=822
 #EXTINF:-1,JEI EnglishTV
-http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=800
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=793
 
 
 #EXTINF:-1,BBC WN
 #EXTINF:-1,CNN International
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=774
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=774
 #EXTINF:-1,CNN US
 #EXTINF:-1,CNBC
-http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=735
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=174
 #EXTINF:-1,Fox News
 #EXTINF:-1,Euro News
 #EXTINF:-1,Australia Plus
@@ -45,7 +45,7 @@ http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=735
 #EXTINF:-1,아리랑 TV
 
 #EXTINF:-1 tvg-id="OKSUSU|788" tvg-name="OKSUSU|BET",BET
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=788
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=788
 #EXTINF:-1,Extreme Fun
 #EXTINF:-1,E! Entertainment
 #EXTINF:-1,TV5MONDE
@@ -56,7 +56,7 @@ http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=788
 #EXTINF:-1,Discovery Science
 #EXTINF:-1,NatGeo People
 #EXTINF:-1,NatGeo Wild
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=773
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=773
 #EXTINF:-1,Da Vinci Learning
 #EXTINF:-1,BBC Earth
 #EXTINF:-1,HGTV
@@ -66,15 +66,15 @@ http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=773
 
 
 #EXTINF:-1 tvg-id="POOQ|C5902" tvg-name="POOQ|LIFETIME",Lifetime
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=271
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=271
 #EXTINF:-1 tvg-id="TVING|C17341" tvg-name="TVING|히스토리",History
 #EXTINF:-1,다큐원
 
 
 #EXTINF:-1 tvg-id="POOQ|H02" tvg-name="POOQ|PLAYY 프리미엄 영화",PLAYY 프리미엄
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=357
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=357
 #EXTINF:-1 tvg-id="POOQ|H01" tvg-name="POOQ|PLAYY 웰메이드 영화",PLAYY 웰메이드
-http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=392
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=392
 #EXTINF:-1 tvg-id="POOQ|H07" tvg-name="POOQ|PLAYY 액션영화",PLAYY 액션 영화
 #EXTINF:-1 tvg-id="OLLEH|469" tvg-name="OLLEH|PLAYY 힐링 영화",PLAYY 힐링 영화
 #EXTINF:-1 tvg-id="OLLEH|454" tvg-name="OLLEH|PLAYY 웹드라마",PLAYY 웹드라마
@@ -83,7 +83,7 @@ http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=392
 #EXTINF:-1,캐치온1
 #EXTINF:-1,캐치온2
 #EXTINF:-1,OCN
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=178
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=178
 #EXTINF:-1,채널CGV
 #EXTINF:-1,스크린
 #EXTINF:-1,cineF
@@ -99,24 +99,24 @@ http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=178
 #EXTINF:-1,INSIGHT TV
 #EXTINF:-1,FX
 #EXTINF:-1,tvN
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=872
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=872
 #EXTINF:-1,O tvN
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=527
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=527
 #EXTINF:-1,XtvN
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=185
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=185
 #EXTINF:-1,JTBC2
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=874
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=874
 #EXTINF:-1,JTBC4
-http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=767
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=767
 #EXTINF:-1,SBS Plus
-http://gentech.iptime.org:9979//url?mode=url&type=SBS&id=S03
+http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S03
 #EXTINF:-1,KBS DRAMA
-http://gentech.iptime.org:9979//url?mode=url&type=KBS&id=N91
+http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N91
 #EXTINF:-1,KBS W
-http://gentech.iptime.org:9979//url?mode=url&type=KBS&id=N94
+http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N94
 #EXTINF:-1,MBC Dramanet
 #EXTINF:-1,드라맥스
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=904
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=904
 #EXTINF:-1,SkyDrama
 #EXTINF:-1,드라마H
 #EXTINF:-1,드라마큐브
@@ -125,17 +125,17 @@ http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=904
 
 #EXTINF:-1 tvg-id="OLLEH|502" tvg-name="OLLEH|sky PetPARK",SkyPetPark
 #EXTINF:-1,SBS funE
-http://gentech.iptime.org:9979//url?mode=url&type=SBS&id=S04
+http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S04
 #EXTINF:-1,KBS JOY
-http://gentech.iptime.org:9979//url?mode=url&type=KBS&id=N92
+http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N92
 #EXTINF:-1 tvg-id="POOQ|M03" tvg-name="POOQ|MBC Every1",MBC Every1
 #EXTINF:-1 tvg-id="POOQ|M06" tvg-name="POOQ|MBC Music",MBC MUSIC
 #EXTINF:-1,온스타일
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=426
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=426
 #EXTINF:-1,올리브
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=431
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=431
 #EXTINF:-1,K STAR
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=884
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=884
 #EXTINF:-1,코미디TV
 #EXTINF:-1,SkyENT
 #EXTINF:-1,E채널
@@ -150,28 +150,28 @@ http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=884
 #EXTINF:-1,니켈로디언
 #EXTINF:-1 tvg-id="OLLEH|451" tvg-name="OLLEH|드림웍스 채널",Dream Works Channel
 #EXTINF:-1,Disney Channel
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=334
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=334
 #EXTINF:-1,디즈니주니어
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=335
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=335
 #EXTINF:-1,애니플러스
-http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=699
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=699
 #EXTINF:-1,Tooniverse
 #EXTINF:-1,ANIMAX
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=371
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=371
 #EXTINF:-1 tvg-id="OLLEH|426" tvg-name="OLLEH|애니원티비",애니원
 #EXTINF:-1,애니박스
 #EXTINF:-1,대교 어린이TV
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=374
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=374
 #EXTINF:-1 tvg-id="OKSUSU|378" tvg-name="OKSUSU|JEI 재능TV",JEI 재능TV
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=378
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=378
 #EXTINF:-1 tvg-id="OKSUSU|370" tvg-name="OKSUSU|bravo kids",bravo kids
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=370
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=370
 #EXTINF:-1 tvg-id="KBS|N96" tvg-name="KBS|KBSN KIDS",KBS kids
-http://gentech.iptime.org:9979//url?mode=url&type=KBS&id=N96
+http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N96
 #EXTINF:-1,EBS kids
-http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=607
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=607
 #EXTINF:-1 tvg-id="OKSUSU|329" tvg-name="OKSUSU|oksusu 주니어",oksusu 주니어
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=329
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=329
 #EXTINF:-1 tvg-id="OLLEH|521" tvg-name="OLLEH|Miao Mi",Miao Mi
 #EXTINF:-1,부메랑
 #EXTINF:-1,키즈원
@@ -179,92 +179,92 @@ http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=329
 
 #EXTINF:-1 tvg-id="OLLEH|443" tvg-name="OLLEH|Channel V",Channel [V]
 #EXTINF:-1,Mnet
-http://gentech.iptime.org:9979//url?mode=url&type=VIDEOPORTAL&id=687
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=687
 #EXTINF:-1 tvg-id="OKSUSU|905" tvg-name="OKSUSU|CUBE TV",CUBE TV
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=905
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=905
 
 
 #EXTINF:-1 tvg-id="OLLEH|507" tvg-name="OLLEH|대교 상상Kids",대교 상상Kids
 #EXTINF:-1,EBS PLUS1
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=820
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=820
 #EXTINF:-1,EBS PLUS2
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=821
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=821
 
 
 #EXTINF:-1 tvg-id="OLLEH|458" tvg-name="OLLEH|채널차이나",채널차이나
 #EXTINF:-1,중화TV
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=186
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=186
 #EXTINF:-1,AsiaN
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=177
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=177
 #EXTINF:-1,텔레노벨라
 
 
 #EXTINF:-1 tvg-id="VIDEOPORTAL|681" tvg-name="VIDEOPORTAL|OGN",OGN
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=124
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=124
 #EXTINF:-1,SPOTV GAMES
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=254
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=254
 
 #EXTINF:-1 tvg-id="OKSUSU|120" tvg-name="OKSUSU|Eurosport",Euro sport
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=120
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=120
 #EXTINF:-1 tvg-id="OKSUSU|781" tvg-name="OKSUSU|Star Sports",Star Sports
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=781
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=781
 #EXTINF:-1,SPOTV
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=125
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=125
 #EXTINF:-1,SPOTV2
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=424
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=424
 #EXTINF:-1 tvg-id="OKSUSU|134" tvg-name="OKSUSU|SPOTV+",SPOTV+
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=134
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=134
 #EXTINF:-1,JTBC3
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=436
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=436
 #EXTINF:-1 tvg-id="SBS|S02" tvg-name="SBS|SBS Sports",SBS Sports
 
 #EXTINF:-1 tvg-id="SBS|S05" tvg-name="SBS|SBS Golf",SBS Golf
-http://gentech.iptime.org:9979//url?mode=url&type=SBS&id=S05
+http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S05
 #EXTINF:-1,JTBC Golf
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=127
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=127
 #EXTINF:-1 tvg-id="OLLEH|237" tvg-name="OLLEH|골프 코리아",The Golf Channel
 #EXTINF:-1,IB SPORTS
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=123
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=123
 #EXTINF:-1,빌리어즈티비
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=122
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=122
 
 
 #EXTINF:-1 tvg-id="179",SkyTravel
 #EXTINF:-1,FTV
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=530
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=530
 #EXTINF:-1 tvg-id="OKSUSU|273" tvg-name="OKSUSU|FISHING TV",FISHING TV
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=273
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=273
 
 
 #EXTINF:-1,연합뉴스TV
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=571
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=571
 #EXTINF:-1,YTN
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=570
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=570
 #EXTINF:-1 tvg-id="SBS|S06" tvg-name="SBS|SBS CNBC",SBS CNBC
-http://gentech.iptime.org:9979//url?mode=url&type=SBS&id=S06
+http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S06
 
 #EXTINF:-1,MBN
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=241
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=241
 #EXTINF:-1,채널A
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=242
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=242
 #EXTINF:-1,TV조선
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=243
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=243
 #EXTINF:-1 tvg-id="KBS|14" tvg-name="KBS|KBS WORLD",KBS WORLD
-http://gentech.iptime.org:9979//url?mode=url&type=KBS&id=14
+http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=14
 #EXTINF:-1 tvg-id="KBS|81" tvg-name="KBS|KBS24",KBS24
-http://gentech.iptime.org:9979//url?mode=url&type=KBS&id=81
+http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=81
 #EXTINF:-1 tvg-id="OKSUSU|221" tvg-name="OKSUSU|국회방송",국회방송
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=221
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=221
 
 
 #EXTINF:-1 tvg-id="MBC|03" tvg-name="MBC|MBC 나혼자산다24",MBC 나혼자산다24
-http://gentech.iptime.org:9979//url?mode=url&type=MBC&id=03
+http://gentech.iptime.org:9979/url?mode=url&type=MBC&id=03
 #EXTINF:-1 tvg-id="OKSUSU|9269" tvg-name="OKSUSU|CH. 코미디빅리그",CH. 코미디빅리그
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=9269
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=9269
 #EXTINF:-1 tvg-id="OKSUSU|9968" tvg-name="OKSUSU|CH. 윤식당",CH. 윤식당
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=9968
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=9968
 #EXTINF:-1 tvg-id="OKSUSU|9876" tvg-name="OKSUSU|CH. 알쓸신잡2",CH. 알쓸신잡2
-http://gentech.iptime.org:9979//url?mode=url&type=OKSUSU&id=9876
+http://gentech.iptime.org:9979/url?mode=url&type=OKSUSU&id=9876
 
 #EXTINF:-1 tvg-id="TVING|C15347" tvg-name="TVING|YTN사이언스",YTN 사이언스
 #EXTINF:-1 tvg-id="TVING|C01101" tvg-name="TVING|YTN Life",YTN life
