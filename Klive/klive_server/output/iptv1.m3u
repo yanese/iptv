@@ -1,0 +1,216 @@
+﻿#EXTM3U url-tvg="http://gentech.iptime.org:9979/xmltv" refresh="3600"
+
+#EXTINF:-1,SBS
+http://211.49.192.187:9981/stream/channelid/183379691
+#EXTINF:-1,KBS2
+http://211.49.192.187:9981/stream/channelid/1549125914
+#EXTINF:-1,KBS1
+http://211.49.192.187:9981/stream/channelid/1313106501
+#EXTINF:-1,MBC
+http://211.49.192.187:9981/stream/channelid/183418482
+#EXTINF:-1,EBS
+http://211.49.192.187:9981/stream/channelid/648331808
+#EXTINF:-1,EBS2
+http://211.49.192.187:9981/stream/channelid/50276148
+#EXTINF:-1,JTBC
+http://211.49.192.187:9981/stream/channelid/1247294181
+#EXTINF:-1,OBS
+http://211.49.192.187:9981/stream/channelid/1572886407
+
+
+#EXTINF:-1,캐치온1
+#EXTINF:-1,캐치온2
+#EXTINF:-1,스크린
+http://211.49.192.187:9981/stream/channelid/1366655761
+#EXTINF:-1,채널CGV
+http://211.49.192.187:9981/stream/channelid/1717693819
+#EXTINF:-1,OCN
+http://211.49.192.187:9981/stream/channelid/21575565
+#EXTINF:-1,슈퍼액션
+http://211.49.192.187:9981/stream/channelid/1457768310
+#EXTINF:-1,FOX
+http://211.49.192.187:9981/stream/channelid/494611951
+#EXTINF:-1,mplex
+http://211.49.192.187:9981/stream/channelid/1602358446
+#EXTINF:-1,cineF
+http://211.49.192.187:9981/stream/channelid/1470187562
+#EXTINF:-1,THE MOVIE
+http://211.49.192.187:9981/stream/channelid/706249599
+#EXTINF:-1,AXN
+http://211.49.192.187:9981/stream/channelid/353965380
+#EXTINF:-1,INSIGHT TV
+#EXTINF:-1,FX
+http://211.49.192.187:9981/stream/channelid/339499618
+#EXTINF:-1,tvN
+http://211.49.192.187:9981/stream/channelid/1566451343
+
+
+#EXTINF:-1,NGC
+http://211.49.192.187:9981/stream/channelid/498261125
+#EXTINF:-1,Da Vinci Learning
+#EXTINF:-1,디스커버리채널
+http://211.49.192.187:9981/stream/channelid/1717029187
+#EXTINF:-1,Discovery Science
+#EXTINF:-1,NatGeo People
+http://211.49.192.187:9981/stream/channelid/176096722
+#EXTINF:-1,NatGeo Wild
+http://211.49.192.187:9981/stream/channelid/520062243
+#EXTINF:-1,BBC Earth
+http://211.49.192.187:9981/stream/channelid/1020403846
+#EXTINF:-1,HGTV
+#EXTINF:-1,Outdoor Channel
+#EXTINF:-1,Animal Planet
+#EXTINF:-1,Sundance Channel
+
+
+#EXTINF:-1,Extreme Fun
+#EXTINF:-1,E! Entertainment
+#EXTINF:-1,TV5MONDE
+http://211.49.192.187:9981/stream/channelid/267697167
+#EXTINF:-1,BET
+#EXTINF:-1,AMC
+http://211.49.192.187:9981/stream/channelid/1171562240
+
+
+#EXTINF:-1,BBC WN
+http://211.49.192.187:9981/stream/channelid/1672344552
+#EXTINF:-1,CNN International
+http://211.49.192.187:9981/stream/channelid/732263625
+#EXTINF:-1,CNN US
+http://211.49.192.187:9981/stream/channelid/2112482884
+#EXTINF:-1,CNBC
+#EXTINF:-1,Fox News
+#EXTINF:-1,Euro News
+#EXTINF:-1,Australia Plus
+#EXTINF:-1,Bloomberg
+http://211.49.192.187:9981/stream/channelid/451345688
+#EXTINF:-1,mesiacorp
+http://211.49.192.187:9981/stream/channelid/914549453
+
+#EXTINF:-1,DW-TV Asia+
+#EXTINF:-1,Channel News Asia
+#EXTINF:-1,CCTV4
+http://211.49.192.187:9981/stream/channelid/1494176236
+#EXTINF:-1,CGTN
+http://211.49.192.187:9981/stream/channelid/286287690
+#EXTINF:-1,NHK WP
+http://211.49.192.187:9981/stream/channelid/1485429393
+#EXTINF:-1,NHK World TV
+http://211.49.192.187:9981/stream/channelid/1046244462
+#EXTINF:-1,아리랑 TV
+http://211.49.192.187:9981/stream/channelid/1555167784
+
+#EXTINF:-1,History
+http://211.49.192.187:9981/stream/channelid/332015543
+#EXTINF:-1,다큐원
+http://211.49.192.187:9981/stream/channelid/1176694022
+#EXTINF:-1,Lifetime
+http://211.49.192.187:9981/stream/channelid/440146852
+
+
+#EXTINF:-1,O tvN
+http://211.49.192.187:9981/stream/channelid/1274658293
+#EXTINF:-1,XtvN
+http://211.49.192.187:9981/stream/channelid/1138841890
+#EXTINF:-1,JTBC2
+http://211.49.192.187:9981/stream/channelid/1488065784
+#EXTINF:-1,JTBC4
+http://211.49.192.187:9981/stream/channelid/1131228661
+#EXTINF:-1,SBS Plus
+http://211.49.192.187:9981/stream/channelid/1946560263
+#EXTINF:-1,KBS DRAMA
+http://211.49.192.187:9981/stream/channelid/815901102
+#EXTINF:-1,KBS W
+http://211.49.192.187:9981/stream/channelid/189029907
+#EXTINF:-1,MBC Dramanet
+http://211.49.192.187:9981/stream/channelid/122238777
+#EXTINF:-1,SkyDrama
+http://211.49.192.187:9981/stream/channelid/1682860450
+#EXTINF:-1,드라마H
+http://211.49.192.187:9981/stream/channelid/1519695090
+#EXTINF:-1,드라마큐브
+http://211.49.192.187:9981/stream/channelid/861376474
+#EXTINF:-1,드라맥스
+http://211.49.192.187:9981/stream/channelid/532075082
+#EXTINF:-1,HQ+
+#EXTINF:-1,Mnet
+http://211.49.192.187:9981/stream/channelid/1962817568
+#EXTINF:-1,SBS MTV
+http://211.49.192.187:9981/stream/channelid/1500508430
+
+
+#EXTINF:-1,SkyPetPark
+http://211.49.192.187:9981/stream/channelid/439309095
+#EXTINF:-1,코미디TV
+http://211.49.192.187:9981/stream/channelid/448171074
+#EXTINF:-1,SBS funE
+http://211.49.192.187:9981/stream/channelid/1634872100
+#EXTINF:-1,KBS JOY
+http://211.49.192.187:9981/stream/channelid/187614403
+#EXTINF:-1,MBC Every1
+http://211.49.192.187:9981/stream/channelid/1459392362
+#EXTINF:-1,MBC MUSIC
+http://211.49.192.187:9981/stream/channelid/1191236794
+#EXTINF:-1,SkyENT
+#EXTINF:-1,온스타일
+http://211.49.192.187:9981/stream/channelid/877539604
+#EXTINF:-1,올리브
+http://211.49.192.187:9981/stream/channelid/1182403199
+#EXTINF:-1,E채널
+http://211.49.192.187:9981/stream/channelid/905797761
+#EXTINF:-1,K STAR
+http://211.49.192.187:9981/stream/channelid/1229597837
+#EXTINF:-1,Fashion N
+http://211.49.192.187:9981/stream/channelid/1894026683
+#EXTINF:-1,ONT
+http://211.49.192.187:9981/stream/channelid/5845171
+#EXTINF:-1,Life U
+http://211.49.192.187:9981/stream/channelid/701922754
+#EXTINF:-1,동아TV
+http://211.49.192.187:9981/stream/channelid/358743253
+
+
+#EXTINF:-1,CBeebies
+#EXTINF:-1,카툰네트워크
+http://211.49.192.187:9981/stream/channelid/437138724
+#EXTINF:-1,Dream Works Channel
+#EXTINF:-1,Disney Channel
+http://211.49.192.187:9981/stream/channelid/197795640
+#EXTINF:-1,디즈니주니어
+http://211.49.192.187:9981/stream/channelid/2064352353
+#EXTINF:-1,니켈로디언
+http://211.49.192.187:9981/stream/channelid/85283772
+#EXTINF:-1,애니플러스
+http://211.49.192.187:9981/stream/channelid/2055369144
+#EXTINF:-1,Tooniverse
+http://211.49.192.187:9981/stream/channelid/1512134047
+#EXTINF:-1,ANIMAX
+http://211.49.192.187:9981/stream/channelid/966893558
+#EXTINF:-1,애니원
+http://211.49.192.187:9981/stream/channelid/1635510043
+#EXTINF:-1,애니박스
+http://211.49.192.187:9981/stream/channelid/1700933796
+#EXTINF:-1,부메랑
+http://211.49.192.187:9981/stream/channelid/1634971761
+#EXTINF:-1,대교 어린이TV
+http://211.49.192.187:9981/stream/channelid/248693481
+#EXTINF:-1,JEI 재능TV
+http://211.49.192.187:9981/stream/channelid/224618826
+#EXTINF:-1,키즈원
+http://211.49.192.187:9981/stream/channelid/990437487
+#EXTINF:-1,KBS kids
+http://211.49.192.187:9981/stream/channelid/767714537
+#EXTINF:-1,EBS kids
+http://211.49.192.187:9981/stream/channelid/640917647
+
+
+#EXTINF:-1,연합뉴스TV
+http://211.49.192.187:9981/stream/channelid/689772623
+#EXTINF:-1,YTN
+http://211.49.192.187:9981/stream/channelid/1673202635
+#EXTINF:-1,MBN
+http://211.49.192.187:9981/stream/channelid/1387527714
+#EXTINF:-1,채널A
+http://211.49.192.187:9981/stream/channelid/1018998684
+#EXTINF:-1,TV조선
+http://211.49.192.187:9981/stream/channelid/1487328102
