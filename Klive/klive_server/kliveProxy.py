@@ -25,6 +25,12 @@ def iptv():
 	current_path = os.path.dirname(os.path.abspath(__file__))
 	_filepath = os.path.join(current_path, PATH_OUTPUT, YANESE_CUSTOM_IPTV)
 	if os.path.exists(_filepath): return ReadFile(_filepath)
+	
+@app.route('/iptv1')
+def iptv():
+	current_path = os.path.dirname(os.path.abspath(__file__))
+	_filepath = os.path.join(current_path, PATH_OUTPUT, YANESE_CUSTOM_IPTV_1)
+	if os.path.exists(_filepath): return ReadFile(_filepath)
 
 @app.route('/xmltv')
 def xmltv():
