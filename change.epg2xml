@@ -1,4 +1,4 @@
 #!/bin/sh
 cd /iptv/epg2xml
 rm epg2xml-web.php epg2xml.py
-wget https://raw.githubusercontent.com/yanese/iptv/epg2xml/epg2xml-web.php https://raw.githubusercontent.com/yanese/iptv/epg2xml/epg2xml.py
+wget https://raw.githubusercontent.com/yanese/iptv/master/epg2xml/epg2xml-web.php https://raw.githubusercontent.com/yanese/iptv/master/epg2xml/epg2xml.py
