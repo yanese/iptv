@@ -47,7 +47,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=174
 #EXTINF:-1,AMC
 
 #EXTINF:-1,NGC
-#EXTINF:-1 tvg-id="OLLEH|459" tvg-name="OLLEH|디스커버리채널",디스커버리채널
+#EXTINF:-1,디스커버리채널
 #EXTINF:-1,Discovery Science
 #EXTINF:-1,NatGeo People
 #EXTINF:-1,NatGeo Wild
@@ -67,8 +67,8 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=391
 #EXTINF:-1 tvg-id="POOQ|H01" tvg-name="POOQ|PLAYY 웰메이드 영화",PLAYY 웰메이드
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=392
 #EXTINF:-1 tvg-id="POOQ|H07" tvg-name="POOQ|PLAYY 액션영화",PLAYY 액션 영화
-#EXTINF:-1 tvg-id="OLLEH|469" tvg-name="OLLEH|PLAYY 힐링 영화",PLAYY 힐링 영화
-#EXTINF:-1 tvg-id="OLLEH|454" tvg-name="OLLEH|PLAYY 웹드라마",PLAYY 웹드라마
+#EXTINF:-1,PLAYY 힐링 영화
+#EXTINF:-1,PLAYY 웹드라마
 
 
 #EXTINF:-1,캐치온1
@@ -113,14 +113,14 @@ http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N94
 
 
 #EXTINF:-1,SkyPetPark
-#EXTINF:-1 tvg-id="POOQ|C5902" tvg-name="POOQ|LIFETIME",Lifetime
+#EXTINF:-1,Lifetime
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=603
 #EXTINF:-1,SBS funE
 http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S04
 #EXTINF:-1,KBS JOY
 http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N92
-#EXTINF:-1 tvg-id="POOQ|M03" tvg-name="POOQ|MBC Every1",MBC Every1
-#EXTINF:-1 tvg-id="POOQ|M06" tvg-name="POOQ|MBC Music",MBC MUSIC
+#EXTINF:-1,MBC Every1
+#EXTINF:-1,MBC MUSIC
 #EXTINF:-1,온스타일
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=778
 #EXTINF:-1,올리브
@@ -148,7 +148,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=MBC&id=02
 #EXTINF:-1,CBeebies
 #EXTINF:-1,카툰네트워크
 #EXTINF:-1,니켈로디언
-#EXTINF:-1 tvg-id="OLLEH|451" tvg-name="OLLEH|드림웍스 채널",Dream Works Channel
+#EXTINF:-1,Dream Works Channel
 #EXTINF:-1,Disney Channel
 #EXTINF:-1,디즈니주니어
 #EXTINF:-1,애니플러스
@@ -169,25 +169,25 @@ http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N96
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=607
 #EXTINF:-1,플레이런TV
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=175
-#EXTINF:-1 tvg-id="OLLEH|521" tvg-name="OLLEH|Miao Mi",Miao Mi
+#EXTINF:-1,Miao Mi
 #EXTINF:-1,부메랑
 #EXTINF:-1,키즈원
 
 
-#EXTINF:-1 tvg-id="OLLEH|443" tvg-name="OLLEH|Channel V",Channel [V]
+#EXTINF:-1,Channel [V]
 #EXTINF:-1,Mnet
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=687
 #EXTINF:-1,CUBE TV
 
 
-#EXTINF:-1 tvg-id="OLLEH|507" tvg-name="OLLEH|대교 상상Kids",대교 상상Kids
+#EXTINF:-1,대교 상상Kids
 #EXTINF:-1,EBS PLUS1
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=172
 #EXTINF:-1,EBS PLUS2
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=173
 
 
-#EXTINF:-1 tvg-id="OLLEH|458" tvg-name="OLLEH|채널차이나",채널차이나
+#EXTINF:-1,채널차이나
 #EXTINF:-1,중화TV
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=725
 #EXTINF:-1,AsiaN
@@ -227,7 +227,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=399
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=614
 #EXTINF:-1,JTBC Golf
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=602
-#EXTINF:-1 tvg-id="OLLEH|237" tvg-name="OLLEH|골프 코리아",The Golf Channel
+#EXTINF:-1,The Golf Channel
 #EXTINF:-1,IB SPORTS
 
 #EXTINF:-1,빌리어즈티비
