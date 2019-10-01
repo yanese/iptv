@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://gentech.iptime.org:9979/xmltv" refresh="3600"
+#EXTM3U url-tvg="http://gentech.iptime.org:9979/xmltv" refresh="3600"
 
 #EXTINF:-1,SBS
 http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S01
@@ -62,9 +62,9 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=174
 #EXTINF:-1,다큐원
 
 
-#EXTINF:-1 tvg-id="POOQ|H02" tvg-name="POOQ|PLAYY 프리미엄 영화",PLAYY 프리미엄
+#EXTINF:-1 tvg-id="POOQ|H02" tvg-name="POOQ|PLAYY 프리미엄 영화" tvg-logo="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile21.uf.tistory.com%2Fimage%2F025A993E51909BF401BA24",PLAYY 프리미엄
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=391
-#EXTINF:-1 tvg-id="POOQ|H01" tvg-name="POOQ|PLAYY 웰메이드 영화",PLAYY 웰메이드
+#EXTINF:-1 tvg-id="POOQ|H01" tvg-name="POOQ|PLAYY 웰메이드 영화" tvg-logo="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile21.uf.tistory.com%2Fimage%2F025A993E51909BF401BA24",PLAYY 웰메이드
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=392
 #EXTINF:-1 tvg-id="POOQ|H07" tvg-name="POOQ|PLAYY 액션영화",PLAYY 액션 영화
 #EXTINF:-1,PLAYY 힐링 영화
@@ -134,16 +134,19 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=662
 #EXTINF:-1,ONT
 #EXTINF:-1,Life U
 #EXTINF:-1,동아TV
-#EXTINF:-1,KBSN PLUS
+#EXTINF:-1 tvg-logo="http://assets-cdn.everyon.co.kr/images/ch_logo/logo_1327.png",KBSN PLUS
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=389
 #EXTINF:-1,OBS W
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=648
 #EXTINF:-1,DIA TV
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=690
-#EXTINF:-1 tvg-id="MBC|03" tvg-name="MBC|MBC 나혼자산다24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HzbVfZW4zwKSDJexXYImuq_JME1A8eIgYVUq8waeiCnD-bplwg" group-title="MBC",MBC 나혼자산다24
+#EXTINF:-1 tvg-id="KBS|14" tvg-name="KBS|KBS WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlenZe09cUHWE6aM7PVAB1MJYjYKLjF7x7PJk--rPkCrBLUZl",KBS WORLD
+http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=14
+#EXTINF:-1 tvg-id="MBC|03" tvg-name="MBC|MBC 나혼자산다24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HzbVfZW4zwKSDJexXYImuq_JME1A8eIgYVUq8waeiCnD-bplwg",MBC 나혼자산다24
 http://gentech.iptime.org:9979/url?mode=url&type=MBC&id=03
-#EXTINF:-1 tvg-id="MBC|02" tvg-name="MBC|MBC 무한도전24" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/pooqmudo_730x411.jpg" group-title="MBC",MBC 무한도전24
+#EXTINF:-1 tvg-id="MBC|02" tvg-name="MBC|MBC 무한도전24" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/pooqmudo_730x411.jpg",MBC 무한도전24
 http://gentech.iptime.org:9979/url?mode=url&type=MBC&id=02
+
 
 #EXTINF:-1,CBeebies
 #EXTINF:-1,카툰네트워크
@@ -161,7 +164,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=703
 #EXTINF:-1,대교 어린이TV
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=761
 #EXTINF:-1,JEI 재능TV
-#EXTINF:-1,bravo kids
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OLSh-nSIq47qwai4NcrQVDhWcpL7p35okAHz0bwxh_V3Swra7eroIN_ohNsuyphs4Q",bravo kids
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=728
 #EXTINF:-1 tvg-id="KBS|N96" tvg-name="KBS|KBSN KIDS",KBS kids
 http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N96
@@ -195,47 +198,46 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=658
 #EXTINF:-1,텔레노벨라
 
 
-#EXTINF:-1 tvg-id="VIDEOPORTAL|681" tvg-name="VIDEOPORTAL|OGN",OGN
+#EXTINF:-1 tvg-id="VIDEOPORTAL|681" tvg-name="VIDEOPORTAL|OGN" group-title="Sports",OGN
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=681
-#EXTINF:-1,SPOTV GAMES
+#EXTINF:-1 group-title="Sports",SPOTV GAMES
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=727
-
-#EXTINF:-1,Euro sport
-#EXTINF:-1,Star Sports
-#EXTINF:-1,SPOTV
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=667
-#EXTINF:-1,SPOTV2
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=383
-#EXTINF:-1 tvg-id="VIDEOPORTAL|381" tvg-name="VIDEOPORTAL|SPOTV3" tvg-logo="http://210.182.60.11/image/SPOTV3_H180904.png" group-title="VIDEOPORTAL",SPOTV3
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=381
-#EXTINF:-1 tvg-id="VIDEOPORTAL|382" tvg-name="VIDEOPORTAL|SPOTV4" tvg-logo="http://210.182.60.11/image/SPOTV4_H180904.png" group-title="VIDEOPORTAL",SPOTV4
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=382
-#EXTINF:-1 tvg-id="VIDEOPORTAL|384" tvg-name="VIDEOPORTAL|SPOTV5" tvg-logo="http://210.182.60.11/image/SPOTV5_H180904.png" group-title="VIDEOPORTAL",SPOTV5
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=384
-#EXTINF:-1,SPOTV+
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
-#EXTINF:-1,JTBC3
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=795
-#EXTINF:-1 tvg-id="SBS|S02" tvg-name="SBS|SBS Sports",SBS Sports
-#EXTINF:-1 tvg-id="VIDEOPORTAL|397" tvg-name="VIDEOPORTAL|MLB1" tvg-logo="http://210.182.60.11/image/MLB1_H160721.png" group-title="VIDEOPORTAL",MLB1
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=397
-#EXTINF:-1 tvg-id="VIDEOPORTAL|398" tvg-name="VIDEOPORTAL|MLB2" tvg-logo="http://210.182.60.11/image/MLB2_H160721.png" group-title="VIDEOPORTAL",MLB2
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=398
-#EXTINF:-1 tvg-id="VIDEOPORTAL|399" tvg-name="VIDEOPORTAL|MLB3" tvg-logo="http://210.182.60.11/image/MLB3_H160721.png" group-title="VIDEOPORTAL",MLB3
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=399
-#EXTINF:-1 tvg-id="SBS|S05" tvg-name="SBS|SBS Golf",SBS Golf
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=614
-#EXTINF:-1,JTBC Golf
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=602
-#EXTINF:-1,The Golf Channel
-#EXTINF:-1,IB SPORTS
-
-#EXTINF:-1,빌리어즈티비
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=668
-#EXTINF:-1,바둑TV
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=683
-#EXTINF:-1 tvg-id="VIDEOPORTAL|385" tvg-name="VIDEOPORTAL|LCK 특별채널" tvg-logo="http://210.182.60.11/image/LCK_H190702.png" group-title="VIDEOPORTAL",LCK 특별채널
+#EXTINF:-1 tvg-id="VIDEOPORTAL|385" tvg-name="VIDEOPORTAL|LCK 특별채널" tvg-logo="http://210.182.60.11/image/LCK_H190702.png" group-title="Sports",LCK 특별채널
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=385
+
+#EXTINF:-1 group-title="Sports",Euro sport
+#EXTINF:-1 group-title="Sports",Star Sports
+#EXTINF:-1 group-title="Sports",SPOTV
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=667
+#EXTINF:-1 group-title="Sports",SPOTV2
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=383
+#EXTINF:-1 tvg-id="VIDEOPORTAL|381" tvg-name="VIDEOPORTAL|SPOTV3" tvg-logo="http://210.182.60.11/image/SPOTV3_H180904.png" group-title="Sports",SPOTV3
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=381
+#EXTINF:-1 tvg-id="VIDEOPORTAL|382" tvg-name="VIDEOPORTAL|SPOTV4" tvg-logo="http://210.182.60.11/image/SPOTV4_H180904.png" group-title="Sports",SPOTV4
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=382
+#EXTINF:-1 group-title="Sports",SPOTV+
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
+#EXTINF:-1 group-title="Sports",JTBC3
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=795
+#EXTINF:-1 tvg-id="SBS|S02" tvg-name="SBS|SBS Sports" group-title="Sports",SBS Sports
+#EXTINF:-1 tvg-id="VIDEOPORTAL|397" tvg-name="VIDEOPORTAL|MLB1" tvg-logo="http://210.182.60.11/image/MLB1_H160721.png" group-title="Sports",MLB1
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=397
+#EXTINF:-1 tvg-id="VIDEOPORTAL|398" tvg-name="VIDEOPORTAL|MLB2" tvg-logo="http://210.182.60.11/image/MLB2_H160721.png" group-title="Sports",MLB2
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=398
+#EXTINF:-1 tvg-id="VIDEOPORTAL|399" tvg-name="VIDEOPORTAL|MLB3" tvg-logo="http://210.182.60.11/image/MLB3_H160721.png" group-title="Sports",MLB3
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=399
+#EXTINF:-1 tvg-id="SBS|S05" tvg-name="SBS|SBS Golf" group-title="Sports",SBS Golf
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=614
+#EXTINF:-1 group-title="Sports" group-title="Sports",JTBC Golf
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=602
+#EXTINF:-1 group-title="Sports" group-title="Sports",The Golf Channel
+#EXTINF:-1 group-title="Sports" group-title="Sports",IB SPORTS
+
+#EXTINF:-1 group-title="Sports" group-title="Sports",빌리어즈티비
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=668
+#EXTINF:-1 group-title="Sports" group-title="Sports",바둑TV
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=683
+
 
 
 #EXTINF:-1 tvg-id="179",SkyTravel
@@ -249,26 +251,25 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=726
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=707
 
 
-#EXTINF:-1,연합뉴스TV
+#EXTINF:-1 group-title="News",연합뉴스TV
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=734
-#EXTINF:-1,YTN
+#EXTINF:-1 group-title="News",YTN
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=698
-#EXTINF:-1 tvg-id="SBS|S06" tvg-name="SBS|SBS CNBC",SBS CNBC
+#EXTINF:-1 tvg-id="SBS|S06" tvg-name="SBS|SBS CNBC" group-title="News",SBS CNBC
 http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S06
 
-#EXTINF:-1,MBN
+#EXTINF:-1 group-title="News",MBN
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=750
-#EXTINF:-1,채널A
+#EXTINF:-1 group-title="News",채널A
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=749
-#EXTINF:-1,TV조선
+#EXTINF:-1 group-title="News",TV조선
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=746
-#EXTINF:-1 tvg-id="KBS|14" tvg-name="KBS|KBS WORLD",KBS WORLD
-http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=14
-#EXTINF:-1 tvg-id="KBS|81" tvg-name="KBS|KBS24",KBS24
+#EXTINF:-1 tvg-id="KBS|81" tvg-name="KBS|KBS24" group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Kbs24news.png/revision/latest?cb=20180416070059",KBS24
 http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=81
 #EXTINF:-1,국회방송
 #EXTINF:-1,YTN 사이언스
 #EXTINF:-1,YTN life
+
 
 #EXTINF:-1,토마토TV
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=771
