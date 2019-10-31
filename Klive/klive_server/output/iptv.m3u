@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gentech.iptime.org:9979/xmltv" refresh="3600"
+﻿#EXTM3U url-tvg="http://gentech.iptime.org:9979/xmltv" refresh="3600"
 
 #EXTINF:-1,SBS
 http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S01
@@ -212,9 +212,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=667
 #EXTINF:-1 group-title="Sports",SPOTV2
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=383
 #EXTINF:-1 tvg-id="VIDEOPORTAL|381" tvg-name="VIDEOPORTAL|SPOTV3" tvg-logo="http://210.182.60.11/image/SPOTV3_H180904.png" group-title="Sports",SPOTV3
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=381
 #EXTINF:-1 tvg-id="VIDEOPORTAL|382" tvg-name="VIDEOPORTAL|SPOTV4" tvg-logo="http://210.182.60.11/image/SPOTV4_H180904.png" group-title="Sports",SPOTV4
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=382
 #EXTINF:-1 group-title="Sports",SPOTV+
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
 #EXTINF:-1 group-title="Sports",JTBC3
