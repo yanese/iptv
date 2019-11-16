@@ -1,201 +1,201 @@
 ﻿#EXTM3U url-tvg="http://gentech.iptime.org:9979/xmltv" refresh="3600"
 
-#EXTINF:-1,SBS
+#EXTINF:-1 group-title="FHD",SBS
 http://211.49.192.187:9981/stream/channelid/183379691
-#EXTINF:-1,KBS2
+#EXTINF:-1 group-title="FHD",KBS2
 http://211.49.192.187:9981/stream/channelid/1549125914
-#EXTINF:-1,KBS1
+#EXTINF:-1 group-title="FHD",KBS1
 http://211.49.192.187:9981/stream/channelid/1313106501
-#EXTINF:-1,MBC
+#EXTINF:-1 group-title="FHD",MBC
 http://211.49.192.187:9981/stream/channelid/183418482
-#EXTINF:-1,EBS
+#EXTINF:-1 group-title="FHD",EBS
 http://211.49.192.187:9981/stream/channelid/648331808
-#EXTINF:-1,EBS2
+#EXTINF:-1 group-title="FHD",EBS2
 http://211.49.192.187:9981/stream/channelid/50276148
-#EXTINF:-1,JTBC
+#EXTINF:-1 group-title="FHD",JTBC
 http://211.49.192.187:9981/stream/channelid/1247294181
-#EXTINF:-1,OBS
+#EXTINF:-1 group-title="FHD",OBS
 http://211.49.192.187:9981/stream/channelid/1572886407
 
 
-#EXTINF:-1,캐치온1
-#EXTINF:-1,캐치온2
-#EXTINF:-1,스크린
+#EXTINF:-1 group-title="FHD",캐치온1
+#EXTINF:-1 group-title="FHD",캐치온2
+#EXTINF:-1 group-title="FHD",스크린
 http://211.49.192.187:9981/stream/channelid/1366655761
-#EXTINF:-1,채널CGV
+#EXTINF:-1 group-title="FHD",채널CGV
 http://211.49.192.187:9981/stream/channelid/1717693819
-#EXTINF:-1,OCN
+#EXTINF:-1 group-title="FHD",OCN
 http://211.49.192.187:9981/stream/channelid/21575565
-#EXTINF:-1,슈퍼액션
+#EXTINF:-1 group-title="FHD",슈퍼액션
 http://211.49.192.187:9981/stream/channelid/1457768310
-#EXTINF:-1,FOX
+#EXTINF:-1 group-title="FHD",FOX
 http://211.49.192.187:9981/stream/channelid/494611951
-#EXTINF:-1,mplex
+#EXTINF:-1 group-title="FHD",mplex
 http://211.49.192.187:9981/stream/channelid/1602358446
-#EXTINF:-1,cineF
+#EXTINF:-1 group-title="FHD",cineF
 http://211.49.192.187:9981/stream/channelid/1470187562
-#EXTINF:-1,THE MOVIE
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="FHD",THE MOVIE
+#EXTINF:-1 group-title="FHD",AXN
 http://211.49.192.187:9981/stream/channelid/353965380
-#EXTINF:-1,INSIGHT TV
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="FHD",INSIGHT TV
+#EXTINF:-1 group-title="FHD",FX
 http://211.49.192.187:9981/stream/channelid/339499618
-#EXTINF:-1,tvN
+#EXTINF:-1 group-title="FHD",tvN
 http://211.49.192.187:9981/stream/channelid/1566451343
 
 
-#EXTINF:-1,NGC
+#EXTINF:-1 group-title="FHD",NGC
 http://211.49.192.187:9981/stream/channelid/498261125
-#EXTINF:-1,Da Vinci Learning
-#EXTINF:-1,디스커버리채널
-#EXTINF:-1,Discovery Science
-#EXTINF:-1,NatGeo People
+#EXTINF:-1 group-title="FHD",Da Vinci Learning
+#EXTINF:-1 group-title="FHD",디스커버리채널
+#EXTINF:-1 group-title="FHD",Discovery Science
+#EXTINF:-1 group-title="FHD",NatGeo People
 http://211.49.192.187:9981/stream/channelid/176096722
-#EXTINF:-1,NatGeo Wild
+#EXTINF:-1 group-title="FHD",NatGeo Wild
 http://211.49.192.187:9981/stream/channelid/520062243
-#EXTINF:-1,BBC Earth
+#EXTINF:-1 group-title="FHD",BBC Earth
 http://211.49.192.187:9981/stream/channelid/1020403846
-#EXTINF:-1,HGTV
-#EXTINF:-1,Outdoor Channel
-#EXTINF:-1,Animal Planet
-#EXTINF:-1,Sundance Channel
+#EXTINF:-1 group-title="FHD",HGTV
+#EXTINF:-1 group-title="FHD",Outdoor Channel
+#EXTINF:-1 group-title="FHD",Animal Planet
+#EXTINF:-1 group-title="FHD",Sundance Channel
 
 
-#EXTINF:-1,Extreme Fun
-#EXTINF:-1,E! Entertainment
-#EXTINF:-1,TV5MONDE
-#EXTINF:-1,BET
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="FHD",Extreme Fun
+#EXTINF:-1 group-title="FHD",E! Entertainment
+#EXTINF:-1 group-title="FHD",TV5MONDE
+#EXTINF:-1 group-title="FHD",BET
+#EXTINF:-1 group-title="FHD",AMC
 
 
-#EXTINF:-1,BBC WN
-#EXTINF:-1,CNN International
-#EXTINF:-1,CNN US
+#EXTINF:-1 group-title="FHD",BBC WN
+#EXTINF:-1 group-title="FHD",CNN International
+#EXTINF:-1 group-title="FHD",CNN US
 http://211.49.192.187:9981/stream/channelid/2112482884
-#EXTINF:-1,CNBC
-#EXTINF:-1,Fox News
-#EXTINF:-1,Euro News
-#EXTINF:-1,Australia Plus
-#EXTINF:-1,Bloomberg
-#EXTINF:-1,mesiacorp
+#EXTINF:-1 group-title="FHD",CNBC
+#EXTINF:-1 group-title="FHD",Fox News
+#EXTINF:-1 group-title="FHD",Euro News
+#EXTINF:-1 group-title="FHD",Australia Plus
+#EXTINF:-1 group-title="FHD",Bloomberg
+#EXTINF:-1 group-title="FHD",mesiacorp
 
-#EXTINF:-1,DW-TV Asia+
-#EXTINF:-1,Channel News Asia
-#EXTINF:-1,CCTV4
-#EXTINF:-1,CGTN
-#EXTINF:-1,NHK WP
-#EXTINF:-1,NHK World TV
-#EXTINF:-1,아리랑 TV
+#EXTINF:-1 group-title="FHD",DW-TV Asia+
+#EXTINF:-1 group-title="FHD",Channel News Asia
+#EXTINF:-1 group-title="FHD",CCTV4
+#EXTINF:-1 group-title="FHD",CGTN
+#EXTINF:-1 group-title="FHD",NHK WP
+#EXTINF:-1 group-title="FHD",NHK World TV
+#EXTINF:-1 group-title="FHD",아리랑 TV
 http://211.49.192.187:9981/stream/channelid/1555167784
 
-#EXTINF:-1,History
-#EXTINF:-1,다큐원
+#EXTINF:-1 group-title="FHD",History
+#EXTINF:-1 group-title="FHD",다큐원
 http://211.49.192.187:9981/stream/channelid/1176694022
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="FHD",Lifetime
 http://211.49.192.187:9981/stream/channelid/440146852
 
 
-#EXTINF:-1,O tvN
+#EXTINF:-1 group-title="FHD",O tvN
 http://211.49.192.187:9981/stream/channelid/1274658293
-#EXTINF:-1,XtvN
+#EXTINF:-1 group-title="FHD",XtvN
 http://211.49.192.187:9981/stream/channelid/1138841890
-#EXTINF:-1,JTBC2
+#EXTINF:-1 group-title="FHD",JTBC2
 http://211.49.192.187:9981/stream/channelid/1488065784
-#EXTINF:-1,JTBC4
+#EXTINF:-1 group-title="FHD",JTBC4
 http://211.49.192.187:9981/stream/channelid/1131228661
-#EXTINF:-1,SBS Plus
+#EXTINF:-1 group-title="FHD",SBS Plus
 http://211.49.192.187:9981/stream/channelid/1946560263
-#EXTINF:-1,KBS DRAMA
+#EXTINF:-1 group-title="FHD",KBS DRAMA
 http://211.49.192.187:9981/stream/channelid/815901102
-#EXTINF:-1,KBS W
+#EXTINF:-1 group-title="FHD",KBS W
 http://211.49.192.187:9981/stream/channelid/189029907
-#EXTINF:-1,MBC Dramanet
+#EXTINF:-1 group-title="FHD",MBC Dramanet
 http://211.49.192.187:9981/stream/channelid/122238777
-#EXTINF:-1,SkyDrama
+#EXTINF:-1 group-title="FHD",SkyDrama
 http://211.49.192.187:9981/stream/channelid/1682860450
-#EXTINF:-1,드라마H
+#EXTINF:-1 group-title="FHD",드라마H
 http://211.49.192.187:9981/stream/channelid/1519695090
-#EXTINF:-1,드라마큐브
+#EXTINF:-1 group-title="FHD",드라마큐브
 http://211.49.192.187:9981/stream/channelid/861376474
-#EXTINF:-1,드라맥스
+#EXTINF:-1 group-title="FHD",드라맥스
 http://211.49.192.187:9981/stream/channelid/532075082
-#EXTINF:-1,HQ+
-#EXTINF:-1,Mnet
+#EXTINF:-1 group-title="FHD",HQ+
+#EXTINF:-1 group-title="FHD",Mnet
 http://211.49.192.187:9981/stream/channelid/1962817568
-#EXTINF:-1,SBS MTV
+#EXTINF:-1 group-title="FHD",SBS MTV
 http://211.49.192.187:9981/stream/channelid/1500508430
 
 
-#EXTINF:-1,SkyPetPark
-#EXTINF:-1,코미디TV
+#EXTINF:-1 group-title="FHD",SkyPetPark
+#EXTINF:-1 group-title="FHD",코미디TV
 http://211.49.192.187:9981/stream/channelid/448171074
-#EXTINF:-1,SBS funE
+#EXTINF:-1 group-title="FHD",SBS funE
 http://211.49.192.187:9981/stream/channelid/1634872100
-#EXTINF:-1,KBS JOY
+#EXTINF:-1 group-title="FHD",KBS JOY
 http://211.49.192.187:9981/stream/channelid/187614403
-#EXTINF:-1,MBC Every1
+#EXTINF:-1 group-title="FHD",MBC Every1
 http://211.49.192.187:9981/stream/channelid/1459392362
-#EXTINF:-1,MBC MUSIC
+#EXTINF:-1 group-title="FHD",MBC MUSIC
 http://211.49.192.187:9981/stream/channelid/1191236794
-#EXTINF:-1,SkyENT
-#EXTINF:-1,온스타일
+#EXTINF:-1 group-title="FHD",SkyENT
+#EXTINF:-1 group-title="FHD",온스타일
 http://211.49.192.187:9981/stream/channelid/877539604
-#EXTINF:-1,올리브
+#EXTINF:-1 group-title="FHD",올리브
 http://211.49.192.187:9981/stream/channelid/1182403199
-#EXTINF:-1,E채널
+#EXTINF:-1 group-title="FHD",E채널
 http://211.49.192.187:9981/stream/channelid/905797761
-#EXTINF:-1,K STAR
+#EXTINF:-1 group-title="FHD",K STAR
 http://211.49.192.187:9981/stream/channelid/1229597837
-#EXTINF:-1,Fashion N
+#EXTINF:-1 group-title="FHD",Fashion N
 http://211.49.192.187:9981/stream/channelid/1894026683
-#EXTINF:-1,ONT
-#EXTINF:-1,Life U
+#EXTINF:-1 group-title="FHD",ONT
+#EXTINF:-1 group-title="FHD",Life U
 http://211.49.192.187:9981/stream/channelid/701922754
-#EXTINF:-1,동아TV
+#EXTINF:-1 group-title="FHD",동아TV
 http://211.49.192.187:9981/stream/channelid/358743253
 
 
-#EXTINF:-1,CBeebies
-#EXTINF:-1,카툰네트워크
+#EXTINF:-1 group-title="FHD",CBeebies
+#EXTINF:-1 group-title="FHD",카툰네트워크
 http://211.49.192.187:9981/stream/channelid/437138724
-#EXTINF:-1,Dream Works Channel
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 group-title="FHD",Dream Works Channel
+#EXTINF:-1 group-title="FHD",Disney Channel
 http://211.49.192.187:9981/stream/channelid/197795640
-#EXTINF:-1,디즈니주니어
+#EXTINF:-1 group-title="FHD",디즈니주니어
 http://211.49.192.187:9981/stream/channelid/2064352353
-#EXTINF:-1,니켈로디언
+#EXTINF:-1 group-title="FHD",니켈로디언
 http://211.49.192.187:9981/stream/channelid/85283772
-#EXTINF:-1,애니플러스
+#EXTINF:-1 group-title="FHD",애니플러스
 http://211.49.192.187:9981/stream/channelid/2055369144
-#EXTINF:-1,Tooniverse
+#EXTINF:-1 group-title="FHD",Tooniverse
 http://211.49.192.187:9981/stream/channelid/1512134047
-#EXTINF:-1,ANIMAX
+#EXTINF:-1 group-title="FHD",ANIMAX
 http://211.49.192.187:9981/stream/channelid/966893558
-#EXTINF:-1,애니원
+#EXTINF:-1 group-title="FHD",애니원
 http://211.49.192.187:9981/stream/channelid/1635510043
-#EXTINF:-1,애니박스
+#EXTINF:-1 group-title="FHD",애니박스
 http://211.49.192.187:9981/stream/channelid/1700933796
-#EXTINF:-1,부메랑
+#EXTINF:-1 group-title="FHD",부메랑
 http://211.49.192.187:9981/stream/channelid/1634971761
-#EXTINF:-1,대교 어린이TV
+#EXTINF:-1 group-title="FHD",대교 어린이TV
 http://211.49.192.187:9981/stream/channelid/248693481
-#EXTINF:-1,JEI 재능TV
+#EXTINF:-1 group-title="FHD",JEI 재능TV
 http://211.49.192.187:9981/stream/channelid/224618826
-#EXTINF:-1,키즈원
+#EXTINF:-1 group-title="FHD",키즈원
 http://211.49.192.187:9981/stream/channelid/990437487
-#EXTINF:-1,KBS kids
+#EXTINF:-1 group-title="FHD",KBS kids
 http://211.49.192.187:9981/stream/channelid/767714537
-#EXTINF:-1,EBS kids
+#EXTINF:-1 group-title="FHD",EBS kids
 http://211.49.192.187:9981/stream/channelid/640917647
 
 
-#EXTINF:-1,연합뉴스TV
+#EXTINF:-1 group-title="FHD",연합뉴스TV
 http://211.49.192.187:9981/stream/channelid/689772623
-#EXTINF:-1,YTN
+#EXTINF:-1 group-title="FHD",YTN
 http://211.49.192.187:9981/stream/channelid/1673202635
-#EXTINF:-1,MBN
+#EXTINF:-1 group-title="FHD",MBN
 http://211.49.192.187:9981/stream/channelid/1387527714
-#EXTINF:-1,채널A
+#EXTINF:-1 group-title="FHD",채널A
 http://211.49.192.187:9981/stream/channelid/1018998684
-#EXTINF:-1,TV조선
+#EXTINF:-1 group-title="FHD",TV조선
 http://211.49.192.187:9981/stream/channelid/1487328102
