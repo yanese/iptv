@@ -277,167 +277,98 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=794
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=688
 
 
-
-#EXTINF:-1 group-title="FHD",SBS
-http://211.49.192.187:9981/stream/channelid/183379691
-#EXTINF:-1 group-title="FHD",KBS2
-http://211.49.192.187:9981/stream/channelid/1549125914
-#EXTINF:-1 group-title="FHD",KBS1
-http://211.49.192.187:9981/stream/channelid/1313106501
-#EXTINF:-1 group-title="FHD",MBC
-http://211.49.192.187:9981/stream/channelid/183418482
-#EXTINF:-1 group-title="FHD",EBS
-http://211.49.192.187:9981/stream/channelid/648331808
-#EXTINF:-1 group-title="FHD",EBS2
-http://211.49.192.187:9981/stream/channelid/50276148
-#EXTINF:-1 group-title="FHD",JTBC
-http://211.49.192.187:9981/stream/channelid/1247294181
-#EXTINF:-1 group-title="FHD",OBS
-http://211.49.192.187:9981/stream/channelid/1572886407
-
-
-#EXTINF:-1 group-title="FHD",캐치온1
-#EXTINF:-1 group-title="FHD",캐치온2
-#EXTINF:-1 group-title="FHD",스크린
-#EXTINF:-1 group-title="FHD",채널CGV
-http://211.49.192.187:9981/stream/channelid/1717693819
-#EXTINF:-1 group-title="FHD",OCN
-http://211.49.192.187:9981/stream/channelid/21575565
-#EXTINF:-1 group-title="FHD",슈퍼액션
-#EXTINF:-1 group-title="FHD",FOX
-#EXTINF:-1 group-title="FHD",mplex
-http://211.49.192.187:9981/stream/channelid/1602358446
-#EXTINF:-1 group-title="FHD",cineF
-#EXTINF:-1 group-title="FHD",THE MOVIE
-#EXTINF:-1 group-title="FHD",AXN
-#EXTINF:-1 group-title="FHD",INSIGHT TV
-#EXTINF:-1 group-title="FHD",FX
-#EXTINF:-1 group-title="FHD",tvN
-http://211.49.192.187:9981/stream/channelid/1566451343
-
-
-#EXTINF:-1 group-title="FHD",NGC
-#EXTINF:-1 group-title="FHD",Da Vinci Learning
-#EXTINF:-1 group-title="FHD",디스커버리채널
-#EXTINF:-1 group-title="FHD",Discovery Science
-#EXTINF:-1 group-title="FHD",NatGeo People
-#EXTINF:-1 group-title="FHD",NatGeo Wild
-#EXTINF:-1 group-title="FHD",BBC Earth
-http://211.49.192.187:9981/stream/channelid/1020403846
-#EXTINF:-1 group-title="FHD",HGTV
-#EXTINF:-1 group-title="FHD",Outdoor Channel
-#EXTINF:-1 group-title="FHD",Animal Planet
-#EXTINF:-1 group-title="FHD",Sundance Channel
-
-
-#EXTINF:-1 group-title="FHD",Extreme Fun
-#EXTINF:-1 group-title="FHD",E! Entertainment
-#EXTINF:-1 group-title="FHD",TV5MONDE
-#EXTINF:-1 group-title="FHD",BET
-#EXTINF:-1 group-title="FHD",AMC
-
-
-#EXTINF:-1 group-title="FHD",BBC WN
-#EXTINF:-1 group-title="FHD",CNN International
-#EXTINF:-1 group-title="FHD",CNN US
-#EXTINF:-1 group-title="FHD",CNBC
-#EXTINF:-1 group-title="FHD",Fox News
-#EXTINF:-1 group-title="FHD",Euro News
-#EXTINF:-1 group-title="FHD",Australia Plus
-#EXTINF:-1 group-title="FHD",Bloomberg
-#EXTINF:-1 group-title="FHD",mesiacorp
-
-#EXTINF:-1 group-title="FHD",DW-TV Asia+
-#EXTINF:-1 group-title="FHD",Channel News Asia
-#EXTINF:-1 group-title="FHD",CCTV4
-#EXTINF:-1 group-title="FHD",CGTN
-#EXTINF:-1 group-title="FHD",NHK WP
-#EXTINF:-1 group-title="FHD",NHK World TV
-#EXTINF:-1 group-title="FHD",아리랑 TV
-
-#EXTINF:-1 group-title="FHD",History
-#EXTINF:-1 group-title="FHD",다큐원
-#EXTINF:-1 group-title="FHD",Lifetime
-
-
-#EXTINF:-1 group-title="FHD",O tvN
-http://211.49.192.187:9981/stream/channelid/1274658293
-#EXTINF:-1 group-title="FHD",XtvN
-http://211.49.192.187:9981/stream/channelid/1138841890
-#EXTINF:-1 group-title="FHD",JTBC2
-http://211.49.192.187:9981/stream/channelid/1488065784
-#EXTINF:-1 group-title="FHD",JTBC4
-#EXTINF:-1 group-title="FHD",SBS Plus
-http://211.49.192.187:9981/stream/channelid/1946560263
-#EXTINF:-1 group-title="FHD",KBS DRAMA
-http://211.49.192.187:9981/stream/channelid/815901102
-#EXTINF:-1 group-title="FHD",KBS W
-http://211.49.192.187:9981/stream/channelid/189029907
-#EXTINF:-1 group-title="FHD",MBC Dramanet
-http://211.49.192.187:9981/stream/channelid/122238777
-#EXTINF:-1 group-title="FHD",SkyDrama
-#EXTINF:-1 group-title="FHD",드라마H
-#EXTINF:-1 group-title="FHD",드라마큐브
-#EXTINF:-1 group-title="FHD",드라맥스
-#EXTINF:-1 group-title="FHD",HQ+
-#EXTINF:-1 group-title="FHD",Mnet
-http://211.49.192.187:9981/stream/channelid/1962817568
-#EXTINF:-1 group-title="FHD",SBS MTV
-http://211.49.192.187:9981/stream/channelid/1500508430
-
-
-#EXTINF:-1 group-title="FHD",SkyPetPark
-#EXTINF:-1 group-title="FHD",코미디TV
-#EXTINF:-1 group-title="FHD",SBS funE
-http://211.49.192.187:9981/stream/channelid/1634872100
-#EXTINF:-1 group-title="FHD",KBS JOY
-http://211.49.192.187:9981/stream/channelid/187614403
-#EXTINF:-1 group-title="FHD",MBC Every1
-http://211.49.192.187:9981/stream/channelid/1459392362
-#EXTINF:-1 group-title="FHD",MBC MUSIC
-http://211.49.192.187:9981/stream/channelid/1191236794
-#EXTINF:-1 group-title="FHD",SkyENT
-#EXTINF:-1 group-title="FHD",온스타일
-http://211.49.192.187:9981/stream/channelid/877539604
-#EXTINF:-1 group-title="FHD",올리브
-http://211.49.192.187:9981/stream/channelid/1182403199
-#EXTINF:-1 group-title="FHD",E채널
-#EXTINF:-1 group-title="FHD",K STAR
-http://211.49.192.187:9981/stream/channelid/1229597837
-#EXTINF:-1 group-title="FHD",Fashion N
-#EXTINF:-1 group-title="FHD",ONT
-#EXTINF:-1 group-title="FHD",Life U
-#EXTINF:-1 group-title="FHD",동아TV
-
-
-#EXTINF:-1 group-title="FHD",CBeebies
-#EXTINF:-1 group-title="FHD",카툰네트워크
-#EXTINF:-1 group-title="FHD",Dream Works Channel
-#EXTINF:-1 group-title="FHD",Disney Channel
-http://211.49.192.187:9981/stream/channelid/197795640
-#EXTINF:-1 group-title="FHD",디즈니주니어
-http://211.49.192.187:9981/stream/channelid/2064352353
-#EXTINF:-1 group-title="FHD",니켈로디언
-#EXTINF:-1 group-title="FHD",애니플러스
-#EXTINF:-1 group-title="FHD",Tooniverse
-http://211.49.192.187:9981/stream/channelid/1512134047
-#EXTINF:-1 group-title="FHD",ANIMAX
-#EXTINF:-1 group-title="FHD",애니원
-#EXTINF:-1 group-title="FHD",애니박스
-#EXTINF:-1 group-title="FHD",부메랑
-#EXTINF:-1 group-title="FHD",대교 어린이TV
-#EXTINF:-1 group-title="FHD",JEI 재능TV
-#EXTINF:-1 group-title="FHD",키즈원
-#EXTINF:-1 group-title="FHD",KBS kids
-#EXTINF:-1 group-title="FHD",EBS kids
-
-
-#EXTINF:-1 group-title="FHD",연합뉴스TV
-#EXTINF:-1 group-title="FHD",YTN
-http://211.49.192.187:9981/stream/channelid/1673202635
-#EXTINF:-1 group-title="FHD",MBN
-http://211.49.192.187:9981/stream/channelid/1387527714
-#EXTINF:-1 group-title="FHD",채널A
-http://211.49.192.187:9981/stream/channelid/1018998684
-#EXTINF:-1 group-title="FHD",TV조선
-http://211.49.192.187:9981/stream/channelid/1487328102
+#EXTINF:-1 group-title="Japan",WOWOW Prime
+p2p://42.116.8.235:9906/58a5392e0002c7c4002ac29183837fd2.ts
+#EXTINF:-1 group-title="Japan",WOWOW LIVE
+p2p://42.116.8.235:9906/58a5392e0003e4bb002ac2dabf089536.ts
+#EXTINF:-1 group-title="Japan",WOWOW Cinema
+p2p://42.116.8.235:9906/58a539430002689c002b14812e669781.ts
+#EXTINF:-1 group-title="Japan",Kanto NHK G
+p2p://42.116.8.235:9906/58a5392d0001aa85002abe600ca49985.ts
+#EXTINF:-1 group-title="Japan"
+#EXTINF:-1 group-title="Japan",Kanto NHK E
+p2p:///42.116.8.235:9906/58a5392c000e67e3002abdbb5a71470a.ts
+#EXTINF:-1 group-title="Japan",Kanto NTV
+p2p://42.116.8.235:9906/58a5392d00041645002abeff37b11a82.ts
+#EXTINF:-1 group-title="Japan",Kanto TV ASAHI
+p2p://42.116.8.235:9906/58a5392d00069e03002abfa5090323e4.ts
+#EXTINF:-1 group-title="Japan",Kanto TBS
+p2p://42.116.8.235:9906/58a5392d0007dba6002abff6d3208d98.ts
+#EXTINF:-1 group-title="Japan",Kanto TV TOKYO
+p2p://42.116.8.235:9906/58a5392d0009115f002ac0451a57c533.ts
+#EXTINF:-1 group-title="Japan",Kanto Fuji TV
+p2p://42.116.8.235:9906/58a5392d000a41c1002ac09360fc60d3.ts
+#EXTINF:-1 group-title="Japan",Kanto TOKYO MX
+p2p://42.116.8.235:9906/58a5392d000b72de002ac0e105d2fb01.ts
+#EXTINF:-1 group-title="Japan",Kansai NHK G
+p2p://42.116.8.235:9906/58a5394d000b1a24002b3dcb8d453cb0.ts
+#EXTINF:-1 group-title="Japan",Kansai ytv
+p2p://42.116.8.235:9906/58a5394d000c504a002b3e1a5cc7cedc.ts
+#EXTINF:-1 group-title="Japan",Kansai MBS
+p2p://42.116.8.235:9906/58a5394d000d83a9002b3e6900af7e7b.ts
+#EXTINF:-1 group-title="Japan",Kansai KTV
+p2p://42.116.8.235:9906/58a5394d000eb2f2002b3eb6df9d9857.ts
+#EXTINF:-1 group-title="Japan",Kansai ABC
+p2p://42.116.8.235:9906/58a5394e0000a372002b3f0559fc8ee0.ts
+#EXTINF:-1 group-title="Japan",Kansai TVO
+p2p://42.116.8.235:9906/58a53961000104d2002b89564a682c3a.ts
+#EXTINF:-1 group-title="Japan",Kansai SUN
+p2p://42.116.8.235:9906/58a5396100029b0c002b89bee6749240.ts
+#EXTINF:-1 group-title="Japan",BS NHK BS1
+p2p://42.116.8.235:9906/58a53943000799cf002b15d54858eb15.ts
+#EXTINF:-1 group-title="Japan",BS NHK Premium
+p2p://42.116.8.235:9906/58a539430008c7dd002b1622b1407627.ts
+#EXTINF:-1 group-title="Japan",BS NTV
+p2p://42.116.8.235:9906/58a5392d000ca2ad002ac12f9eb03609.ts
+#EXTINF:-1 group-title="Japan",BS Asahi
+p2p://42.116.8.235:9906/58a5392d0002e6bd002abeb1fec80a72.ts
+#EXTINF:-1 group-title="Japan",BS TBS
+p2p://42.116.8.235:9906/58a5392d000dccd7002ac17b52f1bba2.ts
+#EXTINF:-1 group-title="Japan",BS JAPAN
+p2p://42.116.8.235:9906/58a5392d000ef59a002ac1c7c8011c2d.ts
+#EXTINF:-1 group-title="Japan",BS FUJI
+p2p://42.116.8.235:9906/58a5392e00010053002ac21d0512ecfc.ts
+#EXTINF:-1 group-title="Japan",BS SKY PerfecTV!
+p2p://42.116.8.235:9906/58a53943000b1ac6002b16bb3315f622.ts
+#EXTINF:-1 group-title="Japan",BS GREEN
+p2p://42.116.8.235:9906/58a53943000c544e002b170b918f4cb4.ts
+#EXTINF:-1 group-title="Japan",BS ANIMAX
+p2p://42.116.8.235:9906/58a53943000d79f7002b1756ced71dc2.ts
+#EXTINF:-1 group-title="Japan",Disney
+p2p://42.116.8.235:9906/58a53943000ea208002b17a252420d66.ts
+#EXTINF:-1 group-title="Japan",KIDS STATION
+p2p://42.116.8.235:9906/58a5394d00049c5c002b3c211aca01d4.ts
+#EXTINF:-1 group-title="Japan",STAR CHANNEL1
+p2p://42.116.8.235:9906/58a539430002fe14002b14a7eb471e8d.ts
+#EXTINF:-1 group-title="Japan",J sports 1
+p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
+#EXTINF:-1 group-title="Japan",J sports 2
+p2p://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts
+#EXTINF:-1 group-title="Japan",J sports 3
+p2p://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts
+#EXTINF:-1 group-title="Japan",J sports 4
+p2p://42.116.8.235:9906/58a53943000670d5002b1589b06c7433.ts
+#EXTINF:-1 group-title="Japan",CS Nihon Eiga
+p2p://42.116.8.235:9906/58a53944000083f6002b17ed723913d2.ts
+#EXTINF:-1 group-title="Japan",SKY A Sports+
+p2p://42.116.8.235:9906/58a539440003fd33002b18d05e6a454b.ts
+#EXTINF:-1 group-title="Japan",CS NTV G+
+p2p://42.116.8.235:9906/58a53944000516d6002b1918d59277ae.ts
+#EXTINF:-1 group-title="Japan",GOLF NETWORK
+p2p://42.116.8.235:9906/58a5394c000dd909002b3a96b312dab8.ts
+#EXTINF:-1 group-title="Japan",CS JIDAIGEKI
+p2p://42.116.8.235:9906/58a5394c000e5a50002b3ab895754d59.ts
+#EXTINF:-1 group-title="Japan",CS Homedrama ch
+p2p://42.116.8.235:9906/58a5394d00014080002b3b45f14147a5.ts
+#EXTINF:-1 group-title="Japan",Music JAPAN
+p2p://42.116.8.235:9906/58a5394d000258ec002b3b8db66a5327.ts
+#EXTINF:-1 group-title="Japan",Discovery
+p2p://42.116.8.235:9906/58a5394d0005b3ef002b3c6936289c18.ts
+#EXTINF:-1 group-title="Japan",History
+p2p://42.116.8.235:9906/58a5394d0006c60d002b3caf5aeb69cd.ts
+#EXTINF:-1 group-title="Japan",NAT GEO
+p2p://42.116.8.235:9906/58a5394d0007da09002b3cf6ceb48c78.ts
+#EXTINF:-1 group-title="Japan",CS TBS News bird
+p2p://42.116.8.235:9906/58a5394d0008eaaf002b3d3b91fd3936.ts
+#EXTINF:-1 group-title="Japan",TABI CHANNEL
+p2p://42.116.8.235:9906/58a5394d000a0502002b3d84119d3d96.ts
