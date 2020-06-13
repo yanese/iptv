@@ -197,9 +197,9 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=658
 #EXTINF:-1,텔레노벨라
 
 
-#EXTINF:-1,OGN
+#EXTINF:-1 tvg-id="153",OGN
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=681
-#EXTINF:-1 group-title="Sports",SPOTV GAMES
+#EXTINF:-1,SPOTV GAMES
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=727
 
 
@@ -209,8 +209,8 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=727
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=667
 #EXTINF:-1 group-title="Sports",SPOTV2
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=383
-#EXTINF:-1 tvg-id="VIDEOPORTAL|381" tvg-name="VIDEOPORTAL|SPOTV3" tvg-logo="http://210.182.60.11/image/SPOTV3_H180904.png" group-title="Sports",SPOTV3
-#EXTINF:-1 tvg-id="VIDEOPORTAL|382" tvg-name="VIDEOPORTAL|SPOTV4" tvg-logo="http://210.182.60.11/image/SPOTV4_H180904.png" group-title="Sports",SPOTV4
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/SPOTV3_H180904.png" group-title="Sports",SPOTV3
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/SPOTV4_H180904.png" group-title="Sports",SPOTV4
 #EXTINF:-1 group-title="Sports",SPOTV+
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
 #EXTINF:-1 group-title="Sports",JTBC3
