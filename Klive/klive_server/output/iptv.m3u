@@ -97,7 +97,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=689
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=671
 #EXTINF:-1,JTBC2
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=606
-#EXTINF:-1,JTBC4
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/JTBC4_H180829.png",JTBC4
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=767
 #EXTINF:-1,SBS Plus
 http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S03
