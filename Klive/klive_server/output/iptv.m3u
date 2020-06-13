@@ -142,10 +142,6 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=648
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=690
 #EXTINF:-1 tvg-id="KBS|14" tvg-name="KBS|KBS WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlenZe09cUHWE6aM7PVAB1MJYjYKLjF7x7PJk--rPkCrBLUZl",KBS WORLD
 http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=14
-#EXTINF:-1 tvg-id="MBC|03" tvg-name="MBC|MBC 나혼자산다24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HzbVfZW4zwKSDJexXYImuq_JME1A8eIgYVUq8waeiCnD-bplwg",MBC 나혼자산다24
-http://gentech.iptime.org:9979/url?mode=url&type=MBC&id=03
-#EXTINF:-1 tvg-id="MBC|02" tvg-name="MBC|MBC 무한도전24" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/pooqmudo_730x411.jpg",MBC 무한도전24
-http://gentech.iptime.org:9979/url?mode=url&type=MBC&id=02
 
 
 #EXTINF:-1,CBeebies
@@ -181,6 +177,8 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=175
 #EXTINF:-1,Mnet
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=687
 #EXTINF:-1,CUBE TV
+#EXTINF:-1 tvg-id="SBS|S09" tvg-name="SBS|SBS MTV" tvg-logo="http://i.imgur.com/OeSJ9Ik.png",SBS MTV
+http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S09
 
 
 #EXTINF:-1,대교 상상Kids
@@ -218,6 +216,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
 #EXTINF:-1 group-title="Sports",JTBC3
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=795
 #EXTINF:-1 tvg-id="SBS|S02" tvg-name="SBS|SBS Sports" group-title="Sports",SBS Sports
+http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S02
 #EXTINF:-1 tvg-id="VIDEOPORTAL|397" tvg-name="VIDEOPORTAL|MLB1" tvg-logo="http://210.182.60.11/image/MLB1_H160721.png" group-title="Sports",MLB1
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=397
 #EXTINF:-1 tvg-id="VIDEOPORTAL|398" tvg-name="VIDEOPORTAL|MLB2" tvg-logo="http://210.182.60.11/image/MLB2_H160721.png" group-title="Sports",MLB2
@@ -230,6 +229,13 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=614
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=602
 #EXTINF:-1 group-title="Sports" group-title="Sports",The Golf Channel
 #EXTINF:-1 group-title="Sports" group-title="Sports",IB SPORTS
+#EXTINF:-1 tvg-id="VIDEOPORTAL|650" tvg-name="VIDEOPORTAL|스포티비 골프 앤 헬스" tvg-logo="http://210.182.60.11/image/SPOTVGnH_H200506.png
+" group-title="Sports",스포티비 골프 앤 헬스
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
+#EXTINF:-1 tvg-id="VIDEOPORTAL|795" tvg-name="VIDEOPORTAL|JTBC골프앤스포츠" tvg-logo="http://210.182.60.11/image/JTBCGolfnsports_H20
+0317.png" group-title="Sports",JTBC골프앤스포츠
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=795
+
 
 #EXTINF:-1 group-title="Sports" group-title="Sports",빌리어즈티비
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=668
@@ -277,98 +283,30 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=794
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=688
 
 
-#EXTINF:-1 group-title="Japan",WOWOW Prime
-p2p://42.116.8.235:9906/58a5392e0002c7c4002ac29183837fd2.ts
-#EXTINF:-1 group-title="Japan",WOWOW LIVE
-p2p://42.116.8.235:9906/58a5392e0003e4bb002ac2dabf089536.ts
-#EXTINF:-1 group-title="Japan",WOWOW Cinema
-p2p://42.116.8.235:9906/58a539430002689c002b14812e669781.ts
-#EXTINF:-1 group-title="Japan",Kanto NHK G
-p2p://42.116.8.235:9906/58a5392d0001aa85002abe600ca49985.ts
-#EXTINF:-1 group-title="Japan"
-#EXTINF:-1 group-title="Japan",Kanto NHK E
-p2p:///42.116.8.235:9906/58a5392c000e67e3002abdbb5a71470a.ts
-#EXTINF:-1 group-title="Japan",Kanto NTV
-p2p://42.116.8.235:9906/58a5392d00041645002abeff37b11a82.ts
-#EXTINF:-1 group-title="Japan",Kanto TV ASAHI
-p2p://42.116.8.235:9906/58a5392d00069e03002abfa5090323e4.ts
-#EXTINF:-1 group-title="Japan",Kanto TBS
-p2p://42.116.8.235:9906/58a5392d0007dba6002abff6d3208d98.ts
-#EXTINF:-1 group-title="Japan",Kanto TV TOKYO
-p2p://42.116.8.235:9906/58a5392d0009115f002ac0451a57c533.ts
-#EXTINF:-1 group-title="Japan",Kanto Fuji TV
-p2p://42.116.8.235:9906/58a5392d000a41c1002ac09360fc60d3.ts
-#EXTINF:-1 group-title="Japan",Kanto TOKYO MX
-p2p://42.116.8.235:9906/58a5392d000b72de002ac0e105d2fb01.ts
-#EXTINF:-1 group-title="Japan",Kansai NHK G
-p2p://42.116.8.235:9906/58a5394d000b1a24002b3dcb8d453cb0.ts
-#EXTINF:-1 group-title="Japan",Kansai ytv
-p2p://42.116.8.235:9906/58a5394d000c504a002b3e1a5cc7cedc.ts
-#EXTINF:-1 group-title="Japan",Kansai MBS
-p2p://42.116.8.235:9906/58a5394d000d83a9002b3e6900af7e7b.ts
-#EXTINF:-1 group-title="Japan",Kansai KTV
-p2p://42.116.8.235:9906/58a5394d000eb2f2002b3eb6df9d9857.ts
-#EXTINF:-1 group-title="Japan",Kansai ABC
-p2p://42.116.8.235:9906/58a5394e0000a372002b3f0559fc8ee0.ts
-#EXTINF:-1 group-title="Japan",Kansai TVO
-p2p://42.116.8.235:9906/58a53961000104d2002b89564a682c3a.ts
-#EXTINF:-1 group-title="Japan",Kansai SUN
-p2p://42.116.8.235:9906/58a5396100029b0c002b89bee6749240.ts
-#EXTINF:-1 group-title="Japan",BS NHK BS1
-p2p://42.116.8.235:9906/58a53943000799cf002b15d54858eb15.ts
-#EXTINF:-1 group-title="Japan",BS NHK Premium
-p2p://42.116.8.235:9906/58a539430008c7dd002b1622b1407627.ts
-#EXTINF:-1 group-title="Japan",BS NTV
-p2p://42.116.8.235:9906/58a5392d000ca2ad002ac12f9eb03609.ts
-#EXTINF:-1 group-title="Japan",BS Asahi
-p2p://42.116.8.235:9906/58a5392d0002e6bd002abeb1fec80a72.ts
-#EXTINF:-1 group-title="Japan",BS TBS
-p2p://42.116.8.235:9906/58a5392d000dccd7002ac17b52f1bba2.ts
-#EXTINF:-1 group-title="Japan",BS JAPAN
-p2p://42.116.8.235:9906/58a5392d000ef59a002ac1c7c8011c2d.ts
-#EXTINF:-1 group-title="Japan",BS FUJI
-p2p://42.116.8.235:9906/58a5392e00010053002ac21d0512ecfc.ts
-#EXTINF:-1 group-title="Japan",BS SKY PerfecTV!
-p2p://42.116.8.235:9906/58a53943000b1ac6002b16bb3315f622.ts
-#EXTINF:-1 group-title="Japan",BS GREEN
-p2p://42.116.8.235:9906/58a53943000c544e002b170b918f4cb4.ts
-#EXTINF:-1 group-title="Japan",BS ANIMAX
-p2p://42.116.8.235:9906/58a53943000d79f7002b1756ced71dc2.ts
-#EXTINF:-1 group-title="Japan",Disney
-p2p://42.116.8.235:9906/58a53943000ea208002b17a252420d66.ts
-#EXTINF:-1 group-title="Japan",KIDS STATION
-p2p://42.116.8.235:9906/58a5394d00049c5c002b3c211aca01d4.ts
-#EXTINF:-1 group-title="Japan",STAR CHANNEL1
-p2p://42.116.8.235:9906/58a539430002fe14002b14a7eb471e8d.ts
-#EXTINF:-1 group-title="Japan",J sports 1
-p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
-#EXTINF:-1 group-title="Japan",J sports 2
-p2p://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts
-#EXTINF:-1 group-title="Japan",J sports 3
-p2p://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts
-#EXTINF:-1 group-title="Japan",J sports 4
-p2p://42.116.8.235:9906/58a53943000670d5002b1589b06c7433.ts
-#EXTINF:-1 group-title="Japan",CS Nihon Eiga
-p2p://42.116.8.235:9906/58a53944000083f6002b17ed723913d2.ts
-#EXTINF:-1 group-title="Japan",SKY A Sports+
-p2p://42.116.8.235:9906/58a539440003fd33002b18d05e6a454b.ts
-#EXTINF:-1 group-title="Japan",CS NTV G+
-p2p://42.116.8.235:9906/58a53944000516d6002b1918d59277ae.ts
-#EXTINF:-1 group-title="Japan",GOLF NETWORK
-p2p://42.116.8.235:9906/58a5394c000dd909002b3a96b312dab8.ts
-#EXTINF:-1 group-title="Japan",CS JIDAIGEKI
-p2p://42.116.8.235:9906/58a5394c000e5a50002b3ab895754d59.ts
-#EXTINF:-1 group-title="Japan",CS Homedrama ch
-p2p://42.116.8.235:9906/58a5394d00014080002b3b45f14147a5.ts
-#EXTINF:-1 group-title="Japan",Music JAPAN
-p2p://42.116.8.235:9906/58a5394d000258ec002b3b8db66a5327.ts
-#EXTINF:-1 group-title="Japan",Discovery
-p2p://42.116.8.235:9906/58a5394d0005b3ef002b3c6936289c18.ts
-#EXTINF:-1 group-title="Japan",History
-p2p://42.116.8.235:9906/58a5394d0006c60d002b3caf5aeb69cd.ts
-#EXTINF:-1 group-title="Japan",NAT GEO
-p2p://42.116.8.235:9906/58a5394d0007da09002b3cf6ceb48c78.ts
-#EXTINF:-1 group-title="Japan",CS TBS News bird
-p2p://42.116.8.235:9906/58a5394d0008eaaf002b3d3b91fd3936.ts
-#EXTINF:-1 group-title="Japan",TABI CHANNEL
-p2p://42.116.8.235:9906/58a5394d000a0502002b3d84119d3d96.ts
+#EXTINF:-1 tvg-id="VIDEOPORTAL|676" tvg-name="VIDEOPORTAL|GS샵" tvg-logo="http://210.182.60.11/image/GSSHOP_H160721.png" g
+roup-title="Home Shopping",GS샵
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=676
+#EXTINF:-1 tvg-id="VIDEOPORTAL|675" tvg-name="VIDEOPORTAL|현대홈쇼핑" tvg-logo="http://210.182.60.11/image/HDSHOP_H160721.png" gro
+up-title="Home Shopping",현대홈쇼핑
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=675
+#EXTINF:-1 tvg-id="VIDEOPORTAL|672" tvg-name="VIDEOPORTAL|CJ오쇼핑" tvg-logo="http://210.182.60.11/image/CJOSHOP_H160721.png"
+group-title="Home Shopping",CJ오쇼핑
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=672
+#EXTINF:-1 tvg-id="VIDEOPORTAL|674" tvg-name="VIDEOPORTAL|롯데홈쇼핑" tvg-logo="http://210.182.60.11/image/LOTTESHOP_H160721.png"
+group-title="Home Shopping",롯데홈쇼핑
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=674
+#EXTINF:-1 tvg-id="VIDEOPORTAL|673" tvg-name="VIDEOPORTAL|NS홈쇼핑" tvg-logo="http://210.182.60.11/image/NSSHOP_H160721.png" g
+roup-title="Home Shopping",NS홈쇼핑
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=673
+#EXTINF:-1 tvg-id="VIDEOPORTAL|649" tvg-name="VIDEOPORTAL|홈앤쇼핑" tvg-logo="http://210.182.60.11/image/HomeNSHOP_H160721.png"
+group-title="Home Shopping",홈앤쇼핑
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=649
+#EXTINF:-1 tvg-id="VIDEOPORTAL|740" tvg-name="VIDEOPORTAL|GS마이샵" tvg-logo="http://210.182.60.11/image/GSmyshop_H160721.png"
+ group-title="Home Shopping",GS마이샵
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=740
+#EXTINF:-1 tvg-id="VIDEOPORTAL|760" tvg-name="VIDEOPORTAL|현대홈쇼핑+샵" tvg-logo="http://210.182.60.11/image/HDplusShop_H160922.png
+" group-title="Home Shopping",현대홈쇼핑+샵
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=760
+#EXTINF:-1 tvg-id="VIDEOPORTAL|813" tvg-name="VIDEOPORTAL|W 쇼핑" tvg-logo="http://210.182.60.11/image/WShopping_H181008.png
+" group-title="Home Shopping",W 쇼핑
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=813
