@@ -7,6 +7,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=12
 #EXTINF:-1,KBS1
 http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=11
 #EXTINF:-1,MBC
+http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=385
 #EXTINF:-1,JTBC
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=747
 #EXTINF:-1,OBS
@@ -62,9 +63,9 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=174
 #EXTINF:-1,다큐원
 
 
-#EXTINF:-1 tvg-id="POOQ|H02" tvg-name="POOQ|PLAYY 프리미엄 영화" tvg-logo="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile21.uf.tistory.com%2Fimage%2F025A993E51909BF401BA24",PLAYY 프리미엄
+#EXTINF:-1 tvg-logo="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile21.uf.tistory.com%2Fimage%2F025A993E51909BF401BA24",PLAYY 프리미엄
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=391
-#EXTINF:-1 tvg-id="POOQ|H01" tvg-name="POOQ|PLAYY 웰메이드 영화" tvg-logo="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile21.uf.tistory.com%2Fimage%2F025A993E51909BF401BA24",PLAYY 웰메이드
+#EXTINF:-1 tvg-logo="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile21.uf.tistory.com%2Fimage%2F025A993E51909BF401BA24",PLAYY 웰메이드
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=392
 #EXTINF:-1 tvg-id="POOQ|H07" tvg-name="POOQ|PLAYY 액션영화",PLAYY 액션 영화
 #EXTINF:-1,PLAYY 힐링 영화
@@ -140,7 +141,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=389
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=648
 #EXTINF:-1,DIA TV
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=690
-#EXTINF:-1 tvg-id="KBS|14" tvg-name="KBS|KBS WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlenZe09cUHWE6aM7PVAB1MJYjYKLjF7x7PJk--rPkCrBLUZl",KBS WORLD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlenZe09cUHWE6aM7PVAB1MJYjYKLjF7x7PJk--rPkCrBLUZl",KBS WORLD
 http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=14
 
 
@@ -162,7 +163,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=761
 #EXTINF:-1,JEI 재능TV
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OLSh-nSIq47qwai4NcrQVDhWcpL7p35okAHz0bwxh_V3Swra7eroIN_ohNsuyphs4Q",bravo kids
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=728
-#EXTINF:-1 tvg-id="KBS|N96" tvg-name="KBS|KBSN KIDS",KBS kids
+#EXTINF:-1,KBS kids
 http://gentech.iptime.org:9979/url?mode=url&type=KBS&id=N96
 #EXTINF:-1,EBS kids
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=607
@@ -177,7 +178,7 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=175
 #EXTINF:-1,Mnet
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=687
 #EXTINF:-1,CUBE TV
-#EXTINF:-1 tvg-id="SBS|S09" tvg-name="SBS|SBS MTV" tvg-logo="http://i.imgur.com/OeSJ9Ik.png",SBS MTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OeSJ9Ik.png",SBS MTV
 http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S09
 
 
@@ -196,12 +197,11 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=658
 #EXTINF:-1,텔레노벨라
 
 
-#EXTINF:-1 tvg-id="VIDEOPORTAL|681" tvg-name="VIDEOPORTAL|OGN" group-title="Sports",OGN
+#EXTINF:-1,OGN
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=681
 #EXTINF:-1 group-title="Sports",SPOTV GAMES
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=727
-#EXTINF:-1 tvg-id="VIDEOPORTAL|385" tvg-name="VIDEOPORTAL|LCK 특별채널" tvg-logo="http://210.182.60.11/image/LCK_H190702.png" group-title="Sports",LCK 특별채널
-http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=385
+
 
 #EXTINF:-1 group-title="Sports",Euro sport
 #EXTINF:-1 group-title="Sports",Star Sports
@@ -215,25 +215,23 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=383
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
 #EXTINF:-1 group-title="Sports",JTBC3
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=795
-#EXTINF:-1 tvg-id="SBS|S02" tvg-name="SBS|SBS Sports" group-title="Sports",SBS Sports
+#EXTINF:-1 group-title="Sports",SBS Sports
 http://gentech.iptime.org:9979/url?mode=url&type=SBS&id=S02
-#EXTINF:-1 tvg-id="VIDEOPORTAL|397" tvg-name="VIDEOPORTAL|MLB1" tvg-logo="http://210.182.60.11/image/MLB1_H160721.png" group-title="Sports",MLB1
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/MLB1_H160721.png" group-title="Sports",MLB1
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=397
-#EXTINF:-1 tvg-id="VIDEOPORTAL|398" tvg-name="VIDEOPORTAL|MLB2" tvg-logo="http://210.182.60.11/image/MLB2_H160721.png" group-title="Sports",MLB2
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/MLB2_H160721.png" group-title="Sports",MLB2
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=398
-#EXTINF:-1 tvg-id="VIDEOPORTAL|399" tvg-name="VIDEOPORTAL|MLB3" tvg-logo="http://210.182.60.11/image/MLB3_H160721.png" group-title="Sports",MLB3
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/MLB3_H160721.png" group-title="Sports",MLB3
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=399
-#EXTINF:-1 tvg-id="SBS|S05" tvg-name="SBS|SBS Golf" group-title="Sports",SBS Golf
+#EXTINF:-1 group-title="Sports",SBS GOLF
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=614
 #EXTINF:-1 group-title="Sports" group-title="Sports",JTBC Golf
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=602
 #EXTINF:-1 group-title="Sports" group-title="Sports",The Golf Channel
 #EXTINF:-1 group-title="Sports" group-title="Sports",IB SPORTS
-#EXTINF:-1 tvg-id="VIDEOPORTAL|650" tvg-name="VIDEOPORTAL|스포티비 골프 앤 헬스" tvg-logo="http://210.182.60.11/image/SPOTVGnH_H200506.png
-" group-title="Sports",스포티비 골프 앤 헬스
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/SPOTVGnH_H200506.png" group-title="Sports",SPOTV Golf & Health
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=650
-#EXTINF:-1 tvg-id="VIDEOPORTAL|795" tvg-name="VIDEOPORTAL|JTBC골프앤스포츠" tvg-logo="http://210.182.60.11/image/JTBCGolfnsports_H20
-0317.png" group-title="Sports",JTBC골프앤스포츠
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/JTBCGolfnsports_H200317.png" group-title="Sports",JTBC Golf
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=795
 
 
@@ -283,30 +281,21 @@ http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=794
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=688
 
 
-#EXTINF:-1 tvg-id="VIDEOPORTAL|676" tvg-name="VIDEOPORTAL|GS샵" tvg-logo="http://210.182.60.11/image/GSSHOP_H160721.png" g
-roup-title="Home Shopping",GS샵
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/GSSHOP_H160721.png" group-title="Home Shopping",GS SHOP
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=676
-#EXTINF:-1 tvg-id="VIDEOPORTAL|675" tvg-name="VIDEOPORTAL|현대홈쇼핑" tvg-logo="http://210.182.60.11/image/HDSHOP_H160721.png" gro
-up-title="Home Shopping",현대홈쇼핑
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/HDSHOP_H160721.png" group-title="Home Shopping",현대홈쇼핑
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=675
-#EXTINF:-1 tvg-id="VIDEOPORTAL|672" tvg-name="VIDEOPORTAL|CJ오쇼핑" tvg-logo="http://210.182.60.11/image/CJOSHOP_H160721.png"
-group-title="Home Shopping",CJ오쇼핑
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/CJOSHOP_H160721.png" group-title="Home Shopping",CJ오쇼핑
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=672
-#EXTINF:-1 tvg-id="VIDEOPORTAL|674" tvg-name="VIDEOPORTAL|롯데홈쇼핑" tvg-logo="http://210.182.60.11/image/LOTTESHOP_H160721.png"
-group-title="Home Shopping",롯데홈쇼핑
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/LOTTESHOP_H160721.png" group-title="Home Shopping",롯데홈쇼핑
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=674
-#EXTINF:-1 tvg-id="VIDEOPORTAL|673" tvg-name="VIDEOPORTAL|NS홈쇼핑" tvg-logo="http://210.182.60.11/image/NSSHOP_H160721.png" g
-roup-title="Home Shopping",NS홈쇼핑
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/NSSHOP_H160721.png" group-title="Home Shopping",NS홈쇼핑
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=673
-#EXTINF:-1 tvg-id="VIDEOPORTAL|649" tvg-name="VIDEOPORTAL|홈앤쇼핑" tvg-logo="http://210.182.60.11/image/HomeNSHOP_H160721.png"
-group-title="Home Shopping",홈앤쇼핑
+#EXTINF:-1 tvg-id="314" tvg-logo="http://210.182.60.11/image/HomeNSHOP_H160721.png" group-title="Home Shopping",홈&쇼핑
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=649
-#EXTINF:-1 tvg-id="VIDEOPORTAL|740" tvg-name="VIDEOPORTAL|GS마이샵" tvg-logo="http://210.182.60.11/image/GSmyshop_H160721.png"
- group-title="Home Shopping",GS마이샵
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/GSmyshop_H160721.png" group-title="Home Shopping",GS MY SHOP
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=740
-#EXTINF:-1 tvg-id="VIDEOPORTAL|760" tvg-name="VIDEOPORTAL|현대홈쇼핑+샵" tvg-logo="http://210.182.60.11/image/HDplusShop_H160922.png
-" group-title="Home Shopping",현대홈쇼핑+샵
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/HDplusShop_H160922.png" group-title="Home Shopping",현대홈쇼핑+샵
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=760
-#EXTINF:-1 tvg-id="VIDEOPORTAL|813" tvg-name="VIDEOPORTAL|W 쇼핑" tvg-logo="http://210.182.60.11/image/WShopping_H181008.png
-" group-title="Home Shopping",W 쇼핑
+#EXTINF:-1 tvg-logo="http://210.182.60.11/image/WShopping_H181008.png" group-title="Home Shopping",W 쇼핑
 http://gentech.iptime.org:9979/url?mode=url&type=VIDEOPORTAL&id=813
